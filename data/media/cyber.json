@@ -1,5 +1,95 @@
 [
  {
+  "id": "edd7753bcd",
+  "title": "Data breach could affect all California students enrolled since 2023, state warns",
+  "source": "KTLA",
+  "date": "4 hours ago",
+  "first": "2026-11-01T11:48+01:00",
+  "link": "https://ktla.com/news/technology/data-breach-could-affect-all-california-students-enrolled-since-2023-state-warns/",
+  "snippet": "A massive California data breach may have exposed info for every student enrolled since 2023 via contractor ETS."
+ },
+ {
+  "id": "08ad68338b",
+  "title": "GMO’s CEO Kumagai to hold news conference Monday on cyberattack",
+  "source": "The Japan Times",
+  "date": "9 hours ago",
+  "first": "2026-11-01T11:48+01:00",
+  "link": "https://www.japantimes.co.jp/news/2026/11/01/japan/gmo-ceo-kumagai-cyberattack-presser/",
+  "snippet": "GMO Internet Group CEO Masatoshi Kumagai and other executives will hold a news conference in Tokyo on Monday to address a series of unauthorized access..."
+ },
+ {
+  "id": "3247b9e6ab",
+  "title": "Chainalysis Data Breach: 4 Fields Exposed [2026]",
+  "source": "shattered.io",
+  "date": "7 hours ago",
+  "first": "2026-11-01T11:48+01:00",
+  "link": "https://shattered.io/chainalysis-breach-agentic-attack-four-fields-exposed-2026/",
+  "snippet": "Chainalysis data breach: an attacker using offensive agentic techniques exposed names, emails, IDs and roles. What was not touched and what to do."
+ },
+ {
+  "id": "1ead677023",
+  "title": "Binance says it covered 90% of losses in cyberattack",
+  "source": "Anadolu Ajansı",
+  "date": "10 hours ago",
+  "first": "2026-11-01T11:48+01:00",
+  "link": "https://www.google.com/goto?url=CAESkwEB6zswFVDGwpxWYJPDKjSan1tRsesahWXLFaynQ3Lsr2qNMMM3-6kZKfIcQVHFFqQFTw-I0El5K_YaatWyyWdpyJkIe1_65x6mhdNpsKsyJirxUSpEaNMlW-p-gspTTDo_2TEgnLJhXkG01VDia_Vff3mSlKrSIy7K97grIUZNiURtlqBgIyPZgo73gKeflKh-BsA",
+  "snippet": "Cryptocurrency exchange Binance announced that it had covered 90% of the losses from a cyberattack and was continuing purchases through market and..."
+ },
+ {
+  "id": "bd43f87f30",
+  "title": "Richmond schools work with FBI, state police to restore systems after cyberattack",
+  "source": "WTVR.com",
+  "date": "18 hours ago",
+  "first": "2026-11-01T11:48+01:00",
+  "link": "https://www.google.com/goto?url=CAESoQEB6zswFUtgYBc0PBEZ2mY7WN-KX5Ov-X95dJn8s5lV5dHbXeQC6xKd8KBj5zWWBCDFrEBYeTWH-kaEixkm8oulXH8O2Ch3jAZLt1NkEtzyKT6Cix2I8Gu538FV4XcQn11iuPRVv_cG3y5hClSbjdr_nRz0MXv2d6uADglIhsm3TquJvUDQINfl4tKg2a-R2vsN9DnTWqX-jCINN_STko0fHw",
+  "snippet": "The FBI and Virginia State Police are now working with Richmond Public Schools following last week's cybersecurity incident. The district says critical..."
+ },
+ {
+  "id": "7c90efd273",
+  "title": "Capcom Hit by Cyberattack, Data of Over 11 Million Accounts Exposed",
+  "source": "eTeknix",
+  "date": "5 hours ago",
+  "first": "2026-11-01T11:48+01:00",
+  "link": "https://www.google.com/goto?url=CAESlgEB6zswFb12VTD6zFkc2vWN_4pvfoom_s4rubOoCkjr2WNta1sYbcxrkGzYeZDpx6OWzYvrfMQDYBUu79bxfWW2ujv4EIGYDLROXZNSKQJBGDER7grIkYUj609mGc1-5qmRZ-rnsHeKBpLcQJKNsM1qxoHGe9dwD-phaPqnAw2hFOkO7iSvmqGuQ0_Nsw17NNCEOIwpm1Q",
+  "snippet": "Capcom has confirmed that it has suffered a cyberattack that led to the unauthorized release of data from more than 11 million accounts."
+ },
+ {
+  "id": "3c65026ccf",
+  "title": "Hacktober - Cyberattack Wave Hits PHP, Node.js, Binance, LiteLLM, Pentagon, and a Few More",
+  "source": "CyberSecurityNews",
+  "date": "5 hours ago",
+  "first": "2026-11-01T11:48+01:00",
+  "link": "https://www.google.com/goto?url=CAESdAHrOzAVuqlH-pyOlCmfeFrrERYaOCj2PMJEPRsB9HcHb83TkMHW71C24CMNBOm_x76um6-T8ps2XtKYNX1orOfVSsXB4MKvSwrlRXQYqCve_1fjsTJ9zb7zh672EVQVxKiBReZ_5rp_8FGRCPkCZLD_GcWf",
+  "snippet": "October brought a heavy run of cybersecurity disclosures involving cryptocurrency exchanges, web servers, AI tools, software packages, government records,..."
+ },
+ {
+  "id": "7af8f45b82",
+  "title": "CodeSecure Data Breach",
+  "source": "Data Breach Class Action",
+  "date": "16 hours ago",
+  "first": "2026-11-01T11:48+01:00",
+  "link": "https://www.google.com/goto?url=CAESnQEB6zswFcyb7rIwmYJKKpA_kIKRV9eJ8LPYAkOaPy_4jS8VsP-hE07oU2wG5SdIK-KnpzNIhOHK_OeYO6C8JU1aCNo25MlXEBYnp5iDPn5ICLJX4Ss6dx7duDHKs1DYimb9l4XKAFMtLhC_Bpn8Md4mARTJBOkqYWhjXjqC5Gugy12dnnV2H-eUQlKArOoNeYxwf678-KUCLiVtPaF8",
+  "snippet": "Were you affected by the CodeSecure data breach? Your Social Security numbers and medical information may have been exposed."
+ },
+ {
+  "id": "3640291334",
+  "title": "Binance covers 90% of losses after $6.3bn cyberattack",
+  "source": "Latest news from Azerbaijan",
+  "date": "5 hours ago",
+  "first": "2026-11-01T11:48+01:00",
+  "link": "https://www.google.com/goto?url=CAESggEB6zswFd_OSG1o0UfOZEtTm7PjQBRPtXsXBzYzOiWc8JBq7vT1j6aEbmRIi9JJ0Aq9jtPUVFfG1XiBMmunHK87XAAlZrB7H-eWXswyLn9lx7AWpTSI6jbCZntA8zLSK2GrT2f_mcjil-HznPgBk_iVxVcBeb3r6I-VjLkX6y9Q6ZLU",
+  "snippet": "Cryptocurrency exchange Binance said it had covered 90% of losses stemming from a cyberattack, allocating more than $6.34 billion in company funds to..."
+ },
+ {
+  "id": "1be1e48aa2",
+  "title": "Binance says it covered 90% of cyberattack losses as FBI links theft to North Korea",
+  "source": "TRT World",
+  "date": "10 hours ago",
+  "first": "2026-11-01T11:48+01:00",
+  "link": "https://www.google.com/goto?url=CAESaAHrOzAVhMo3JDHO2cH14FxLVfTgm3cvg7JU2JbfKsdALKotifPkw-abg7woF1AYmw0Y7m4A-mUiowQOMXXDoEdc0MWhMBiT_SncHslVP3oNhnPNK5FbRzSwKY-m7y03JR299Zmy7Kx0",
+  "snippet": "The crypto exchange company says the remaining 10% of tokens are \"less liquid, which means they may take longer to source in the required amounts.\""
+ },
+ {
   "id": "c8c1aea308",
   "title": "Bernalillo offers $82,000 to hackers to resolve ransomware attack",
   "source": "KOAT",
