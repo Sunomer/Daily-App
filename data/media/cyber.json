@@ -1,5 +1,95 @@
 [
  {
+  "id": "9a81bea279",
+  "title": "Cyberattack hits Belgian supermarket fridges and freezers",
+  "source": "Euronews.com",
+  "date": "1 hour ago",
+  "first": "2026-11-02T12:41+01:00",
+  "link": "https://www.euronews.com/2026/11/02/cyberattack-hits-belgian-supermarket-fridges-and-freezers",
+  "snippet": "A major cyberattack on Belgian supermarket 40 Delhaize, Carrefour and Spa and other supermarket chain stores has taken place, with €100000 worth of food..."
+ },
+ {
+  "id": "2e0eed2511",
+  "title": "Chainalysis Discloses Data Breach Following AI-Driven Cyberattack",
+  "source": "SecurityWeek",
+  "date": "1 hour ago",
+  "first": "2026-11-02T12:41+01:00",
+  "link": "https://www.securityweek.com/chainalysis-discloses-data-breach-following-ai-driven-cyberattack/",
+  "snippet": "The attackers used offensive agentic techniques to access the company's systems and internal tools. By. Ionut Arghire. / November 2, 2026 (6:27 AM ET)."
+ },
+ {
+  "id": "a7b3ed9206",
+  "title": "Ransomware Alert - Ransomware Attacks Targeting Synology NAS Devices",
+  "source": "Hong Kong Computer Emergency Response Team Coordination Centre",
+  "date": "2 hours ago",
+  "first": "2026-11-02T12:41+01:00",
+  "link": "https://www.hkcert.org/security-bulletin/security-alert-ransomware-attacks-targeting-synology-nas-devices_20261102",
+  "snippet": "A recent wave of ransomware attacks has targeted Synology Network-Attached Storage (NAS) users, encrypting stored data and demanding ransom."
+ },
+ {
+  "id": "e6c0fa588c",
+  "title": "Supermarket freezers across Europe struck in second crippling cyberattack",
+  "source": "Tom's Hardware",
+  "date": "52 minutes ago",
+  "first": "2026-11-02T12:41+01:00",
+  "link": "https://www.google.com/goto?url=CAESnQIB6zswFVZ0AtwKKlpgadP91ApAtQX1y8AYexwbdo1OtEGL72I2MwL2HZ0qdgQLfQCJ_sOfbXcJXFiwldUrsZFNE4ncEbkVKTA5YsTJGWFOZVdneWEYkwxMscY8Yqgw2s3ULvVrRRCPGxTzrf_QMRcqnSiyxb8GAdAjDwvCTMtSc_ss_lTgTHyRdwkiA_hYVaw8FS1YfvDGlgO9FJb2hMxHTzw5dRx_sxK-4THM-jB6lOP01mu1BHZlwgHGIjfrNBsQ4AwuRxAkYZcYaOMvEZ84eZtUzKT0oj17osHJS73BxBIHWmuZOc2J2Y6hr0XpQEjbH6_1IQEzRHeCBTmpfX99vVDVseUxTLuLLAxfd_2520l6jvI7JT0BHDN845g",
+  "snippet": "Just weeks after an 'unprecedented' cyberattack struck supermarket fridges in France, destroying foodstuffs, a similar hack has crippled supermarket chains..."
+ },
+ {
+  "id": "530ae60f9a",
+  "title": "Ransomware gang talked AI agents into doing much of its dirty work",
+  "source": "Help Net Security",
+  "date": "7 hours ago",
+  "first": "2026-11-02T12:41+01:00",
+  "link": "https://www.google.com/goto?url=CAESggEB6zswFdKJxeRVfBg6pnJN6o_dK3-JM03uPqCRWRiuMVQNwbkVE-u2MrkQ6P9Ypy24zLsx_htOdcI68_LJAOyxkwPRnTxJJ5mhw1hkQGJjTprmB-BR0IAcOQix1Yj1QM-q20HEKPHkqt094pNH4If38I-BYXMH9JcNoqgJeRRMIaAP",
+  "snippet": "The group behind Aur0ra ransomware gave AI agents stolen credentials and let them move through victim networks toward domain admin access."
+ },
+ {
+  "id": "b9ae9068eb",
+  "title": "Cyberattack hits Delhaize supermarket fridges, freezers at dozens of Belgium locations",
+  "source": "NL Times",
+  "date": "3 hours ago",
+  "first": "2026-11-02T12:41+01:00",
+  "link": "https://www.google.com/goto?url=CAESqAEB6zswFdJMQADya92ZeBCzVdwhM0qAuigJZogERL10gZoZDWfl5yMI_c7mMQbYDI891kLzngW7Kxe3qi3JAqa5Yl4n4wyiRF7LcT3gGYMMqDJ25h8foM9EGPSmvA_JkRvojTstqiYAj3WWIE68dVZZ_zBlZqW_jQneHhl2FD6Fb5HfWe8XuxqaLXiuXikpViN88I0aHDDYkIBqm2ZBWMyH0bhDYNYAYUo",
+  "snippet": "Freezers and refrigerators at dozens of Delhaize supermarket locations were affected by a cyberattack, Belgian media outlets reported Monday morning."
+ },
+ {
+  "id": "ce410e92ed",
+  "title": "Importance of timely Cyberattack Reporting for Critical Infrastructure",
+  "source": "Cybersecurity Insiders",
+  "date": "5 hours ago",
+  "first": "2026-11-02T12:41+01:00",
+  "link": "https://www.google.com/goto?url=CAESqQEB6zswFd97vy7m9eeFckjKSnISqhmWFo2SdxMPl3EolqrTm_S7cAxXUWt2YkJlo2KiZZoG71a5XvZw1FIVQm_qmd7y7so4ok_fc9MxcECCIyNqOslmG-h0DYPeSLGhW52B421p8YcodBUdMUkGXqBpvgCUhFX2rQXJR0xWa3TRgRMU4hUvZzyITa3_4YgXzqQRO3mhk2bnJ4hcIeeWjwgKgjZMXSGH3kJg",
+  "snippet": "Cyberattacks targeting critical infrastructure have become a significant threat to national security, public safety, and economic stability."
+ },
+ {
+  "id": "b62f9906be",
+  "title": "A hacker is selling Mass. prisoners’ medical records. They told us how and why they stole them",
+  "source": "MassLive.com",
+  "date": "1 hour ago",
+  "first": "2026-11-02T12:41+01:00",
+  "link": "https://www.google.com/goto?url=CAESwgEB6zswFWQXGFW7JoBOdii7i7x9n0cDYEYi-5nMFAD-ZSEGFHet_f6KEV8CkIwx2nVsd-GQPigChFRpMLHYee6FKhrwRPEarughW6kU82cJsex_hnOeLn9kzS7Hh4EfREPeqsEKEXoM7zW7Qo12znv4dHXRWJqwcNZ9aVX727PnHq_lTYMhYV_Jz8OS41KIHPXa8e4XkWMP0qMZHQJhx8ADXjfKE1m4L3Og_7KoIvo3KnxlEsDyaamylCcUdJTKbIJCnw",
+  "snippet": "Your health history and insurance information could be very valuable to hackers looking to make a profit on the dark web. One hacker told MassLive why."
+ },
+ {
+  "id": "d9451f2ce9",
+  "title": "Cybersecurity News: DHS data leak, Northflank suffers breach, Russian Poryadok cyberattack",
+  "source": "CISO Series",
+  "date": "41 minutes ago",
+  "first": "2026-11-02T12:41+01:00",
+  "link": "https://www.google.com/goto?url=CAESdQHrOzAVUm3DTQSNMSGULotsbfNU4xA6faMOl82Ub36I59EUXzll6rX_IXUzUjNPp34hmBEruuK6RiTXIBVxavn_ravh6V0qiZMEfAY-zpQDTsWBw2Nf_Rd1JN5ZkBDSm974h99CvrZ9MWac2eTf2ExY5ukxvw",
+  "snippet": "Data of homeland security workers leaked, Northflank warns of security breach, Russian home goods chain Poryadok suffers cyberattack."
+ },
+ {
+  "id": "d578371d99",
+  "title": "Florida Department of Education confirms data breach potentially affecting 4.9 million people",
+  "source": "Intelligent CISO",
+  "date": "2 hours ago",
+  "first": "2026-11-02T12:41+01:00",
+  "link": "https://www.google.com/goto?url=CAESxQEB6zswFWkLyA20zs8N3IgN3b2g-Fk6JcA7b0OaqPpnTu4MUAfFTTj_ryNq9dUdTfbcxqa77Au_F1Ag-jmfheHUGII1IAZnePEJbYa15KGbj87B2w03ilvk0M_9V46V6jD61YLzxX1gARYvN0cO-rP2d929eePsLa-K9vzML9g9uPQEOs9YlJRpP_xnreEYnch_uXhhTjB8rXrF1um1TnC7n1VbDE-OOKVinohqqqi7fvjjTv-uxUwRd5HxbZ7KvWnGF6QduA",
+  "snippet": "The Florida Department of Education is investigating a cybersecurity breach involving its student financial aid website, with personal information belonging..."
+ },
+ {
   "id": "8c6424862b",
   "title": "Hackers pushed freezers at hundreds of French supermarkets to 122 degrees. Now the Pentagon is asking whether the same thing hit U.S. military bases",
   "source": "Fortune",
@@ -448,167 +538,5 @@
   "first": "2026-10-30T21:08+01:00",
   "link": "https://www.google.com/goto?url=CAESmgEB6zswFX4p5TVqfahW5JJVdjsN4feZLvfuCMNi9fc2HjkSYQpyQEYowc4Bumi5iBlGTHtpzvvpnw6FBS_DfhWLQ6hstv19BXs5dS-h3uq9oDdn4_TOM-PbZCyDNM37AVLfCybsnRnJcuVf0hdhJp8nWZnys9H1dJr6FGsv9c8YmY1CYuiDIcW4bnSDeGbg-Nv-SHl3TvK_pho0",
   "snippet": "Eligible patients can be paid up to $5000 to cover documented losses related to the data breach."
- },
- {
-  "id": "4bed77fe9f",
-  "title": "Florida Department of Education reports data breach affecting 4.9 million people",
-  "source": "WPBF",
-  "date": "2 hours ago",
-  "first": "2026-10-30T11:27+01:00",
-  "link": "https://www.google.com/goto?url=CAEStgEB6zswFTbecpsPIDpbvgEhbBA78RbIYoxZ3zs9Q8xiC7s06l4BxrTbzOWEbI1zi5a4dfRmQm7IdWLaFFmZ0PDvA60f5iUZTznYsIAQZenQKq4drrt41gNo0Q9xyXmWX5VlMGYDM1V5HjzwaTSpaBVhpJGZEWjQVhpH5EVHFB1QJwd5ZzPb3eSmD46C1IhJFOao5q4-XyJ0TH62TC3lqQo0xqmCkn6jLRTFjIz21f-q1nzjrfHRrQ",
-  "snippet": "A data breach of the Florida Department of Education's financial aid website has compromised personal information, including Social Security numbers,..."
- },
- {
-  "id": "178920df4b",
-  "title": "FDD urges NIST, NSA to evaluate vaultless, keyless pseudonymization as safeguard against ransomware attacks",
-  "source": "Industrial Cyber",
-  "date": "3 hours ago",
-  "first": "2026-10-30T11:27+01:00",
-  "link": "https://www.google.com/goto?url=CAESzAEB6zswFVD976eeoRSKlZsip5xPNVKXTHJ5Mqa5wC23BTpkgUsApah5NwVvNgxGgh3xX8Mbyhy4Z6q0znUTOAzA6_HHixSirvvwZjz4oW6laNjygZ9KjRAl11lo7iRxXJV7PjOgh7AdFYou7PsWOWvOTyGVlQ9Gijm2aRr_mfV592BrnoJ-tLViVrAUN1gi3fVTgbTDMiZk5kbZJqIJsImY9A2NwoWmUbdYFCHC28MKFJ7H7_DowVFyLnvjYv11I6RqRe6Zyj7MmGY7BRU",
-  "snippet": "The Foundation for Defense of Democracies (FDD) warned that encryption alone cannot adequately protect sensitive data as it moves across cloud platforms,..."
- },
- {
-  "id": "a9dc398095",
-  "title": "The humans burning out on AI's cyber frontlines",
-  "source": "Axios",
-  "date": "2 hours ago",
-  "first": "2026-10-30T11:27+01:00",
-  "link": "https://www.google.com/goto?url=CAESggEB6zswFQN6FFC1-s12BO2jWAhMJFBCStDEbxeia-mZDEfqt-q__GskoGCNTp-5jJyxGUu67gpMYXQbc2BIT72BTgL40a0eNSY-xEJHEoJugykbVjA0smgOwG0b8EHvN7vBTpe7jhyD3WAMkI-bx-Rq2JzQQr9KkivzixnlGIYghNjH",
-  "snippet": "The people at the frontlines of the ongoing barrage of AI-enabled cyberattacks are being pummeled with attacks, vulnerabilities and false alarms."
- },
- {
-  "id": "c3f48dbac0",
-  "title": "HHS’ Office for Civil Rights Settles Ransomware Investigation of Lehigh Valley Health Network",
-  "source": "HHS.gov",
-  "date": "14 hours ago",
-  "first": "2026-10-30T11:27+01:00",
-  "link": "https://www.google.com/goto?url=CAESpAEB6zswFVEmyGzj8nXwyj4945abqqrTGhDFUKCekqftBvbtUg_ZDIGN7sBlXSZJ9VqTlgCuN1W73g1ebqD8vpvCWWZYnP3FF_6j2nDP4K2Gad8LJVwtKRzoxeBZ_Lo9r1QJCkKNakvWJ8XodbWzdof8QvwZLrPNNZNSXsxMNieZNxDLEf7dSss1bamYGK7XwPytYQyFIO2BKumQhLnXcObx72N_qg",
-  "snippet": "Settlement Marks OCR's 22nd Ransomware Enforcement Action. WASHINGTON, D.C. — OCTOBER 29, 2026 — The United States Department of Health and Human Services..."
- },
- {
-  "id": "98e2cd14e5",
-  "title": "Bernalillo offers $82,000 to hackers to resolve ransomware attack",
-  "source": "KOAT",
-  "date": "58 minutes ago",
-  "first": "2026-10-30T11:27+01:00",
-  "link": "https://www.google.com/goto?url=CAESmgEB6zswFXtCy4pYKTJZiv8lcA8sxHTAFEkPmhfzYBUZSDZSu0QVrjxHcQ9tFIht2rTc8lbbbG-DfmHS9Yp3ry3HUvyu2uoJ5l3b_ilyPIYdcb513nEzBsm8IuZrQ5JhKmWMWL3_1f7CIOzWrVwTlxzSfR5ddQWjYY9AScGKpM5bNjHKaQFra88HI235-bbgfH_Hg5T8vpc6NSC-",
-  "snippet": "The town of Bernalillo has approved an $82000 offer to hackers in an effort to end a ransomware attack that has disrupted municipal services since..."
- },
- {
-  "id": "ebe1164a05",
-  "title": "AI Gives Ransomware Negotiators a New Edge in Haggling With Hackers",
-  "source": "Bloomberg.com",
-  "date": "2 hours ago",
-  "first": "2026-10-30T11:27+01:00",
-  "link": "https://www.google.com/goto?url=CAESmAEB6zswFcK9vfjs2XokVxnxbf9DK2F9dJ2H7hNzfCA2xv6RDnpiwQuq2SE06okgg8b1vP2Se-XzBmgwWRVHZUJDyDbrrV_8hDkVsCScvJZWcYasPFJC1eqO2MFh_YmFdz4zrXsvPq1GFMNlTaBOAsr1uY_wmSi2NP1byq3RBclbgJ5-eZcu5Y7vpS77iDk-olaAGlKaGIxWmA",
-  "snippet": "Hackers have tells, too. AI is analyzing past negotiations to help cybersecurity experts spot them and resolve haggling faster."
- },
- {
-  "id": "8e76708f12",
-  "title": "Compliance Theater Won’t Stop an AI Data Breach. Do This Instead.",
-  "source": "Cybersecurity Insiders",
-  "date": "4 hours ago",
-  "first": "2026-10-30T11:27+01:00",
-  "link": "https://www.google.com/goto?url=CAESoQEB6zswFebPbUi4IBW5-PBPmXnEOSwKsoUO106IkoFeD4dgpIUJf3Ih1K8mIphMjX0_XjITcZaX6ceY3wjT2lIwr6qnfVFVamUUfauTQJ_SOTUhY4z1Y-sEhBPpJrBefh8VyNmtCMxPfbnr_NgD2AclwDFXLViE3t7-odTe8mtd_URumgPZ7PwGjEpKE9sPHs43u2exb_h4A-XBPP2G8M_SIA",
-  "snippet": "AI is evolving at a rapid pace, and the uptake of Generative AI (GenAI) is revolutionising the way humans interact and leverage this technology. GenAI is."
- },
- {
-  "id": "a9236d0343",
-  "title": "Former employees sue J.B. Hunt in claimed data breach",
-  "source": "The Arkansas Democrat-Gazette",
-  "date": "18 hours ago",
-  "first": "2026-10-30T11:27+01:00",
-  "link": "https://www.google.com/goto?url=CAESmAEB6zswFeEEW94JKzNbsj_rN8N8eA0yFjDf105fUdVG3GIw2Q6toV41mx5Xz-KuDqz-IEig1rYUGM3zXlmrDaxdp9A3EkRlC6Na4zuXx0aqmAIqWDNwkQUK5Oy_5dIi-zMrx3vlXEyoC0Cqi2cZUfT9Vi7AIu3z9be9lQhF_M2DR1xabfiO_i8xBP4CzrOhq4Re10tx7aYYwQ",
-  "snippet": "Three former J.B. Hunt employees sued the company in federal court this week claiming a data breach put the personal information of thousands of workers at..."
- },
- {
-  "id": "ec05aed699",
-  "title": "EXCLUSIVE: Pentagon treating military base freezer malfunctions as suspected cyberattack, officials say",
-  "source": "Reuters",
-  "date": "8 hours ago",
-  "first": "2026-10-29T22:30+01:00",
-  "link": "https://www.reuters.com/technology/pentagon-treating-military-base-freezer-malfunctions-suspected-cyberattack-2026-10-29/",
-  "snippet": "The Pentagon is ​treating the spate of mysterious freezer malfunctions that spoiled food at military bases across the United States in August as a suspected..."
- },
- {
-  "id": "41219c820b",
-  "title": "Former employees sue J.B. Hunt in claimed data breach",
-  "source": "The Arkansas Democrat-Gazette",
-  "date": "5 hours ago",
-  "first": "2026-10-29T22:30+01:00",
-  "link": "https://www.arkansasonline.com/news/2026/oct/29/former-employees-sue-jb-hunt-in-claimed-data/",
-  "snippet": "Three former J.B. Hunt employees sued the company in federal court this week claiming a data breach put the personal information of thousands of workers at..."
- },
- {
-  "id": "012a66d6ce",
-  "title": "Pentagon investigates suspected cyberattack behind military freezer failures",
-  "source": "Nextgov/FCW",
-  "date": "36 minutes ago",
-  "first": "2026-10-29T22:30+01:00",
-  "link": "https://www.nextgov.com/cybersecurity/2026/10/pentagon-investigates-suspected-cyberattack-behind-military-freezer-failures/416926/",
-  "snippet": "August outages spoiled food at military commissaries across the nation. Investigators are also examining a similar attack on refrigeration systems in Fr..."
- },
- {
-  "id": "38c9368375",
-  "title": "University of Central Arkansas Community Care Clinic reports data breach",
-  "source": "Northwest Arkansas Democrat-Gazette",
-  "date": "3 hours ago",
-  "first": "2026-10-29T22:30+01:00",
-  "link": "https://www.nwaonline.com/news/2026/oct/29/university-of-central-arkansas-community-care/",
-  "snippet": "CONWAY -- The University of Central Arkansas disclosed Thursday that its Community Care Clinic experienced a data breach in September that exposed an..."
- },
- {
-  "id": "7d9d55c4ba",
-  "title": "Florida Department of Education reports data breach affecting 4.9 million people",
-  "source": "WPBF",
-  "date": "47 minutes ago",
-  "first": "2026-10-29T22:30+01:00",
-  "link": "https://www.wpbf.com/article/florida-department-of-education-data-breach-affecting-49-million-people-financial-aid/74287584",
-  "snippet": "A data breach of the Florida Department of Education's financial aid website has compromised personal information, including Social Security numbers,..."
- },
- {
-  "id": "c79a4edf4e",
-  "title": "Florida education department says data breach may affect 4.9 million people",
-  "source": "WPEC",
-  "date": "4 hours ago",
-  "first": "2026-10-29T22:30+01:00",
-  "link": "https://cbs12.com/news/florida/florida-education-department-says-data-breach-may-affect-49-million-people-social-security-numbers-personal-information-florida-department-of-law-enforcement-florida-digital-service-financial-aid-website",
-  "snippet": "The Florida Department of Education says a breach of its student financial aid website may have exposed personal information, including Social Security..."
- },
- {
-  "id": "2adf015b76",
-  "title": "Florida state agency data breach could affect nearly 5 million people",
-  "source": "WPLG Local 10",
-  "date": "4 hours ago",
-  "first": "2026-10-29T22:30+01:00",
-  "link": "https://www.local10.com/news/local/2026/10/29/florida-state-agency-data-breach-could-affect-nearly-5-million-people/",
-  "snippet": "TALLAHASSEE, Fla. — The Florida Department of Education announced that criminals accessed internal information through a data breach."
- },
- {
-  "id": "37572322f5",
-  "title": "Florida Education Department reports data breach impacting 4.9M people",
-  "source": "wtsp.com",
-  "date": "1 hour ago",
-  "first": "2026-10-29T22:30+01:00",
-  "link": "https://www.wtsp.com/article/news/regional/florida/florida-education-department-data-breach-student-financial-aid-49-million-people/67-84b0a500-040d-4c29-bbce-03d50680012c",
-  "snippet": "ST. PETERSBURG, Fla. — The Florida Department of Education is responding to a data breach that may have impacted 4.9 million people and the Florida Student..."
- },
- {
-  "id": "0245be85aa",
-  "title": "Millions of students caught in California data breach",
-  "source": "Fox News",
-  "date": "60 minutes ago",
-  "first": "2026-10-29T22:30+01:00",
-  "link": "https://www.foxnews.com/tech/millions-students-caught-california-data-breach",
-  "snippet": "California student data breach exposed millions of records including names, addresses and disability details. Affected families can enroll in free identity..."
- },
- {
-  "id": "c4479b547e",
-  "title": "Owner of Lewiston, Bangor hospitals agrees to $2M settlement over data breach",
-  "source": "Sun Journal",
-  "date": "2 hours ago",
-  "first": "2026-10-29T22:30+01:00",
-  "link": "https://www.sunjournal.com/2026/10/29/owner-of-bangor-lewiston-hospitals-agrees-to-2m-settlement-over-data-breach/",
-  "snippet": "Patients at St. Mary's Regional Medical Center in Lewiston and St. Joseph Healthcare in Bangor could be eligible for cash payments."
  }
 ]
