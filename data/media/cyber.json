@@ -1,5 +1,68 @@
 [
  {
+  "id": "4524beae8e",
+  "title": "Turning Stone computers, phones remain down a day after cyberattack",
+  "source": "Syracuse.com",
+  "date": "4 hours ago",
+  "first": "2026-11-03T22:15+01:00",
+  "link": "https://www.syracuse.com/entertainment/2026/11/turning-stone-computers-phones-remain-down-a-day-after-cyberattack.html",
+  "snippet": "Computer systems at Turning Stone Casino and other Oneida nation businesses are still down."
+ },
+ {
+  "id": "00c54e1f82",
+  "title": "Italy says cyberattack on supermarket fridges had limited impact",
+  "source": "Reuters",
+  "date": "8 hours ago",
+  "first": "2026-11-03T22:15+01:00",
+  "link": "https://www.reuters.com/legal/litigation/italy-says-cyberattack-supermarket-fridges-had-limited-impact-2026-11-03/",
+  "snippet": "Italy's government said on Tuesday the domestic impact of a cyberattack ​that hit supermarket refrigeration systems across ‌Europe had been extremely..."
+ },
+ {
+  "id": "6949d9af6f",
+  "title": "Supermarket fridges hit with cyberattacks across Europe — here's what's happening",
+  "source": "CNBC",
+  "date": "9 hours ago",
+  "first": "2026-11-03T22:15+01:00",
+  "link": "https://www.cnbc.com/2026/11/03/supermarket-fridges-hack-cyberattack-europe.html",
+  "snippet": "European supermarkets have become the center of another cyberattack, with hackers remotely heating fridges and spoiling food."
+ },
+ {
+  "id": "2cc00995e3",
+  "title": "DOJ warns FBI data breach likely extends to Justice Department employees",
+  "source": "Politico",
+  "date": "47 minutes ago",
+  "first": "2026-11-03T22:15+01:00",
+  "link": "https://www.politico.com/news/2026/11/03/fbi-hack-department-justice-letter-01146667",
+  "snippet": "A major data breach of FBI systems likely also affected staffers across the Justice Department, according to a memo obtained by POLITICO."
+ },
+ {
+  "id": "110fdc2fcc",
+  "title": "Very cold war: Who’s attacking Europe’s supermarket freezers?",
+  "source": "Al Jazeera",
+  "date": "7 hours ago",
+  "first": "2026-11-03T22:15+01:00",
+  "link": "https://www.aljazeera.com/news/2026/11/3/very-cold-war-whos-attacking-europes-supermarket-freezers",
+  "snippet": "Cold stores in supermarkets across Europe have been targeted in a cyberattack with no clear culprit."
+ },
+ {
+  "id": "ed61802f64",
+  "title": "Frontline Education Data Breach Impacts Over 1.3 Million",
+  "source": "SecurityWeek",
+  "date": "7 hours ago",
+  "first": "2026-11-03T22:15+01:00",
+  "link": "https://www.securityweek.com/frontline-education-data-breach-impacts-over-1-3-million/",
+  "snippet": "Hackers stole the personal information of over 1.3 million students and school district staff in a data breach at Frontline Education."
+ },
+ {
+  "id": "ed85fe4a28",
+  "title": "U.K. warns AI-powered ransomware will likely hit critical infrastructure by 2028",
+  "source": "Quartz",
+  "date": "2 hours ago",
+  "first": "2026-11-03T22:15+01:00",
+  "link": "https://qz.com/uk-ai-ransomware-critical-infrastructure-ncsc-warning-110326",
+  "snippet": "The National Cyber Security Centre says China is best placed to use AI against infrastructure and urges firms to fix known weaknesses."
+ },
+ {
   "id": "d108c8cad6",
   "title": "Synology NAS Devices Targeted in Ransomware Attacks Exploiting Patched DSM Flaw",
   "source": "The Hacker News",
@@ -403,95 +466,5 @@
   "first": "2026-11-01T11:48+01:00",
   "link": "https://www.google.com/goto?url=CAESaAHrOzAVhMo3JDHO2cH14FxLVfTgm3cvg7JU2JbfKsdALKotifPkw-abg7woF1AYmw0Y7m4A-mUiowQOMXXDoEdc0MWhMBiT_SncHslVP3oNhnPNK5FbRzSwKY-m7y03JR299Zmy7Kx0",
   "snippet": "The crypto exchange company says the remaining 10% of tokens are \"less liquid, which means they may take longer to source in the required amounts.\""
- },
- {
-  "id": "c8c1aea308",
-  "title": "Bernalillo offers $82,000 to hackers to resolve ransomware attack",
-  "source": "KOAT",
-  "date": "3 hours ago",
-  "first": "2026-10-31T20:32+01:00",
-  "link": "https://www.koat.com/article/bernalillo-offers-82000-hackers-resolve-ransomware-attack/74289349",
-  "snippet": "The town of Bernalillo has approved an $82000 offer to hackers in an effort to end a ransomware attack that has disrupted municipal services since..."
- },
- {
-  "id": "ce41f157ac",
-  "title": "STP Nuclear Data Breach Hits 1,173 Texans [2026]",
-  "source": "shattered.io",
-  "date": "1 hour ago",
-  "first": "2026-10-31T20:32+01:00",
-  "link": "https://shattered.io/stp-nuclear-operating-company-data-breach-1173-texans-2026/",
-  "snippet": "South Texas nuclear power plant data breach: STP Nuclear Operating Co. reported 1173 Texans hit on Oct. 28. SSNs exposed, NRC sees no safety issue."
- },
- {
-  "id": "a291b70517",
-  "title": "Chainalysis discloses data breach from \"offensive agentic techniques\"",
-  "source": "BleepingComputer",
-  "date": "7 hours ago",
-  "first": "2026-10-31T20:32+01:00",
-  "link": "https://www.bleepingcomputer.com/news/security/chainalysis-discloses-data-breach-from-offensive-agentic-techniques/",
-  "snippet": "Blockchain analytics firm Chainalysis disclosed a data breach after attackers used."
- },
- {
-  "id": "e07f9b216f",
-  "title": "Chainalysis Discloses Agentic AI Cyberattack Exposing Customer Names and Emails: 12 outlets compared",
-  "source": "NewsCord",
-  "date": "2 hours ago",
-  "first": "2026-10-31T20:32+01:00",
-  "link": "https://www.google.com/goto?url=CAES1QEB6zswFRSrChq2uGX83Ac3AdtvTyKSq2TinLjrXqrwenMyQeC98ccGEDogpsZPcE9wn9IYX_hkKPyyqf1H64PmrO7NZUWr9D5hE90yOQHXRwigP5HDTgSJ25B4RV-NTHLs4XkdKjx23xEGWDbpAzrPuUK_jvRy4Z48XK0IwiFhSVMZwBWq0CZjrbQk68fvuny5J6MddkX8NSenEMZQSe-auJHhflUFw9ok1AUxqAH3KJzA8fL-nzcGTEvNPGV-xq-g7xjtCEBL77i3aefo_m6Jro01kUI&gsessionid=PjQnSXvTNeNfZymBQccAXnpnDef18Ne-iwTlEiBN7LkmYehGZMTUYw",
-  "snippet": "12 sources compared: Other (6), Western Alternative (4), Asian (1). Chainalysis disclosed that an external attacker used \"offensive agentic techniques\" to..."
- },
- {
-  "id": "0058477e27",
-  "title": "Charles Booker’s Senate Campaign Hit By Foreign Cyberattack",
-  "source": "WPKY",
-  "date": "5 hours ago",
-  "first": "2026-10-31T20:32+01:00",
-  "link": "https://www.google.com/goto?url=CAESpgEB6zswFShKoa2cSaGk3hXS69kRP_1aNH7riW9uEXq3TG0TxGwmXSha009mdULFO5H38IS6tEdPS0JP1opL6jKHn184YBT34CrQRTCZAPAN9_k8KbX9z8NjJB76xGKDomYfE03kCTCE5JTwffAJO3pCzwoFQcsbI8Il65vD_1uMq7MQRwpfi1gDdXxW5bYdmTSktzbAN1PIA5ntI8a-WTxGlFl_OLP2&gsessionid=PjQnSXvTNeNfZymBQccAXnpnDef18Ne-iwTlEiBN7LkmYehGZMTUYw",
-  "snippet": "The U.S. Senate campaign of Democrat Charles Booker has been targeted by overseas hackers in a coordinated cyberattack aiming to breach campaign operations..."
- },
- {
-  "id": "20705781aa",
-  "title": "Floin Cyberattack: MiCA Crypto Platform From Liechtenstein Goes Offline",
-  "source": "CryptoTicker.io",
-  "date": "7 hours ago",
-  "first": "2026-10-31T20:32+01:00",
-  "link": "https://www.google.com/goto?url=CAESeQHrOzAV8zbwt4xbmIXyMc-HCQqlPE5zJCwqekDg64FS--mfdS1LG4OtPe3qDG_5ej09d-PUtc7tbnecEw6t0xBzDBg_kHNvIqsih0SbH9VCcL4s9ri9iHM3hU6L8yeenvHQnntJHo6zgaM6VM1TlvYEk1prt9OPjDY&gsessionid=PjQnSXvTNeNfZymBQccAXnpnDef18Ne-iwTlEiBN7LkmYehGZMTUYw",
-  "snippet": "Floin reports a cyberattack and takes its app and web platform offline. What we know about the MiCA-licensed platform from Vaduz and what customers should..."
- },
- {
-  "id": "dc7eb52756",
-  "title": "Data Breach Hits Operator of South Texas Nuclear Power Plant",
-  "source": "GovTech",
-  "date": "22 hours ago",
-  "first": "2026-10-31T20:32+01:00",
-  "link": "https://www.google.com/goto?url=CAESmAEB6zswFQw6DQ8kOvGqRkv7ee1s8XZt1j-1jvXejxj077NX77XqWHuLvGbrwA4oXoFreE3wFO4QdihMihmzt4sFfygLWFI62P6ycLBGMupS81eLFWIslGQ8C4rSgBx8o09I21BHrHu45JyxSFj-UtqzLra7MlsCxYFtaJtgyWK90zopqUETzYgR9BTRXW8jtQEgDJ4xjH2lRw&gsessionid=PjQnSXvTNeNfZymBQccAXnpnDef18Ne-iwTlEiBN7LkmYehGZMTUYw",
-  "snippet": "The nonprofit that runs the South Texas Project Electric Generating Station informed the state that it had sustained a data security incident exposing the..."
- },
- {
-  "id": "c7e8170682",
-  "title": "Henry Schein Hackers Say They’ve Cost Distributor $500M+ in Lost Revenue",
-  "source": "National Association of Wholesaler-Distributors",
-  "date": "14 hours ago",
-  "first": "2026-10-31T20:32+01:00",
-  "link": "https://www.google.com/goto?url=CAESoQEB6zswFdVKD48SX78c-2eNYgBlNRKfJbTBQhgXeQpKHI9WM-6JJhZZd2T0CuPWjKj4YkXa-iyOcUB1zEE0q4hWFxerZvPVgoEm3moIu7PpB5FuXtPV605hbAmFGZSd9epgkBvbxatciY3JFsb9tVT-3sQJXVOXQuXXF4EXtJiQA0nWeyP9d-bs-o6Pi09JhKEHSFcbB1tIRyuu7zK96iUVQQ&gsessionid=PjQnSXvTNeNfZymBQccAXnpnDef18Ne-iwTlEiBN7LkmYehGZMTUYw",
-  "snippet": "The ransomware group that hit Henry Schein's systems twice so far — affecting data for nearly 30000 people — says it's planning a third attack."
- },
- {
-  "id": "cd5f4b8b07",
-  "title": "Senate candidate Charles Booker reports attempted cyberattack days before election",
-  "source": "WPSD Local 6",
-  "date": "18 hours ago",
-  "first": "2026-10-31T20:32+01:00",
-  "link": "https://www.google.com/goto?url=CAES4AEB6zswFeIqaWshKRly7coKwb7tiL24-lC_umIczErZMC4i4l9SY_w5Rdh23mTNz5yhGCb1OS3Hoq0vXVTQz_VJG0hCj1jEXVSgwlOGovcZwtJEb-_pRM_NPs80_Zffy5zXqQ9OpG7grolKnpZiEQmAFD3VsNtBbEegS4ZOCZc0ZDsz6aznQo04JLguiMCRtxPL3hfbGCUnbNZUXRNbD-R33m1zbvk3lHTJIVoPzR8FDm_XNphs42sjcYbkPXiucUKAG1n6vYzD74YKRRtR54NYWQyapPUtXlWzZuZ79LhNoA&gsessionid=PjQnSXvTNeNfZymBQccAXnpnDef18Ne-iwTlEiBN7LkmYehGZMTUYw",
-  "snippet": "Charles Booker's campaign was the most recent target by foreign hackers in a cyberattack attempting to gain access to campaign communications and the senate..."
- },
- {
-  "id": "3d5973636b",
-  "title": "ZeroFox Ransomware Wrap-Up",
-  "source": "Manufacturing Business Technology",
-  "date": "16 hours ago",
-  "first": "2026-10-31T20:32+01:00",
-  "link": "https://www.google.com/goto?url=CAEShwEB6zswFS_PhluPMdl7_qcWugVSVlj8xRrp21aYnuXe9nAvBe7cKd9kRSPORu4ZaWjNHfe3KQKzfOcucVq3W0ebJcbecYAz84Hy3vKPjxwWd4_cW6w8CyzcBCT9gXSqLsUOf-LcsBZ4-UtzNzlZdTEY57RQ1D2zTBVF8XYowBoSw3GTwNSrxds&gsessionid=PjQnSXvTNeNfZymBQccAXnpnDef18Ne-iwTlEiBN7LkmYehGZMTUYw",
-  "snippet": "A look at the new attack patterns and strategies being used by the most dangerous ransomware groups."
  }
 ]
