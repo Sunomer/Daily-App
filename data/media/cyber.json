@@ -1,5 +1,86 @@
 [
  {
+  "id": "6e411fbf19",
+  "title": "New Lindnor Backdoor and Glut of Security Killers Used in Ransomware Attack on U.S. Org",
+  "source": "SECURITY.COM",
+  "date": "12 minutes ago",
+  "first": "2026-11-05T12:29+01:00",
+  "link": "https://www.security.com/blog-post/lindnor-new-backdoor-anubis-ransomware",
+  "snippet": "Attackers using the Anubis ransomware deployed a new custom backdoor and a large set of Bring Your Own Vulnerable Driver (BYOVD) tools, but attack was..."
+ },
+ {
+  "id": "59b66ad063",
+  "title": "Vida Y Salud-Health Systems & Hampton Regional Medical Center Settle Data Breach Lawsuits",
+  "source": "The HIPAA Journal",
+  "date": "29 minutes ago",
+  "first": "2026-11-05T12:29+01:00",
+  "link": "https://www.hipaajournal.com/vida-y-salud-hampton-regional-medical-center-data-breach-settlements/",
+  "snippet": "Settlements have been agreed to resolve class action data breach lawsuits against Vida Y Salud-Health Systems & Hampton Regional Medical Center."
+ },
+ {
+  "id": "097d0fd799",
+  "title": "Cyberattack forces supermarket to dump food",
+  "source": "FOX5 Vegas",
+  "date": "3 hours ago",
+  "first": "2026-11-05T12:29+01:00",
+  "link": "https://www.fox5vegas.com/video/2026/11/05/cyberattack-forces-supermarket-dump-food/",
+  "snippet": "Hundreds of French supermarkets have been hit by cyberattack, raising the temperatures in refrigerators and freezers. (M6)"
+ },
+ {
+  "id": "e92718f188",
+  "title": "French Blood Banks Hacked in Latest Cyberattack on Europe",
+  "source": "Homeland Security Today",
+  "date": "1 hour ago",
+  "first": "2026-11-05T12:29+01:00",
+  "link": "https://www.hstoday.us/subject-matter-areas/cybersecurity/french-blood-banks-hacked-in-latest-cyberattack-on-europe/",
+  "snippet": "France's national blood service has said hackers accessed control systems and boosted temperatures at three cold stores stocking vital blood products,..."
+ },
+ {
+  "id": "0d45973232",
+  "title": "Cyberattack leads supermarkets to waste food",
+  "source": "FOX10 News",
+  "date": "3 hours ago",
+  "first": "2026-11-05T12:29+01:00",
+  "link": "https://www.fox10tv.com/video/2026/11/05/cyberattack-leads-supermarkets-waste-food/",
+  "snippet": "Fridges and freezers were remotely taken over, spoiling food worth millions. (M6)"
+ },
+ {
+  "id": "972c0406d4",
+  "title": "Cyberattack leads supermarkets to waste food",
+  "source": "KTVF Fairbanks",
+  "date": "3 hours ago",
+  "first": "2026-11-05T12:29+01:00",
+  "link": "https://www.webcenterfairbanks.com/video/2026/11/05/cyberattack-leads-supermarkets-waste-food/",
+  "snippet": "Fridges and freezers were remotely taken over, spoiling food worth millions. (M6)"
+ },
+ {
+  "id": "261de3a7df",
+  "title": "Cyberattack leads supermarkets to waste food",
+  "source": "WIBW",
+  "date": "3 hours ago",
+  "first": "2026-11-05T12:29+01:00",
+  "link": "https://www.wibw.com/video/2026/11/05/cyberattack-leads-supermarkets-waste-food/",
+  "snippet": "Fridges and freezers were remotely taken over, spoiling food worth millions. (M6)"
+ },
+ {
+  "id": "a80c634925",
+  "title": "France blood bank cyberattack targets refrigeration systems as European supermarkets hit",
+  "source": "Fox Business",
+  "date": "4 hours ago",
+  "first": "2026-11-05T12:29+01:00",
+  "link": "https://www.foxbusiness.com/technology/france-blood-bank-cyberattack-targets-refrigeration-systems-european-supermarkets-hit",
+  "snippet": "Hackers targeted refrigeration systems at three French blood banks in a cyberattack raising concerns about critical infrastructure as similar incidents hit..."
+ },
+ {
+  "id": "f51c722e40",
+  "title": "Cyberattack forces supermarket to dump food",
+  "source": "Alaska's News Source",
+  "date": "3 hours ago",
+  "first": "2026-11-05T12:29+01:00",
+  "link": "https://www.alaskasnewssource.com/video/2026/11/05/cyberattack-forces-supermarket-dump-food/",
+  "snippet": "Hundreds of French supermarkets have been hit by cyberattack, raising the temperatures in refrigerators and freezers. (M6)"
+ },
+ {
   "id": "bbb690fe36",
   "title": "French blood banks hit alongside cyberattack on European supermarkets",
   "source": "Reuters",

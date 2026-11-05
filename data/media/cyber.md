@@ -1,12 +1,21 @@
 # Kandydaci – Cyberataki
 
-Ostatni przebieg: 2026-11-04 22:29 (Europe/Warsaw), słot: wieczor
-SerpAPI (Google News, 24 h): 1 wyszukiwań w tym przebiegu, 10 nowych pozycji, błędy: brak
-Zużycie SerpAPI w tym miesiącu: 18 z 250
-Pozycji w pliku (ostatnie 72 h): 52
+Ostatni przebieg: 2026-11-05 12:29 (Europe/Warsaw), słot: poludnie
+SerpAPI (Google News, 24 h): 1 wyszukiwań w tym przebiegu, 9 nowych pozycji, błędy: brak
+Zużycie SerpAPI w tym miesiącu: 19 z 250
+Pozycji w pliku (ostatnie 72 h): 61
 
 Format: id | tytuł | źródło | data w Google | pierwszy raz (Europe/Warsaw) | link | fragment
 
+6e411fbf19 | New Lindnor Backdoor and Glut of Security Killers Used in Ransomware Attack on U.S. Org | SECURITY.COM | 12 minutes ago | 2026-11-05T12:29+01:00 | https://www.security.com/blog-post/lindnor-new-backdoor-anubis-ransomware | Attackers using the Anubis ransomware deployed a new custom backdoor and a large set of Bring Your Own Vulnerable Driver (BYOVD) tools, but attack was...
+59b66ad063 | Vida Y Salud-Health Systems & Hampton Regional Medical Center Settle Data Breach Lawsuits | The HIPAA Journal | 29 minutes ago | 2026-11-05T12:29+01:00 | https://www.hipaajournal.com/vida-y-salud-hampton-regional-medical-center-data-breach-settlements/ | Settlements have been agreed to resolve class action data breach lawsuits against Vida Y Salud-Health Systems & Hampton Regional Medical Center.
+097d0fd799 | Cyberattack forces supermarket to dump food | FOX5 Vegas | 3 hours ago | 2026-11-05T12:29+01:00 | https://www.fox5vegas.com/video/2026/11/05/cyberattack-forces-supermarket-dump-food/ | Hundreds of French supermarkets have been hit by cyberattack, raising the temperatures in refrigerators and freezers. (M6)
+e92718f188 | French Blood Banks Hacked in Latest Cyberattack on Europe | Homeland Security Today | 1 hour ago | 2026-11-05T12:29+01:00 | https://www.hstoday.us/subject-matter-areas/cybersecurity/french-blood-banks-hacked-in-latest-cyberattack-on-europe/ | France's national blood service has said hackers accessed control systems and boosted temperatures at three cold stores stocking vital blood products,...
+0d45973232 | Cyberattack leads supermarkets to waste food | FOX10 News | 3 hours ago | 2026-11-05T12:29+01:00 | https://www.fox10tv.com/video/2026/11/05/cyberattack-leads-supermarkets-waste-food/ | Fridges and freezers were remotely taken over, spoiling food worth millions. (M6)
+972c0406d4 | Cyberattack leads supermarkets to waste food | KTVF Fairbanks | 3 hours ago | 2026-11-05T12:29+01:00 | https://www.webcenterfairbanks.com/video/2026/11/05/cyberattack-leads-supermarkets-waste-food/ | Fridges and freezers were remotely taken over, spoiling food worth millions. (M6)
+261de3a7df | Cyberattack leads supermarkets to waste food | WIBW | 3 hours ago | 2026-11-05T12:29+01:00 | https://www.wibw.com/video/2026/11/05/cyberattack-leads-supermarkets-waste-food/ | Fridges and freezers were remotely taken over, spoiling food worth millions. (M6)
+a80c634925 | France blood bank cyberattack targets refrigeration systems as European supermarkets hit | Fox Business | 4 hours ago | 2026-11-05T12:29+01:00 | https://www.foxbusiness.com/technology/france-blood-bank-cyberattack-targets-refrigeration-systems-european-supermarkets-hit | Hackers targeted refrigeration systems at three French blood banks in a cyberattack raising concerns about critical infrastructure as similar incidents hit...
+f51c722e40 | Cyberattack forces supermarket to dump food | Alaska's News Source | 3 hours ago | 2026-11-05T12:29+01:00 | https://www.alaskasnewssource.com/video/2026/11/05/cyberattack-forces-supermarket-dump-food/ | Hundreds of French supermarkets have been hit by cyberattack, raising the temperatures in refrigerators and freezers. (M6)
 bbb690fe36 | French blood banks hit alongside cyberattack on European supermarkets | Reuters | 7 hours ago | 2026-11-04T22:29+01:00 | https://www.reuters.com/business/healthcare-pharmaceuticals/several-french-blood-banks-hit-by-cyberattack-nov-2-health-ministry-says-2026-11-04/ | The refrigerators at three regional blood banks in France were hit by a cyberattack overnight between Sunday and Monday, at the same ​time hackers struck...
 2e894438e7 | Blood banks hit by cyberattack in France days after European freezer hacks | CBS News | 3 hours ago | 2026-11-04T22:29+01:00 | https://www.cbsnews.com/news/cyberattack-france-blood-bank/ | The cyberattack on several French blood banks comes after supermarkets across Europe reported their fridges​ and freezers​ were remotely taken over by...
 9d69670c60 | French blood banks face cyberattack, no blood damaged | upi | 5 hours ago | 2026-11-04T22:29+01:00 | https://www.upi.com/Top_News/World-News/2026/11/04/france-blood-bank-cyberattack/8401793810457/ | France's national blood service suffered a cyberattack on its refrigeration systems, in escalation of attacks on European refrigerators.
