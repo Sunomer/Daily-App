@@ -1,5 +1,77 @@
 [
  {
+  "id": "dd8b24e806",
+  "title": "Ransomware attack disrupts Queens Public Library services",
+  "source": "Spectrum News NY1",
+  "date": "6 hours ago",
+  "first": "2026-11-05T22:34+01:00",
+  "link": "https://ny1.com/nyc/all-boroughs/news/2026/11/05/ransomware-attack-disrupts-queens-public-library-services",
+  "snippet": "A ransomware attack has disrupted computer systems and services at all 66 Queens Public Library branches."
+ },
+ {
+  "id": "866261a994",
+  "title": "French bank Credit Mutuel Arkea says €100 million missing after cyberattack",
+  "source": "Reuters",
+  "date": "7 hours ago",
+  "first": "2026-11-05T22:34+01:00",
+  "link": "https://www.reuters.com/legal/government/french-bank-credit-mutuel-arkea-says-100-million-missing-after-cyberattack-2026-11-05/",
+  "snippet": "French lender Credit Mutuel Arkea said on Thursday hackers had stolen around €100 million ($112.61 million) in a cyber heist and it was working to try to..."
+ },
+ {
+  "id": "aeb0c9591e",
+  "title": "Queens Public Library online system downed by ransomware hack, officials said",
+  "source": "Gothamist",
+  "date": "2 hours ago",
+  "first": "2026-11-05T22:34+01:00",
+  "link": "https://gothamist.com/news/queens-public-library-online-system-downed-by-ransomware-hack-officials-said",
+  "snippet": "A ransomware attack Wednesday on the Queens Public Library resulted in a system-side network outage that continued into Thursday and could take some time to..."
+ },
+ {
+  "id": "3ae319fd1f",
+  "title": "French authorities probe cyberattack targeting nation’s blood supply",
+  "source": "Cybersecurity Dive",
+  "date": "5 hours ago",
+  "first": "2026-11-05T22:34+01:00",
+  "link": "https://www.cybersecuritydive.com/news/french-probe-cyberattack-blood-supply/873871/",
+  "snippet": "The attack follows a wave of hacks against refrigeration systems at supermarkets across Europe."
+ },
+ {
+  "id": "a359ad1c7c",
+  "title": "Supermarkets across Europe hit by fridge cyberattack",
+  "source": "NBC News",
+  "date": "5 hours ago",
+  "first": "2026-11-05T22:34+01:00",
+  "link": "https://www.nbcnews.com/video/shorts/supermarkets-across-europe-hit-by-fridge-cyberattack-272747589856",
+  "snippet": "00:19. Save hover state. Supermarkets across Europe hit by fridge cyberattack. 00:0000:00. UP NEXT. NOW PLAYING. Supermarkets across Europe hit by fridge..."
+ },
+ {
+  "id": "27b7a41e03",
+  "title": "New York's Queens Public Library battles ransomware crims: Wi-Fi, checkouts, and website go dark",
+  "source": "The Register",
+  "date": "9 hours ago",
+  "first": "2026-11-05T22:34+01:00",
+  "link": "https://www.theregister.com/cyber-crime/2026/11/05/new-yorks-queens-public-library-battles-ransomware-crims-wi-fi-checkouts-and-website-go-dark/5307796",
+  "snippet": "No gang has claimed the attack on incredible neighborhood resource yet."
+ },
+ {
+  "id": "415e49277c",
+  "title": "Prairie Ridge Integrated Behavioral Healthcare Data Breach?",
+  "source": "ClassAction.org",
+  "date": "5 hours ago",
+  "first": "2026-11-05T22:34+01:00",
+  "link": "https://www.classaction.org/data-breach-lawsuits/prairie-ridge-integrated-behavioral-healthcare-november-2026",
+  "snippet": "Suspect your information could have been exposed in the alleged Prairie Ridge Integrated Behavioral Healthcare data breach? Learn more."
+ },
+ {
+  "id": "70c5130216",
+  "title": "New Lindnor Backdoor and Glut of Security Killers Used in Ransomware Attack on U.S. Org",
+  "source": "SECURITY.COM",
+  "date": "10 hours ago",
+  "first": "2026-11-05T22:34+01:00",
+  "link": "https://www.security.com/threat-intelligence/lindnor-new-backdoor-anubis-ransomware",
+  "snippet": "Attackers using the Anubis ransomware deployed a new custom backdoor and a large set of Bring Your Own Vulnerable Driver (BYOVD) tools, but attack was..."
+ },
+ {
   "id": "6e411fbf19",
   "title": "New Lindnor Backdoor and Glut of Security Killers Used in Ransomware Attack on U.S. Org",
   "source": "SECURITY.COM",
@@ -457,95 +529,5 @@
   "first": "2026-11-03T00:13+01:00",
   "link": "https://www.aljazeera.com/news/2026/11/2/freezers-in-sweden-belgium-overheat-following-possible-cyberattacks",
   "snippet": "Temperature increases have been reported in dozens of store cooling systems , weeks after a similar attack in France."
- },
- {
-  "id": "9a81bea279",
-  "title": "Cyberattack hits Belgian supermarket fridges and freezers",
-  "source": "Euronews.com",
-  "date": "1 hour ago",
-  "first": "2026-11-02T12:41+01:00",
-  "link": "https://www.euronews.com/2026/11/02/cyberattack-hits-belgian-supermarket-fridges-and-freezers",
-  "snippet": "A major cyberattack on Belgian supermarket 40 Delhaize, Carrefour and Spa and other supermarket chain stores has taken place, with €100000 worth of food..."
- },
- {
-  "id": "2e0eed2511",
-  "title": "Chainalysis Discloses Data Breach Following AI-Driven Cyberattack",
-  "source": "SecurityWeek",
-  "date": "1 hour ago",
-  "first": "2026-11-02T12:41+01:00",
-  "link": "https://www.securityweek.com/chainalysis-discloses-data-breach-following-ai-driven-cyberattack/",
-  "snippet": "The attackers used offensive agentic techniques to access the company's systems and internal tools. By. Ionut Arghire. / November 2, 2026 (6:27 AM ET)."
- },
- {
-  "id": "a7b3ed9206",
-  "title": "Ransomware Alert - Ransomware Attacks Targeting Synology NAS Devices",
-  "source": "Hong Kong Computer Emergency Response Team Coordination Centre",
-  "date": "2 hours ago",
-  "first": "2026-11-02T12:41+01:00",
-  "link": "https://www.hkcert.org/security-bulletin/security-alert-ransomware-attacks-targeting-synology-nas-devices_20261102",
-  "snippet": "A recent wave of ransomware attacks has targeted Synology Network-Attached Storage (NAS) users, encrypting stored data and demanding ransom."
- },
- {
-  "id": "e6c0fa588c",
-  "title": "Supermarket freezers across Europe struck in second crippling cyberattack",
-  "source": "Tom's Hardware",
-  "date": "52 minutes ago",
-  "first": "2026-11-02T12:41+01:00",
-  "link": "https://www.google.com/goto?url=CAESnQIB6zswFVZ0AtwKKlpgadP91ApAtQX1y8AYexwbdo1OtEGL72I2MwL2HZ0qdgQLfQCJ_sOfbXcJXFiwldUrsZFNE4ncEbkVKTA5YsTJGWFOZVdneWEYkwxMscY8Yqgw2s3ULvVrRRCPGxTzrf_QMRcqnSiyxb8GAdAjDwvCTMtSc_ss_lTgTHyRdwkiA_hYVaw8FS1YfvDGlgO9FJb2hMxHTzw5dRx_sxK-4THM-jB6lOP01mu1BHZlwgHGIjfrNBsQ4AwuRxAkYZcYaOMvEZ84eZtUzKT0oj17osHJS73BxBIHWmuZOc2J2Y6hr0XpQEjbH6_1IQEzRHeCBTmpfX99vVDVseUxTLuLLAxfd_2520l6jvI7JT0BHDN845g",
-  "snippet": "Just weeks after an 'unprecedented' cyberattack struck supermarket fridges in France, destroying foodstuffs, a similar hack has crippled supermarket chains..."
- },
- {
-  "id": "530ae60f9a",
-  "title": "Ransomware gang talked AI agents into doing much of its dirty work",
-  "source": "Help Net Security",
-  "date": "7 hours ago",
-  "first": "2026-11-02T12:41+01:00",
-  "link": "https://www.google.com/goto?url=CAESggEB6zswFdKJxeRVfBg6pnJN6o_dK3-JM03uPqCRWRiuMVQNwbkVE-u2MrkQ6P9Ypy24zLsx_htOdcI68_LJAOyxkwPRnTxJJ5mhw1hkQGJjTprmB-BR0IAcOQix1Yj1QM-q20HEKPHkqt094pNH4If38I-BYXMH9JcNoqgJeRRMIaAP",
-  "snippet": "The group behind Aur0ra ransomware gave AI agents stolen credentials and let them move through victim networks toward domain admin access."
- },
- {
-  "id": "b9ae9068eb",
-  "title": "Cyberattack hits Delhaize supermarket fridges, freezers at dozens of Belgium locations",
-  "source": "NL Times",
-  "date": "3 hours ago",
-  "first": "2026-11-02T12:41+01:00",
-  "link": "https://www.google.com/goto?url=CAESqAEB6zswFdJMQADya92ZeBCzVdwhM0qAuigJZogERL10gZoZDWfl5yMI_c7mMQbYDI891kLzngW7Kxe3qi3JAqa5Yl4n4wyiRF7LcT3gGYMMqDJ25h8foM9EGPSmvA_JkRvojTstqiYAj3WWIE68dVZZ_zBlZqW_jQneHhl2FD6Fb5HfWe8XuxqaLXiuXikpViN88I0aHDDYkIBqm2ZBWMyH0bhDYNYAYUo",
-  "snippet": "Freezers and refrigerators at dozens of Delhaize supermarket locations were affected by a cyberattack, Belgian media outlets reported Monday morning."
- },
- {
-  "id": "ce410e92ed",
-  "title": "Importance of timely Cyberattack Reporting for Critical Infrastructure",
-  "source": "Cybersecurity Insiders",
-  "date": "5 hours ago",
-  "first": "2026-11-02T12:41+01:00",
-  "link": "https://www.google.com/goto?url=CAESqQEB6zswFd97vy7m9eeFckjKSnISqhmWFo2SdxMPl3EolqrTm_S7cAxXUWt2YkJlo2KiZZoG71a5XvZw1FIVQm_qmd7y7so4ok_fc9MxcECCIyNqOslmG-h0DYPeSLGhW52B421p8YcodBUdMUkGXqBpvgCUhFX2rQXJR0xWa3TRgRMU4hUvZzyITa3_4YgXzqQRO3mhk2bnJ4hcIeeWjwgKgjZMXSGH3kJg",
-  "snippet": "Cyberattacks targeting critical infrastructure have become a significant threat to national security, public safety, and economic stability."
- },
- {
-  "id": "b62f9906be",
-  "title": "A hacker is selling Mass. prisoners’ medical records. They told us how and why they stole them",
-  "source": "MassLive.com",
-  "date": "1 hour ago",
-  "first": "2026-11-02T12:41+01:00",
-  "link": "https://www.google.com/goto?url=CAESwgEB6zswFWQXGFW7JoBOdii7i7x9n0cDYEYi-5nMFAD-ZSEGFHet_f6KEV8CkIwx2nVsd-GQPigChFRpMLHYee6FKhrwRPEarughW6kU82cJsex_hnOeLn9kzS7Hh4EfREPeqsEKEXoM7zW7Qo12znv4dHXRWJqwcNZ9aVX727PnHq_lTYMhYV_Jz8OS41KIHPXa8e4XkWMP0qMZHQJhx8ADXjfKE1m4L3Og_7KoIvo3KnxlEsDyaamylCcUdJTKbIJCnw",
-  "snippet": "Your health history and insurance information could be very valuable to hackers looking to make a profit on the dark web. One hacker told MassLive why."
- },
- {
-  "id": "d9451f2ce9",
-  "title": "Cybersecurity News: DHS data leak, Northflank suffers breach, Russian Poryadok cyberattack",
-  "source": "CISO Series",
-  "date": "41 minutes ago",
-  "first": "2026-11-02T12:41+01:00",
-  "link": "https://www.google.com/goto?url=CAESdQHrOzAVUm3DTQSNMSGULotsbfNU4xA6faMOl82Ub36I59EUXzll6rX_IXUzUjNPp34hmBEruuK6RiTXIBVxavn_ravh6V0qiZMEfAY-zpQDTsWBw2Nf_Rd1JN5ZkBDSm974h99CvrZ9MWac2eTf2ExY5ukxvw",
-  "snippet": "Data of homeland security workers leaked, Northflank warns of security breach, Russian home goods chain Poryadok suffers cyberattack."
- },
- {
-  "id": "d578371d99",
-  "title": "Florida Department of Education confirms data breach potentially affecting 4.9 million people",
-  "source": "Intelligent CISO",
-  "date": "2 hours ago",
-  "first": "2026-11-02T12:41+01:00",
-  "link": "https://www.google.com/goto?url=CAESxQEB6zswFWkLyA20zs8N3IgN3b2g-Fk6JcA7b0OaqPpnTu4MUAfFTTj_ryNq9dUdTfbcxqa77Au_F1Ag-jmfheHUGII1IAZnePEJbYa15KGbj87B2w03ilvk0M_9V46V6jD61YLzxX1gARYvN0cO-rP2d929eePsLa-K9vzML9g9uPQEOs9YlJRpP_xnreEYnch_uXhhTjB8rXrF1um1TnC7n1VbDE-OOKVinohqqqi7fvjjTv-uxUwRd5HxbZ7KvWnGF6QduA",
-  "snippet": "The Florida Department of Education is investigating a cybersecurity breach involving its student financial aid website, with personal information belonging..."
  }
 ]
