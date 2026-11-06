@@ -1,5 +1,95 @@
 [
  {
+  "id": "7b69296aec",
+  "title": "Health intel-sharing group warns industry in wake of cyberattack on French blood bank",
+  "source": "NPR",
+  "date": "2 hours ago",
+  "first": "2026-11-06T22:03+01:00",
+  "link": "https://www.npr.org/2026/11/06/nx-s1-6032602/cyberattack-blood-bank-healthcare",
+  "snippet": "A healthcare intelligence-sharing organization is warning its members to lock down systems following cyberattacks on cold storage systems, including a..."
+ },
+ {
+  "id": "2810ee293e",
+  "title": "Arlington ISD personnel information affected by third-party national data breach",
+  "source": "Fort Worth Report",
+  "date": "2 hours ago",
+  "first": "2026-11-06T22:03+01:00",
+  "link": "https://fortworthreport.org/2026/11/06/arlington-isd-personnel-information-affected-by-third-party-national-data-breach/",
+  "snippet": "Arlington ISD schools were among the thousands nationwide faced with a data breach that included sensitive information such as Social Security numbers from..."
+ },
+ {
+  "id": "335cb098c6",
+  "title": "Queens Public Library online system downed by ransomware hack, officials said",
+  "source": "Gothamist",
+  "date": "3 hours ago",
+  "first": "2026-11-06T22:03+01:00",
+  "link": "https://www.google.com/goto?url=CAESpAEBxCJF17yjWcS0I83VnL8hxeA9c0IYkfjUUj6kj8Wl5aJ_8xo-5U8BDdeikfSLFDLSmGgj3e3r4_URf2rkfrWJTQWlAIjOpOf7S_yLR9duM84YlJmcJuM7sARmWpixU0UcQL8pDfd5U9zTDxXWc6tFTI0VwWZoOV5dwW-ziTnQdohw2GwmX0J5C0C2w9fgY-RAN6G_AODJltcXUJ2Ph4Y1sdgmRg",
+  "snippet": "A ransomware attack Wednesday on the Queens Public Library resulted in a system-side network outage that continued into Thursday and could take some time to..."
+ },
+ {
+  "id": "5df8694012",
+  "title": "DigiCert Data Breach Impacts Business Customer Information",
+  "source": "SecurityWeek",
+  "date": "7 hours ago",
+  "first": "2026-11-06T22:03+01:00",
+  "link": "https://www.google.com/goto?url=CAESlQEBxCJF1y1RtnldmpoIVscvVdzvo0COOngxk4YegLtq3Et6Yl_GnR4DhIBNHLSvsepyRoGp1UAym85iSJSqXmZCAyPmcBMgz9Lrj0KHS2AMIHVHGlja1V3AyHn5sWSvm0QjsTe2k8xMpvInMo9PoMYt7AH4kIGp-d5bZuypp8B3MVW1pI_5XLVhrp9jOlu_kY5n5qMuYg",
+  "snippet": "DigiCert says hackers accessed archived data containing business contact information, including names, emails, and phone numbers."
+ },
+ {
+  "id": "ffda0ec17d",
+  "title": "Supermarkets across Europe hit by fridge cyberattack",
+  "source": "NBC News",
+  "date": "7 hours ago",
+  "first": "2026-11-06T22:03+01:00",
+  "link": "https://www.google.com/goto?url=CAESowEBxCJF17rOnxrT8d1bhcsZmlpfBPnhXFRL1ZTH22nbzG3kCNbraLz2SdSr3_k7jASAxZFGqKpK4pR-AmcPqwYUK-zxNpONhtjJQQ-zV5VDjkHFFy6iqCDxvjLifRnVUBUAv05uYlx3IAf5w2h4c2gsR64qCvroXZAQFU2Seitgds1da_lF6VXLtHTPH_VO3t9hvpwnQARXBgBEjuU3HotiLUsB",
+  "snippet": "00:19. Save hover state. Supermarkets across Europe hit by fridge cyberattack. 00:0000:00. UP NEXT. NOW PLAYING. Supermarkets across Europe hit by fridge..."
+ },
+ {
+  "id": "5189ec3079",
+  "title": "Certificate authority DigiCert reports data breach involving business customer info",
+  "source": "The Record from Recorded Future News",
+  "date": "2 hours ago",
+  "first": "2026-11-06T22:03+01:00",
+  "link": "https://www.google.com/goto?url=CAEShwEBxCJF1wAzDYH9HDJ885N4Gxs9pzFETbdC5baAFw_Zflrk7229C379QRY-JYEsVLXRWjp8sVAoRjjiU4Vxo194tq8SE9uYep4Ds04i8VvNW2vM9XRCNJL0n8em8pNroCePJuYxdreLbsfOw-0zBjKTS8mvC9Yz6AYAEKqDuxftcpfy5D1eH3o",
+  "snippet": "Internet security firm DigiCert reported a data breach involving an internal business system that was left exposed and eventually accessed by someone..."
+ },
+ {
+  "id": "4964553bb9",
+  "title": "Gnosis Pay data breach exposes customer info; funds unaffected",
+  "source": "The Block",
+  "date": "2 hours ago",
+  "first": "2026-11-06T22:03+01:00",
+  "link": "https://www.google.com/goto?url=CAESoAEBxCJF132r1K36pqouccClL0R8HXNYO9jzYbpGY6kp0ndBH0XscSHzFV6SEA1aI7BNoYO_q6YAiyejtuS1KhKUYSn4nDUC1Xb5iKefwU6cTdoMUcUqe9wOf4BJHjx0ucHlJCvXo-l4tiYn7gBsQRkedOPp4vFa2B3I6M1yqjF3W5cdHFcs31XcWFqZ0w03MlwRoIdAtx1ruGGW3c7SM5xZ",
+  "snippet": "Gnosis Pay disclosed a data breach after unauthorized access to its legacy debit card system on Nov. 3. Funds were unaffected; 3D Secure is now mandatory."
+ },
+ {
+  "id": "d702202628",
+  "title": "Dutch retailer projects up to $280M in lost sales after cyberattack",
+  "source": "Business Insurance",
+  "date": "7 hours ago",
+  "first": "2026-11-06T22:03+01:00",
+  "link": "https://www.google.com/goto?url=CAESogEBxCJF19RwOmVE1MHcWfyNUdtCIhjqvbVcN_X3K5r7fWlC-7plEkIU4y7k8mssE51NeqKUG1jwe_zZbg76rHaXRQK-SAyQn1_hMbgd8yk8i89CsM0gP5edHDe5_iIk3xB9nGGsHb3hV6QYlksZVa6wNYwYt6RwO9FufBP5nr1kkgNS3j-vQE1hPXZEX5RDNDw6HbjLss0O-_nIWQLMbq54BkE",
+  "snippet": "Netherlands-based retailer Koninklijke Ahold Delhaize NV expects to lose between 200 and 250 million euros ($224 and 280 million) in sales from last..."
+ },
+ {
+  "id": "5ada010ff9",
+  "title": "Bridewell reports 80% surge in global ransomware victims as manufacturing emerges as top target in Q3 2026",
+  "source": "Industrial Cyber",
+  "date": "10 hours ago",
+  "first": "2026-11-06T22:03+01:00",
+  "link": "https://www.google.com/goto?url=CAESzgEBxCJF15vpqGCUbVU9PrO0jOcfSJ4sY5wwxcR0eTC540fMKZ4hEPYM8bNHL36VIJVtTVFsoqN3y8wtU7smrJzHZoKQ21zFl7lBjJ2L4o1sStQtltPE9lgTie4V5u-lLBTpyI8ZxOLlrofKDPtQTaWKXYivTBV8EsyVPYHSsbWwL2Son4ihiE0eevAg8KMo_SH8vi8GMoiwJ8iQuxPKX2J4PJ54QUN609XHj9MVELZGBrenWc5c3nmsVyYuwlKAKnivBjqPeEBUQWsbawWpdQ",
+  "snippet": "New data from Bridewell's threat intelligence team recorded 2,889 publicly disclosed ransomware victims across 111 active ransomware and extortion groups in..."
+ },
+ {
+  "id": "0f5a4728b8",
+  "title": "Ransomware group claims theft of data tied to 1.3M Spartans as MSU investigates",
+  "source": "WSMH",
+  "date": "6 hours ago",
+  "first": "2026-11-06T22:03+01:00",
+  "link": "https://www.google.com/goto?url=CAESsQEBxCJF1-0rk6q_raVT1SssYL1KSrdW4La0gKtRB2iZxQKHZEv_wkZN-412AeUqdB6ERKlfiJaDUI6dRXSpmFrLkFQgKkSCxcgX5xjRRJHGGDTpGPNlinXtX5qaNgbzCWYhylrbbOuP6w30Ie6hJi8axGtYfbXb3mTLHy56Nb3xI1Rrd4EHv6idq55OILmotHCarFKDLLJKIYwlDk0ksB-q75dslmzpB8t83Qm1ZZtVBhA",
+  "snippet": "EAST LANSING, Mich.— Michigan State University is actively investigating a potential cybersecurity threat. According to the university,..."
+ },
+ {
   "id": "d0a079859e",
   "title": "Queens Public Library online system downed by ransomware hack, officials said",
   "source": "Gothamist",
