@@ -1,5 +1,68 @@
 [
  {
+  "id": "5a21da8f80",
+  "title": "Health intel-sharing group warns industry in wake of cyberattack on French blood bank",
+  "source": "Oregon Public Broadcasting - OPB",
+  "date": "4 hours ago",
+  "first": "2026-11-07T20:37+01:00",
+  "link": "https://www.opb.org/article/2026/11/07/healthcare-industry-warned-following-cyberattack-on-french-blood-bank/",
+  "snippet": "In a new security bulletin, the information sharing and analysis center devoted to the healthcare industry, Health ISAC, alerted members to a recent wave of..."
+ },
+ {
+  "id": "a17c8438c5",
+  "title": "Meloni Blames Pro-Russian Hackers for Cyberattack on Minister",
+  "source": "Bloomberg.com",
+  "date": "4 hours ago",
+  "first": "2026-11-07T20:37+01:00",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-07/meloni-blames-pro-russian-hackers-for-attack-on-foreign-minister",
+  "snippet": "Italian Prime Minister Giorgia Meloni blamed pro-Russian hackers for a cyberattack on her foreign minister, after a rise in hybrid disruptions from entities..."
+ },
+ {
+  "id": "154dfb949e",
+  "title": "A cyberattack on supermarket fridges, bomb threats to planes and software vulnerabilities have Europe on edge as government officials encourage resilience and stockpiling.",
+  "source": "Facebook",
+  "date": "5 hours ago",
+  "first": "2026-11-07T20:37+01:00",
+  "link": "https://www.facebook.com/nytimes/posts/a-cyberattack-on-supermarket-fridges-bomb-threats-to-planes-and-software-vulnera/1541050847877373/",
+  "snippet": ""
+ },
+ {
+  "id": "cceee80ab6",
+  "title": "Italy's foreign minister targeted in cyberattack due to Ukraine stance, minister says",
+  "source": "The Kyiv Independent",
+  "date": "4 hours ago",
+  "first": "2026-11-07T20:37+01:00",
+  "link": "https://kyivindependent.com/italys-foreign-minister-targeted-in-cyberattack-due-to-ukraine-stance-minister-says-2/",
+  "snippet": "Italy's Prime Minister Giorgia Meloni expressed her full solidarity with Tajani and linked the attack to pro-Russian hackers, Italian media LaPresse..."
+ },
+ {
+  "id": "ed54a345ec",
+  "title": "Russia’s Rosstat struggles to restore systems after major cyberattack",
+  "source": "The Seattle Times",
+  "date": "1 hour ago",
+  "first": "2026-11-07T20:37+01:00",
+  "link": "https://www.seattletimes.com/business/russias-rosstat-struggles-to-restore-systems-after-major-cyberattack/",
+  "snippet": "Major Russian economic reports will be delayed through at least Nov. 13 following a recent major hack on the statistics agency Rosstat."
+ },
+ {
+  "id": "32c3ef22c7",
+  "title": "Italy's Meloni blames pro-Russian hackers for cyberattack on minister",
+  "source": "DW.com",
+  "date": "5 hours ago",
+  "first": "2026-11-07T20:37+01:00",
+  "link": "https://www.dw.com/en/italys-meloni-blames-pro-russian-hackers-for-cyberattack-on-minister/a-79885200",
+  "snippet": "Antonio Tajani has said hackers published personal data stolen from him as Giorgia Meloni blamed pro-Russia criminals for the incident."
+ },
+ {
+  "id": "113aff4ecf",
+  "title": "Sussex County Prosecutor's Office reports data breach involving Social Security numbers, personal information",
+  "source": "WRNJ Radio",
+  "date": "11 hours ago",
+  "first": "2026-11-07T20:37+01:00",
+  "link": "https://wrnjradio.com/sussex-county-prosecutors-office-reports-data-breach-involving-social-security-numbers-personal-information/",
+  "snippet": "NEWTON, N.J. (Sussex County) — The Sussex County Prosecutor's Office has disclosed a data breach in which an unauthorized individual accessed its computer..."
+ },
+ {
   "id": "b698742f91",
   "title": "Russia’s Rosstat Struggles to Restore Systems After Major Cyberattack",
   "source": "Bloomberg.com",
@@ -466,95 +529,5 @@
   "first": "2026-11-04T22:29+01:00",
   "link": "https://www.euronews.com/2026/11/04/cyberattack-hits-french-blood-banks-but-no-samples-compromised-officials-say",
   "snippet": "The incident comes after supermarkets in a number of European countries reported this week that their fridges and freezers warmed up after they were..."
- },
- {
-  "id": "41b6eafd4e",
-  "title": "Here's what to know about another cyberattack on European supermarket fridges",
-  "source": "PBS",
-  "date": "13 hours ago",
-  "first": "2026-11-04T12:34+01:00",
-  "link": "https://www.pbs.org/newshour/world/heres-what-to-know-about-another-cyberattack-on-european-supermarket-fridges",
-  "snippet": "LONDON (AP) — Mysterious cyberattacks on European supermarket fridges have sent officials around the continent scrambling to figure out the cold,..."
- },
- {
-  "id": "663fe2bd9b",
-  "title": "Colorado secretary of state’s election website vendor hit with cyberattack",
-  "source": "The Denver Post",
-  "date": "9 hours ago",
-  "first": "2026-11-04T12:34+01:00",
-  "link": "https://www.denverpost.com/2026/11/03/colorado-election-night-cyberattack/",
-  "snippet": "A bot attack targeted the Colorado Secretary of State's Office public-facing election webpage Tuesday night, temporarily throwing the site offline."
- },
- {
-  "id": "41cef3f996",
-  "title": "M&S Grocery Sales Bounce Back After Last Year’s Cyberattack",
-  "source": "Bloomberg.com",
-  "date": "1 hour ago",
-  "first": "2026-11-04T12:34+01:00",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-04/m-s-grocery-sales-bounce-back-after-last-year-s-cyberattack",
-  "snippet": "Marks & Spencer Group Plc's sales jumped as shoppers splashed out on groceries over the hot summer, boosting its recovery from last year's cyberattack even..."
- },
- {
-  "id": "f6191364b4",
-  "title": "$2 Million Settlement Resolves Covenant Health Data Breach Lawsuit",
-  "source": "The HIPAA Journal",
-  "date": "33 minutes ago",
-  "first": "2026-11-04T12:34+01:00",
-  "link": "https://www.hipaajournal.com/covenant-health-class-action-data-breach-settlement/",
-  "snippet": "Covenant Health, St. Joseph Healthcare Foundation, St. Joseph Hospital, St. Joseph Hospital Nashua, N.H., and other Covenant Health facilities were named..."
- },
- {
-  "id": "6abd71d79b",
-  "title": "Cyberattack Hits Supermarket Freezers in Sweden, Belgium and Four More Countries",
-  "source": "Technology Org",
-  "date": "4 hours ago",
-  "first": "2026-11-04T12:34+01:00",
-  "link": "https://www.technology.org/2026/11/04/supermarket-freezer-cyberattack-sweden-belgium-europe/",
-  "snippet": "A new supermarket freezer cyberattack hit stores in Sweden, Belgium and four other countries, spoiling food weeks after France."
- },
- {
-  "id": "ff6a46054d",
-  "title": "M&S profit rebounds from cyberattack but clothing drags on recovery",
-  "source": "Reuters",
-  "date": "4 hours ago",
-  "first": "2026-11-04T12:34+01:00",
-  "link": "https://www.reuters.com/business/retail-consumer/ms-profit-rebounds-cyber-attack-clothing-drags-recovery-2026-11-04/",
-  "snippet": "British retailer Marks & ‌Spencer said on Wednesday its first-half profit rebounded from last year's cyberattack-hit level, but was down on a two-year basis..."
- },
- {
-  "id": "e363fb53ec",
-  "title": "BREAKING NEWS: Ransomware attacks on Japanese companies more than double in 5 years",
-  "source": "Japan Wire by Kyodo News",
-  "date": "1 hour ago",
-  "first": "2026-11-04T12:34+01:00",
-  "link": "https://english.kyodonews.net/articles/-/90360",
-  "snippet": "BREAKING NEWS: Ransomware attacks on Japanese companies more than double in 5 years. KYODO NEWS. - Nov 04, 2026 - 19:18."
- },
- {
-  "id": "48e77d5182",
-  "title": "Cyber Guides Releases Free Data Breach Response Guide Exclusively on Reddit",
-  "source": "Yahoo Finance",
-  "date": "1 hour ago",
-  "first": "2026-11-04T12:34+01:00",
-  "link": "https://finance.yahoo.com/technology/articles/cyber-guides-releases-free-data-102400094.html",
-  "snippet": "New resource helps consumers verify breach notices, protect affected accounts and understand when identity-theft precautions may be appropriate."
- },
- {
-  "id": "cd0c28e4c8",
-  "title": "AI models used fake identities to trick humans in cyberattack: Officials",
-  "source": "ABC News - Breaking News, Latest News and Videos",
-  "date": "6 hours ago",
-  "first": "2026-11-04T12:34+01:00",
-  "link": "https://abcnews.com/Business/ai-models-fake-identities-trick-humans-cyberattack-officials/story?id=135384187",
-  "snippet": "AI models from two top tech firms acted on their own to adopt fake identities and deceive humans in recent cyberattacks, a U.K. government agency,..."
- },
- {
-  "id": "ce7d75acbf",
-  "title": "French bank hit by cyberattack, losses estimated at €118 million",
-  "source": "Le Monde.fr",
-  "date": "9 minutes ago",
-  "first": "2026-11-04T12:34+01:00",
-  "link": "https://www.lemonde.fr/en/economy/article/2026/11/04/french-bank-hit-by-cyberattack-losses-estimated-at-118-million_6771518_19.html",
-  "snippet": "French regional bank Crédit Mutuel Arkéa said Wednesday, November 4, it had been the victim of a cyberattack that allowed fraudulent transactions,..."
  }
 ]
