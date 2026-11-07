@@ -1,5 +1,68 @@
 [
  {
+  "id": "b698742f91",
+  "title": "Russia’s Rosstat Struggles to Restore Systems After Major Cyberattack",
+  "source": "Bloomberg.com",
+  "date": "2 hours ago",
+  "first": "2026-11-07T11:41+01:00",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-07/russia-s-rosstat-struggles-to-restore-systems-after-major-cyberattack",
+  "snippet": "Major Russian economic reports will be delayed through at least Nov. 13 following a recent major hack on the statistics agency Rosstat."
+ },
+ {
+  "id": "50dfaa3924",
+  "title": "Acronis research reveals how Qilin ransomware targets virtual infrastructure",
+  "source": "Acronis",
+  "date": "4 hours ago",
+  "first": "2026-11-07T11:41+01:00",
+  "link": "https://www.acronis.com/en/blog/posts/acronis-research-reveals-how-qilin-ransomware-targets-virtual-infrastructure/",
+  "snippet": "A new analysis from the Acronis Threat Research Unit (TRU), published October 28, 2026, examines how the operation combines adaptable ransomware,..."
+ },
+ {
+  "id": "c5532d0fb1",
+  "title": "Certificate authority DigiCert reports data breach involving business customer info",
+  "source": "The Record from Recorded Future News",
+  "date": "11 hours ago",
+  "first": "2026-11-07T11:41+01:00",
+  "link": "https://therecord.media/digicert-certificate-authority-reports-data-breach",
+  "snippet": "Internet security firm DigiCert reported a data breach involving an internal business system that was left exposed and eventually accessed by someone..."
+ },
+ {
+  "id": "405b34dd98",
+  "title": "TruStage cyberattack leaves grieving Las Vegas family waiting for insurance",
+  "source": "KTNV Las Vegas",
+  "date": "13 hours ago",
+  "first": "2026-11-07T11:41+01:00",
+  "link": "https://www.ktnv.com/13-investigates/whats-the-deal/trustage-cyberattack-leaves-grieving-las-vegas-family-waiting-for-insurance",
+  "snippet": "A Las Vegas woman waited months for life insurance after a TruStage cyberattack. Now 14 lawsuits target the insurer over data security failures."
+ },
+ {
+  "id": "c49f11fd27",
+  "title": "Nearly a week after cyberattack, Turning Stone still dealing with tech and phone outages across resort",
+  "source": "Syracuse.com",
+  "date": "11 hours ago",
+  "first": "2026-11-07T11:41+01:00",
+  "link": "https://www.syracuse.com/business/2026/11/nearly-a-week-after-cyberattack-turning-stone-still-dealing-with-tech-and-phone-outages-across-resort.html",
+  "snippet": "Heading into a busy fall weekend and nearly a week after a cyberattack first struck, several Turning Stone Enterprises properties are still dealing with..."
+ },
+ {
+  "id": "e71bb9b23c",
+  "title": "Mirae Asset Data Breach: 35,255 Staff Hit [2026]",
+  "source": "https://tech-insider.org/",
+  "date": "2 hours ago",
+  "first": "2026-11-07T11:41+01:00",
+  "link": "https://tech-insider.org/mirae-asset-securities-data-breach-35255-staff-3800-customers-2026/",
+  "snippet": "Mirae Asset Securities confirmed a breach exposing 35255 employees' data in 2026. See what was leaked, who is at risk, and the steps staff should take now."
+ },
+ {
+  "id": "d4ee136ae7",
+  "title": "Cyberattack on Blood-Storage Systems Tests Cold-Chain Defenses",
+  "source": "Lab Manager",
+  "date": "11 hours ago",
+  "first": "2026-11-07T11:41+01:00",
+  "link": "https://www.labmanager.com/cyberattack-on-blood-storage-systems-tests-cold-chain-defenses-36246",
+  "snippet": "A cyberattack targeting blood-storage refrigeration systems highlights cybersecurity, alarm, vendor-access, and continuity risks for laboratories."
+ },
+ {
   "id": "7b69296aec",
   "title": "Health intel-sharing group warns industry in wake of cyberattack on French blood bank",
   "source": "NPR",
@@ -493,68 +556,5 @@
   "first": "2026-11-04T12:34+01:00",
   "link": "https://www.lemonde.fr/en/economy/article/2026/11/04/french-bank-hit-by-cyberattack-losses-estimated-at-118-million_6771518_19.html",
   "snippet": "French regional bank Crédit Mutuel Arkéa said Wednesday, November 4, it had been the victim of a cyberattack that allowed fraudulent transactions,..."
- },
- {
-  "id": "4524beae8e",
-  "title": "Turning Stone computers, phones remain down a day after cyberattack",
-  "source": "Syracuse.com",
-  "date": "4 hours ago",
-  "first": "2026-11-03T22:15+01:00",
-  "link": "https://www.syracuse.com/entertainment/2026/11/turning-stone-computers-phones-remain-down-a-day-after-cyberattack.html",
-  "snippet": "Computer systems at Turning Stone Casino and other Oneida nation businesses are still down."
- },
- {
-  "id": "00c54e1f82",
-  "title": "Italy says cyberattack on supermarket fridges had limited impact",
-  "source": "Reuters",
-  "date": "8 hours ago",
-  "first": "2026-11-03T22:15+01:00",
-  "link": "https://www.reuters.com/legal/litigation/italy-says-cyberattack-supermarket-fridges-had-limited-impact-2026-11-03/",
-  "snippet": "Italy's government said on Tuesday the domestic impact of a cyberattack ​that hit supermarket refrigeration systems across ‌Europe had been extremely..."
- },
- {
-  "id": "6949d9af6f",
-  "title": "Supermarket fridges hit with cyberattacks across Europe — here's what's happening",
-  "source": "CNBC",
-  "date": "9 hours ago",
-  "first": "2026-11-03T22:15+01:00",
-  "link": "https://www.cnbc.com/2026/11/03/supermarket-fridges-hack-cyberattack-europe.html",
-  "snippet": "European supermarkets have become the center of another cyberattack, with hackers remotely heating fridges and spoiling food."
- },
- {
-  "id": "2cc00995e3",
-  "title": "DOJ warns FBI data breach likely extends to Justice Department employees",
-  "source": "Politico",
-  "date": "47 minutes ago",
-  "first": "2026-11-03T22:15+01:00",
-  "link": "https://www.politico.com/news/2026/11/03/fbi-hack-department-justice-letter-01146667",
-  "snippet": "A major data breach of FBI systems likely also affected staffers across the Justice Department, according to a memo obtained by POLITICO."
- },
- {
-  "id": "110fdc2fcc",
-  "title": "Very cold war: Who’s attacking Europe’s supermarket freezers?",
-  "source": "Al Jazeera",
-  "date": "7 hours ago",
-  "first": "2026-11-03T22:15+01:00",
-  "link": "https://www.aljazeera.com/news/2026/11/3/very-cold-war-whos-attacking-europes-supermarket-freezers",
-  "snippet": "Cold stores in supermarkets across Europe have been targeted in a cyberattack with no clear culprit."
- },
- {
-  "id": "ed61802f64",
-  "title": "Frontline Education Data Breach Impacts Over 1.3 Million",
-  "source": "SecurityWeek",
-  "date": "7 hours ago",
-  "first": "2026-11-03T22:15+01:00",
-  "link": "https://www.securityweek.com/frontline-education-data-breach-impacts-over-1-3-million/",
-  "snippet": "Hackers stole the personal information of over 1.3 million students and school district staff in a data breach at Frontline Education."
- },
- {
-  "id": "ed85fe4a28",
-  "title": "U.K. warns AI-powered ransomware will likely hit critical infrastructure by 2028",
-  "source": "Quartz",
-  "date": "2 hours ago",
-  "first": "2026-11-03T22:15+01:00",
-  "link": "https://qz.com/uk-ai-ransomware-critical-infrastructure-ncsc-warning-110326",
-  "snippet": "The National Cyber Security Centre says China is best placed to use AI against infrastructure and urges firms to fix known weaknesses."
  }
 ]
