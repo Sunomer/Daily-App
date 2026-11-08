@@ -1,5 +1,59 @@
 [
  {
+  "id": "f111fed946",
+  "title": "University Hospitals (Ohio) cyberattack leaves MyChart offline for two weeks",
+  "source": "Beinsure",
+  "date": "8 hours ago",
+  "first": "2026-11-08T20:57+01:00",
+  "link": "https://beinsure.com/news/university-hospitals-cyberattack-leaves-mychart-offline/",
+  "snippet": "University Hospitals is still experiencing website and MyChart outages two weeks after an October 22 cybersecurity incident, with no confirmed restoration..."
+ },
+ {
+  "id": "4bad71580a",
+  "title": "Italy to raise cyberattack concerns at G7 foreign ministers meeting",
+  "source": "Yahoo",
+  "date": "1 hour ago",
+  "first": "2026-11-08T20:57+01:00",
+  "link": "https://www.yahoo.com/news/world/articles/italy-raise-cyberattack-concerns-g7-184821120.html",
+  "snippet": "Italy's Foreign Minister Antonio Tajani intends to raise the issue of recent cyberattacks by a suspected pro-Russian group at the G7 foreign ministers'..."
+ },
+ {
+  "id": "b9fbab0253",
+  "title": "Licensable video: Video illustrations - Binance hit by cyberattack affecting billions of dollars - 11/04/2026",
+  "source": "Reuters Connect",
+  "date": "12 hours ago",
+  "first": "2026-11-08T20:57+01:00",
+  "link": "https://www.reutersconnect.com/item/video-illustrations-binance-hit-by-cyberattack-affecting-billions-of-dollars-11042026/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX09XTlVSQ0JPSVZJTlZJREVPSUxMMjYxMTA3TlA4RVY",
+  "snippet": "Créteil, France - November 07, 2026 - The Binance logo and website are displayed on various screens in Cr?teil, France, on November 4, 2026, as the company..."
+ },
+ {
+  "id": "45388ebf69",
+  "title": "Amplifon Data Breach Investigation: Edelson Lechtzin LLP Probes Class Action Claims After Social Security Numbers and Health Records Are Exposed",
+  "source": "PR Newswire",
+  "date": "4 hours ago",
+  "first": "2026-11-08T20:57+01:00",
+  "link": "https://www.prnewswire.com/news-releases/amplifon-data-breach-investigation-edelson-lechtzin-llp-probes-class-action-claims-after-social-security-numbers-and-health-records-are-exposed-302932752.html",
+  "snippet": "PRNewswire/ -- Edelson Lechtzin LLP, a national class action law firm, is investigating data privacy claims arising from a data breach at Amplifon (USA),..."
+ },
+ {
+  "id": "7066aea8c4",
+  "title": "Mirae Asset Securities Cyberattack Leaks 39,000+ Customer, Employee Data",
+  "source": "조선일보",
+  "date": "7 hours ago",
+  "first": "2026-11-08T20:57+01:00",
+  "link": "https://www.chosun.com/english/market-money-en/2026/11/08/CD54QECY5NDGZBM6S3QDVZJFGU/",
+  "snippet": "Mirae Asset Securities Cyberattack Leaks 39000+ Customer, Employee Data Breach part of wider cyberattacks on South Korean financial firms, including."
+ },
+ {
+  "id": "9594886d34",
+  "title": "Deepfake Fraud, DORA Fines & Bank Breaches: Cyber Nov 2026",
+  "source": "FinanceX Magazine",
+  "date": "9 hours ago",
+  "first": "2026-11-08T20:57+01:00",
+  "link": "https://www.financexmagazine.com/post/a-900-million-deepfake-tab-dora-s-first-real-enforcement-wave-and-a-ransomware-hit-that-should-wo",
+  "snippet": "Deepfake scams near $900M, DORA bites harder, and ransomware hits banks again. Get the cybersecurity breakdown for finance now."
+ },
+ {
   "id": "2c0711bb2f",
   "title": "Online Backup Services Ransomware Test: 13 Steps [2026]",
   "source": "tech-insider.org",
@@ -403,86 +457,5 @@
   "first": "2026-11-05T22:34+01:00",
   "link": "https://www.security.com/threat-intelligence/lindnor-new-backdoor-anubis-ransomware",
   "snippet": "Attackers using the Anubis ransomware deployed a new custom backdoor and a large set of Bring Your Own Vulnerable Driver (BYOVD) tools, but attack was..."
- },
- {
-  "id": "6e411fbf19",
-  "title": "New Lindnor Backdoor and Glut of Security Killers Used in Ransomware Attack on U.S. Org",
-  "source": "SECURITY.COM",
-  "date": "12 minutes ago",
-  "first": "2026-11-05T12:29+01:00",
-  "link": "https://www.security.com/blog-post/lindnor-new-backdoor-anubis-ransomware",
-  "snippet": "Attackers using the Anubis ransomware deployed a new custom backdoor and a large set of Bring Your Own Vulnerable Driver (BYOVD) tools, but attack was..."
- },
- {
-  "id": "59b66ad063",
-  "title": "Vida Y Salud-Health Systems & Hampton Regional Medical Center Settle Data Breach Lawsuits",
-  "source": "The HIPAA Journal",
-  "date": "29 minutes ago",
-  "first": "2026-11-05T12:29+01:00",
-  "link": "https://www.hipaajournal.com/vida-y-salud-hampton-regional-medical-center-data-breach-settlements/",
-  "snippet": "Settlements have been agreed to resolve class action data breach lawsuits against Vida Y Salud-Health Systems & Hampton Regional Medical Center."
- },
- {
-  "id": "097d0fd799",
-  "title": "Cyberattack forces supermarket to dump food",
-  "source": "FOX5 Vegas",
-  "date": "3 hours ago",
-  "first": "2026-11-05T12:29+01:00",
-  "link": "https://www.fox5vegas.com/video/2026/11/05/cyberattack-forces-supermarket-dump-food/",
-  "snippet": "Hundreds of French supermarkets have been hit by cyberattack, raising the temperatures in refrigerators and freezers. (M6)"
- },
- {
-  "id": "e92718f188",
-  "title": "French Blood Banks Hacked in Latest Cyberattack on Europe",
-  "source": "Homeland Security Today",
-  "date": "1 hour ago",
-  "first": "2026-11-05T12:29+01:00",
-  "link": "https://www.hstoday.us/subject-matter-areas/cybersecurity/french-blood-banks-hacked-in-latest-cyberattack-on-europe/",
-  "snippet": "France's national blood service has said hackers accessed control systems and boosted temperatures at three cold stores stocking vital blood products,..."
- },
- {
-  "id": "0d45973232",
-  "title": "Cyberattack leads supermarkets to waste food",
-  "source": "FOX10 News",
-  "date": "3 hours ago",
-  "first": "2026-11-05T12:29+01:00",
-  "link": "https://www.fox10tv.com/video/2026/11/05/cyberattack-leads-supermarkets-waste-food/",
-  "snippet": "Fridges and freezers were remotely taken over, spoiling food worth millions. (M6)"
- },
- {
-  "id": "972c0406d4",
-  "title": "Cyberattack leads supermarkets to waste food",
-  "source": "KTVF Fairbanks",
-  "date": "3 hours ago",
-  "first": "2026-11-05T12:29+01:00",
-  "link": "https://www.webcenterfairbanks.com/video/2026/11/05/cyberattack-leads-supermarkets-waste-food/",
-  "snippet": "Fridges and freezers were remotely taken over, spoiling food worth millions. (M6)"
- },
- {
-  "id": "261de3a7df",
-  "title": "Cyberattack leads supermarkets to waste food",
-  "source": "WIBW",
-  "date": "3 hours ago",
-  "first": "2026-11-05T12:29+01:00",
-  "link": "https://www.wibw.com/video/2026/11/05/cyberattack-leads-supermarkets-waste-food/",
-  "snippet": "Fridges and freezers were remotely taken over, spoiling food worth millions. (M6)"
- },
- {
-  "id": "a80c634925",
-  "title": "France blood bank cyberattack targets refrigeration systems as European supermarkets hit",
-  "source": "Fox Business",
-  "date": "4 hours ago",
-  "first": "2026-11-05T12:29+01:00",
-  "link": "https://www.foxbusiness.com/technology/france-blood-bank-cyberattack-targets-refrigeration-systems-european-supermarkets-hit",
-  "snippet": "Hackers targeted refrigeration systems at three French blood banks in a cyberattack raising concerns about critical infrastructure as similar incidents hit..."
- },
- {
-  "id": "f51c722e40",
-  "title": "Cyberattack forces supermarket to dump food",
-  "source": "Alaska's News Source",
-  "date": "3 hours ago",
-  "first": "2026-11-05T12:29+01:00",
-  "link": "https://www.alaskasnewssource.com/video/2026/11/05/cyberattack-forces-supermarket-dump-food/",
-  "snippet": "Hundreds of French supermarkets have been hit by cyberattack, raising the temperatures in refrigerators and freezers. (M6)"
  }
 ]
