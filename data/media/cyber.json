@@ -1,5 +1,86 @@
 [
  {
+  "id": "26fc9afd4e",
+  "title": "BREAKING: Vanderbilt experiencing cybersecurity attack, VUIT responding",
+  "source": "The Vanderbilt Hustler",
+  "date": "14 hours ago",
+  "first": "2026-11-10T22:25+01:00",
+  "link": "https://vanderbilthustler.com/2026/11/09/breaking-vanderbilt-wi-fi-networks-reportedly-hacked-vuit-yet-to-confirm/",
+  "snippet": "This story was updated Nov. 9, 2026, at 1:16 p.m. CST to include a statement from Vanderbilt University Public Safety. Vanderbilt Wi-Fi networks have..."
+ },
+ {
+  "id": "8ddec93ac9",
+  "title": "Queens libraries still reeling from ransomware attack as some services return",
+  "source": "Queens Daily Eagle",
+  "date": "5 hours ago",
+  "first": "2026-11-10T22:25+01:00",
+  "link": "https://queenseagle.com/all/2026/11/10/queens-libraries-still-reeling-from-ransomware-attack-as-some-services-return",
+  "snippet": "A cybersecurity attack continued to plague Queens libraries on Monday, even as some services came back online over the weekend."
+ },
+ {
+  "id": "e47939741c",
+  "title": "Vanderbilt University reels following ransomware attack claimed by BYOD group",
+  "source": "CyberScoop",
+  "date": "3 hours ago",
+  "first": "2026-11-10T22:25+01:00",
+  "link": "https://cyberscoop.com/vanderbilt-university-ransomware-attack-byod/",
+  "snippet": "Vanderbilt University begins restoring systems after a ransomware attack claimed by the BYOD group reportedly compromised personal data and campus networks."
+ },
+ {
+  "id": "294d7ad95e",
+  "title": "Queens Public Library still recovering from ransomware attack",
+  "source": "QNS.com",
+  "date": "1 hour ago",
+  "first": "2026-11-10T22:25+01:00",
+  "link": "https://qns.com/2026/11/queens-library-ransomware-attack/",
+  "snippet": "Queens Public Library customers are still experiencing disruptions to several services nearly a week after a ransomware attack caused a network outage..."
+ },
+ {
+  "id": "c3cdfdbbe5",
+  "title": "Vanderbilt University reports some systems are back up after cyberattack",
+  "source": "WZTV",
+  "date": "6 hours ago",
+  "first": "2026-11-10T22:25+01:00",
+  "link": "https://fox17.com/news/local/vanderbilt-universityreports-that-some-systems-are-back-up-after-cyberattack",
+  "snippet": "Vanderbilt University shared in social media post Tuesday morning that some of their systems are available again after a cyberattack."
+ },
+ {
+  "id": "1e0ff868f3",
+  "title": "France blames Iran for supermarket refrigerator cyberattack",
+  "source": "Denver Gazette",
+  "date": "2 hours ago",
+  "first": "2026-11-10T22:25+01:00",
+  "link": "https://www.denvergazette.com/2026/11/10/france-blames-iran-for-supermarket-refrigerator-cyberattack/",
+  "snippet": "France on Monday said Iran hacked into hundreds of grocery store refrigeration systems across the country, marking a severe disruption to the food chain."
+ },
+ {
+  "id": "848543e5ac",
+  "title": "Retail Ransomware 2026: Faster Recovery, Rising Encryption",
+  "source": "Sophos",
+  "date": "7 hours ago",
+  "first": "2026-11-10T22:25+01:00",
+  "link": "https://www.sophos.com/en-us/blog/the-state-of-ransomware-in-retail-2026",
+  "snippet": "Retail ransomware victims paid less and recovered faster in 2026, but encryption rose to 62%. Get findings from 217 IT and security leaders in the Sophos..."
+ },
+ {
+  "id": "61bb0c298a",
+  "title": "Daily Memo: France Blames Iran for Cyberattack",
+  "source": "Geopolitical Futures",
+  "date": "6 hours ago",
+  "first": "2026-11-10T22:25+01:00",
+  "link": "https://geopoliticalfutures.com/daily-memo-france-blames-iran-for-cyberattack/",
+  "snippet": "Response. France has accused Iran's Islamic Revolutionary Guard Corps of carrying out cyberattacks that disrupted refrigeration systems at around 700."
+ },
+ {
+  "id": "f10fd36834",
+  "title": "Iran denies role in fridge hack, France summons ambassador",
+  "source": "DW.com",
+  "date": "5 hours ago",
+  "first": "2026-11-10T22:25+01:00",
+  "link": "https://www.dw.com/en/iran-denies-french-fridge-cyberattack-hacking/a-79910206",
+  "snippet": "France has said it rules \"nothing\" out in response to a cyberattack on supermarket refrigeration units. Iran, however, said it categorically rejected Paris'..."
+ },
+ {
   "id": "9ad78a9553",
   "title": "France blames Iran for last month's cyberattack on supermarket fridges",
   "source": "PBS",
@@ -313,68 +394,5 @@
   "first": "2026-11-08T11:46+01:00",
   "link": "https://247wallst.com/investing/cryptocurrency/2026/11/07/mercado-bitcoin-is-reopening-after-a-cyberattack-froze-withdrawals-for-a-week-what-happens-to-your-crypto-when-an-exchange-goes-dark/",
   "snippet": "Mercado Bitcoin reopens November 9 for balance checks only after a hack froze withdrawals. What happens to crypto on a frozen exchange?"
- },
- {
-  "id": "5a21da8f80",
-  "title": "Health intel-sharing group warns industry in wake of cyberattack on French blood bank",
-  "source": "Oregon Public Broadcasting - OPB",
-  "date": "4 hours ago",
-  "first": "2026-11-07T20:37+01:00",
-  "link": "https://www.opb.org/article/2026/11/07/healthcare-industry-warned-following-cyberattack-on-french-blood-bank/",
-  "snippet": "In a new security bulletin, the information sharing and analysis center devoted to the healthcare industry, Health ISAC, alerted members to a recent wave of..."
- },
- {
-  "id": "a17c8438c5",
-  "title": "Meloni Blames Pro-Russian Hackers for Cyberattack on Minister",
-  "source": "Bloomberg.com",
-  "date": "4 hours ago",
-  "first": "2026-11-07T20:37+01:00",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-07/meloni-blames-pro-russian-hackers-for-attack-on-foreign-minister",
-  "snippet": "Italian Prime Minister Giorgia Meloni blamed pro-Russian hackers for a cyberattack on her foreign minister, after a rise in hybrid disruptions from entities..."
- },
- {
-  "id": "154dfb949e",
-  "title": "A cyberattack on supermarket fridges, bomb threats to planes and software vulnerabilities have Europe on edge as government officials encourage resilience and stockpiling.",
-  "source": "Facebook",
-  "date": "5 hours ago",
-  "first": "2026-11-07T20:37+01:00",
-  "link": "https://www.facebook.com/nytimes/posts/a-cyberattack-on-supermarket-fridges-bomb-threats-to-planes-and-software-vulnera/1541050847877373/",
-  "snippet": ""
- },
- {
-  "id": "cceee80ab6",
-  "title": "Italy's foreign minister targeted in cyberattack due to Ukraine stance, minister says",
-  "source": "The Kyiv Independent",
-  "date": "4 hours ago",
-  "first": "2026-11-07T20:37+01:00",
-  "link": "https://kyivindependent.com/italys-foreign-minister-targeted-in-cyberattack-due-to-ukraine-stance-minister-says-2/",
-  "snippet": "Italy's Prime Minister Giorgia Meloni expressed her full solidarity with Tajani and linked the attack to pro-Russian hackers, Italian media LaPresse..."
- },
- {
-  "id": "ed54a345ec",
-  "title": "Russia’s Rosstat struggles to restore systems after major cyberattack",
-  "source": "The Seattle Times",
-  "date": "1 hour ago",
-  "first": "2026-11-07T20:37+01:00",
-  "link": "https://www.seattletimes.com/business/russias-rosstat-struggles-to-restore-systems-after-major-cyberattack/",
-  "snippet": "Major Russian economic reports will be delayed through at least Nov. 13 following a recent major hack on the statistics agency Rosstat."
- },
- {
-  "id": "32c3ef22c7",
-  "title": "Italy's Meloni blames pro-Russian hackers for cyberattack on minister",
-  "source": "DW.com",
-  "date": "5 hours ago",
-  "first": "2026-11-07T20:37+01:00",
-  "link": "https://www.dw.com/en/italys-meloni-blames-pro-russian-hackers-for-cyberattack-on-minister/a-79885200",
-  "snippet": "Antonio Tajani has said hackers published personal data stolen from him as Giorgia Meloni blamed pro-Russia criminals for the incident."
- },
- {
-  "id": "113aff4ecf",
-  "title": "Sussex County Prosecutor's Office reports data breach involving Social Security numbers, personal information",
-  "source": "WRNJ Radio",
-  "date": "11 hours ago",
-  "first": "2026-11-07T20:37+01:00",
-  "link": "https://wrnjradio.com/sussex-county-prosecutors-office-reports-data-breach-involving-social-security-numbers-personal-information/",
-  "snippet": "NEWTON, N.J. (Sussex County) — The Sussex County Prosecutor's Office has disclosed a data breach in which an unauthorized individual accessed its computer..."
  }
 ]
