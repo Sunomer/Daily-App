@@ -1,5 +1,41 @@
 [
  {
+  "id": "9ad78a9553",
+  "title": "France blames Iran for last month's cyberattack on supermarket fridges",
+  "source": "PBS",
+  "date": "14 hours ago",
+  "first": "2026-11-10T12:46+01:00",
+  "link": "https://www.pbs.org/newshour/world/france-blames-iran-for-last-months-cyberattack-on-supermarket-fridges",
+  "snippet": "France on Monday blamed Iran for last month's massive cyberattack on supermarket fridges, summoned the Iranian ambassador and said it would seek European..."
+ },
+ {
+  "id": "0e6f77f082",
+  "title": "Anthropic's Claude Fable 5.2 Beats GPT-6 Cyber in Multi-Stage Cyberattack Benchmark",
+  "source": "The Hacker News",
+  "date": "4 hours ago",
+  "first": "2026-11-10T12:46+01:00",
+  "link": "https://thehackernews.com/2026/11/anthropics-claude-fable-52-beats-gpt-6.html",
+  "snippet": "Anthropic releases Claude Fable 5.2 and Mythos 5.2, with Fable scoring 76.3% on a multi-stage cyberattack benchmark."
+ },
+ {
+  "id": "06ddc6e77a",
+  "title": "Israel warns Iran is seeking AI-powered cyberattack capabilities",
+  "source": "CTech",
+  "date": "2 hours ago",
+  "first": "2026-11-10T12:46+01:00",
+  "link": "https://www.calcalistech.com/ctechnews/article/rjve4wgcfg",
+  "snippet": "Yossi Karadi, head of the National Cyber Directorate, says Tehran is pursuing artificial intelligence as a new offensive tool. He warned that AI could give..."
+ },
+ {
+  "id": "5fcf97a86a",
+  "title": "France blames Iran for cyberattack on supermarket fridges",
+  "source": "NBC News",
+  "date": "2 hours ago",
+  "first": "2026-11-10T12:46+01:00",
+  "link": "https://www.nbcnews.com/video/shorts/france-blames-iran-for-cyberattack-on-supermarket-fridges-273187397505",
+  "snippet": "00:23. Save hover state. France blames Iran for cyberattack on supermarket fridges. 00:0000:00. UP NEXT. Russia strikes Ukraine amid U.S.-mediated peace..."
+ },
+ {
   "id": "7957f63b58",
   "title": "France, U.S. Suspect Iran Was Behind Cyberattack on European Fridges",
   "source": "WSJ",
@@ -340,68 +376,5 @@
   "first": "2026-11-07T20:37+01:00",
   "link": "https://wrnjradio.com/sussex-county-prosecutors-office-reports-data-breach-involving-social-security-numbers-personal-information/",
   "snippet": "NEWTON, N.J. (Sussex County) — The Sussex County Prosecutor's Office has disclosed a data breach in which an unauthorized individual accessed its computer..."
- },
- {
-  "id": "b698742f91",
-  "title": "Russia’s Rosstat Struggles to Restore Systems After Major Cyberattack",
-  "source": "Bloomberg.com",
-  "date": "2 hours ago",
-  "first": "2026-11-07T11:41+01:00",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-07/russia-s-rosstat-struggles-to-restore-systems-after-major-cyberattack",
-  "snippet": "Major Russian economic reports will be delayed through at least Nov. 13 following a recent major hack on the statistics agency Rosstat."
- },
- {
-  "id": "50dfaa3924",
-  "title": "Acronis research reveals how Qilin ransomware targets virtual infrastructure",
-  "source": "Acronis",
-  "date": "4 hours ago",
-  "first": "2026-11-07T11:41+01:00",
-  "link": "https://www.acronis.com/en/blog/posts/acronis-research-reveals-how-qilin-ransomware-targets-virtual-infrastructure/",
-  "snippet": "A new analysis from the Acronis Threat Research Unit (TRU), published October 28, 2026, examines how the operation combines adaptable ransomware,..."
- },
- {
-  "id": "c5532d0fb1",
-  "title": "Certificate authority DigiCert reports data breach involving business customer info",
-  "source": "The Record from Recorded Future News",
-  "date": "11 hours ago",
-  "first": "2026-11-07T11:41+01:00",
-  "link": "https://therecord.media/digicert-certificate-authority-reports-data-breach",
-  "snippet": "Internet security firm DigiCert reported a data breach involving an internal business system that was left exposed and eventually accessed by someone..."
- },
- {
-  "id": "405b34dd98",
-  "title": "TruStage cyberattack leaves grieving Las Vegas family waiting for insurance",
-  "source": "KTNV Las Vegas",
-  "date": "13 hours ago",
-  "first": "2026-11-07T11:41+01:00",
-  "link": "https://www.ktnv.com/13-investigates/whats-the-deal/trustage-cyberattack-leaves-grieving-las-vegas-family-waiting-for-insurance",
-  "snippet": "A Las Vegas woman waited months for life insurance after a TruStage cyberattack. Now 14 lawsuits target the insurer over data security failures."
- },
- {
-  "id": "c49f11fd27",
-  "title": "Nearly a week after cyberattack, Turning Stone still dealing with tech and phone outages across resort",
-  "source": "Syracuse.com",
-  "date": "11 hours ago",
-  "first": "2026-11-07T11:41+01:00",
-  "link": "https://www.syracuse.com/business/2026/11/nearly-a-week-after-cyberattack-turning-stone-still-dealing-with-tech-and-phone-outages-across-resort.html",
-  "snippet": "Heading into a busy fall weekend and nearly a week after a cyberattack first struck, several Turning Stone Enterprises properties are still dealing with..."
- },
- {
-  "id": "e71bb9b23c",
-  "title": "Mirae Asset Data Breach: 35,255 Staff Hit [2026]",
-  "source": "https://tech-insider.org/",
-  "date": "2 hours ago",
-  "first": "2026-11-07T11:41+01:00",
-  "link": "https://tech-insider.org/mirae-asset-securities-data-breach-35255-staff-3800-customers-2026/",
-  "snippet": "Mirae Asset Securities confirmed a breach exposing 35255 employees' data in 2026. See what was leaked, who is at risk, and the steps staff should take now."
- },
- {
-  "id": "d4ee136ae7",
-  "title": "Cyberattack on Blood-Storage Systems Tests Cold-Chain Defenses",
-  "source": "Lab Manager",
-  "date": "11 hours ago",
-  "first": "2026-11-07T11:41+01:00",
-  "link": "https://www.labmanager.com/cyberattack-on-blood-storage-systems-tests-cold-chain-defenses-36246",
-  "snippet": "A cyberattack targeting blood-storage refrigeration systems highlights cybersecurity, alarm, vendor-access, and continuity risks for laboratories."
  }
 ]
