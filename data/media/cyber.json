@@ -1,5 +1,86 @@
 [
  {
+  "id": "65f6b7c03d",
+  "title": "Ransomware damage costs predicted to quintuple by 2031. What’s your plan?",
+  "source": "Cybercrime Magazine",
+  "date": "8 hours ago",
+  "first": "2026-11-11T23:15+01:00",
+  "link": "https://cybersecurityventures.com/ransomware-damage-costs-predicted-to-quintuple-by-2031-whats-your-plan/",
+  "snippet": "This week in cybersecurity from the editors at Cybercrime Magazine."
+ },
+ {
+  "id": "4c32248b41",
+  "title": "Maersk confirms data breach as WhiteArmor ransomware demands $5 million",
+  "source": "BleepingComputer",
+  "date": "6 hours ago",
+  "first": "2026-11-11T23:15+01:00",
+  "link": "https://www.bleepingcomputer.com/news/security/maersk-confirms-data-breach-as-whitearmor-ransomware-demands-5-million/",
+  "snippet": "Shipping giant Maersk has confirmed that a threat actor breached systems belonging to a company it previously acquired and stole data. Ransomware group..."
+ },
+ {
+  "id": "8cdc4a0f74",
+  "title": "Who Runs the Ransomware Group Qilin?",
+  "source": "Krebs on Security",
+  "date": "3 hours ago",
+  "first": "2026-11-11T23:15+01:00",
+  "link": "https://krebsonsecurity.com/2026/11/who-runs-the-ransomware-group-qilin/",
+  "snippet": "The cybercrime group Qilin has emerged as the world's most active ransomware affiliate program, claiming at least 365 victim organizations in the past three..."
+ },
+ {
+  "id": "4019e1f7f2",
+  "title": "Maersk Probes Ransomware Claim Tied to Legacy System",
+  "source": "BankInfoSecurity",
+  "date": "2 hours ago",
+  "first": "2026-11-11T23:15+01:00",
+  "link": "https://www.bankinfosecurity.com/maersk-probes-ransomware-claim-tied-to-legacy-system-a-33362",
+  "snippet": "Maersk is investigating unauthorized access to a legacy IT system after ransomware group WhiteArmor claimed to have stolen 100GB of data and demanded $5..."
+ },
+ {
+  "id": "8aa2db562a",
+  "title": "Pyramid Healthcare Data Breach? Attorneys Investigate Hackers' Claims",
+  "source": "ClassAction.org",
+  "date": "6 hours ago",
+  "first": "2026-11-11T23:15+01:00",
+  "link": "https://www.classaction.org/data-breach-lawsuits/pyramid-healthcare-november-2026",
+  "snippet": "Suspect your information could have been exposed in the alleged Pyramid Healthcare data breach? Read more about the possible cyberattack."
+ },
+ {
+  "id": "678b286aa1",
+  "title": "Consumer goods manufacturer data breach hits 7.7M customers",
+  "source": "Business Insurance",
+  "date": "8 hours ago",
+  "first": "2026-11-11T23:15+01:00",
+  "link": "https://www.businessinsurance.com/consumer-goods-manufacturer-data-breach-hits-7-7m-customers/",
+  "snippet": "Japanese consumer goods manufacturer Iris Ohyama Inc. suffered a cyberattack related to a third-party cloud service that exposed data on 7.7 million people…"
+ },
+ {
+  "id": "035672de80",
+  "title": "Vanderbilt restores systems after cyberattack as hackers claim data theft",
+  "source": "Malwarebytes",
+  "date": "4 hours ago",
+  "first": "2026-11-11T23:15+01:00",
+  "link": "https://www.malwarebytes.com/blog/news/2026/11/vanderbilt-restores-systems-after-cyberattack-as-hackers-claim-data-theft",
+  "snippet": "Vanderbilt University is bringing systems back online after a cybersecurity incident claimed by the BYOD ransomware group."
+ },
+ {
+  "id": "e972727ba5",
+  "title": "Harley-Davidson Hit With Proposed Class Action After Data Breach",
+  "source": "Bloomberg Law News",
+  "date": "5 hours ago",
+  "first": "2026-11-11T23:15+01:00",
+  "link": "https://news.bloomberglaw.com/business-and-practice/harley-davidson-hit-with-proposed-class-action-after-data-breach",
+  "snippet": "A former Harley-Davidson Inc. employee sued the motorcycle maker over a September ransomware attack in which a criminal hacking group stole roughly 270..."
+ },
+ {
+  "id": "3edf92bd0d",
+  "title": "Vanguard Faces Class Actions Over Data Breach",
+  "source": "ThinkAdvisor",
+  "date": "2 hours ago",
+  "first": "2026-11-11T23:15+01:00",
+  "link": "https://thinkadvisor.com/2026/11/11/vanguard-faces-class-actions-over-data-breach/",
+  "snippet": "Vanguard faces several putative class-action lawsuits filed this month alleging negligence, breach of implied contract and other violations stemming from a..."
+ },
+ {
   "id": "dae66cb984",
   "title": "Ransomware Gang Says It Hacked Vanderbilt University",
   "source": "Inside Higher Ed",
@@ -367,59 +448,5 @@
   "first": "2026-11-09T13:07+01:00",
   "link": "https://www.techradar.com/pro/security/who-gives-a-crap-data-breach-at-ethical-toilet-paper-company-exposes-customer-information-across-uk-us-and-australia",
   "snippet": "Toilet paper firm Who Gives A Crap has told customers it has suffered a major data breach which leaked user information across three major markets."
- },
- {
-  "id": "f111fed946",
-  "title": "University Hospitals (Ohio) cyberattack leaves MyChart offline for two weeks",
-  "source": "Beinsure",
-  "date": "8 hours ago",
-  "first": "2026-11-08T20:57+01:00",
-  "link": "https://beinsure.com/news/university-hospitals-cyberattack-leaves-mychart-offline/",
-  "snippet": "University Hospitals is still experiencing website and MyChart outages two weeks after an October 22 cybersecurity incident, with no confirmed restoration..."
- },
- {
-  "id": "4bad71580a",
-  "title": "Italy to raise cyberattack concerns at G7 foreign ministers meeting",
-  "source": "Yahoo",
-  "date": "1 hour ago",
-  "first": "2026-11-08T20:57+01:00",
-  "link": "https://www.yahoo.com/news/world/articles/italy-raise-cyberattack-concerns-g7-184821120.html",
-  "snippet": "Italy's Foreign Minister Antonio Tajani intends to raise the issue of recent cyberattacks by a suspected pro-Russian group at the G7 foreign ministers'..."
- },
- {
-  "id": "b9fbab0253",
-  "title": "Licensable video: Video illustrations - Binance hit by cyberattack affecting billions of dollars - 11/04/2026",
-  "source": "Reuters Connect",
-  "date": "12 hours ago",
-  "first": "2026-11-08T20:57+01:00",
-  "link": "https://www.reutersconnect.com/item/video-illustrations-binance-hit-by-cyberattack-affecting-billions-of-dollars-11042026/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX09XTlVSQ0JPSVZJTlZJREVPSUxMMjYxMTA3TlA4RVY",
-  "snippet": "Créteil, France - November 07, 2026 - The Binance logo and website are displayed on various screens in Cr?teil, France, on November 4, 2026, as the company..."
- },
- {
-  "id": "45388ebf69",
-  "title": "Amplifon Data Breach Investigation: Edelson Lechtzin LLP Probes Class Action Claims After Social Security Numbers and Health Records Are Exposed",
-  "source": "PR Newswire",
-  "date": "4 hours ago",
-  "first": "2026-11-08T20:57+01:00",
-  "link": "https://www.prnewswire.com/news-releases/amplifon-data-breach-investigation-edelson-lechtzin-llp-probes-class-action-claims-after-social-security-numbers-and-health-records-are-exposed-302932752.html",
-  "snippet": "PRNewswire/ -- Edelson Lechtzin LLP, a national class action law firm, is investigating data privacy claims arising from a data breach at Amplifon (USA),..."
- },
- {
-  "id": "7066aea8c4",
-  "title": "Mirae Asset Securities Cyberattack Leaks 39,000+ Customer, Employee Data",
-  "source": "조선일보",
-  "date": "7 hours ago",
-  "first": "2026-11-08T20:57+01:00",
-  "link": "https://www.chosun.com/english/market-money-en/2026/11/08/CD54QECY5NDGZBM6S3QDVZJFGU/",
-  "snippet": "Mirae Asset Securities Cyberattack Leaks 39000+ Customer, Employee Data Breach part of wider cyberattacks on South Korean financial firms, including."
- },
- {
-  "id": "9594886d34",
-  "title": "Deepfake Fraud, DORA Fines & Bank Breaches: Cyber Nov 2026",
-  "source": "FinanceX Magazine",
-  "date": "9 hours ago",
-  "first": "2026-11-08T20:57+01:00",
-  "link": "https://www.financexmagazine.com/post/a-900-million-deepfake-tab-dora-s-first-real-enforcement-wave-and-a-ransomware-hit-that-should-wo",
-  "snippet": "Deepfake scams near $900M, DORA bites harder, and ransomware hits banks again. Get the cybersecurity breakdown for finance now."
  }
 ]
