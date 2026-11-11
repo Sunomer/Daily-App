@@ -1,5 +1,77 @@
 [
  {
+  "id": "dae66cb984",
+  "title": "Ransomware Gang Says It Hacked Vanderbilt University",
+  "source": "Inside Higher Ed",
+  "date": "3 hours ago",
+  "first": "2026-11-11T12:27+01:00",
+  "link": "https://www.insidehighered.com/news/tech-innovation/administrative-tech/2026/11/11/ransomware-gang-says-it-hacked-vanderbilt",
+  "snippet": "The university had restored many of its operations by Tuesday, but hackers claim they stole one million–plus Social Security numbers and tranches of other..."
+ },
+ {
+  "id": "69d9bcf513",
+  "title": "Why Backups alone cannot save Healthcare Providers from Ransomware",
+  "source": "Cybersecurity Insiders",
+  "date": "2 hours ago",
+  "first": "2026-11-11T12:27+01:00",
+  "link": "https://www.cybersecurity-insiders.com/why-backups-alone-cannot-save-healthcare-providers-from-ransomware/",
+  "snippet": "Ransomware has emerged as one of the most serious cybersecurity threats facing the healthcare sector. Hospitals, clinics, diagnostic centres,..."
+ },
+ {
+  "id": "c2cb39abe5",
+  "title": "Ethical hacker warns: one in two people risk falling victim to a cyberattack",
+  "source": "Euronews.com",
+  "date": "2 hours ago",
+  "first": "2026-11-11T12:27+01:00",
+  "link": "https://www.euronews.com/2026/11/11/ethical-hacker-warns-one-in-two-people-risk-falling-victim-to-a-cyberattack",
+  "snippet": "From supermarket fridges and blood services to Berlin's state network, cyberattacks increasingly hit critical infrastructure, as an ethical hacker tells..."
+ },
+ {
+  "id": "70e02f8ce5",
+  "title": "What to know about 'unprecedented' cyberattacks on refrigerators in France",
+  "source": "ABC News - Breaking News, Latest News and Videos",
+  "date": "12 hours ago",
+  "first": "2026-11-11T12:27+01:00",
+  "link": "https://abcnews.com/International/unprecedented-cyberattacks-refrigerators-france/story?id=138028066",
+  "snippet": "French authorities have blamed Iran for the attacks that hit 700 supermarkets. Iranian officials called the accusations \"baseless and biased.\""
+ },
+ {
+  "id": "d31cf68049",
+  "title": "OSF joins statewide AI cyberattack exercise to strengthen hospital emergency response",
+  "source": "WEEK / 25 News Now",
+  "date": "9 hours ago",
+  "first": "2026-11-11T12:27+01:00",
+  "link": "https://www.25newsnow.com/2026/11/11/osf-joins-statewide-ai-cyberattack-exercise-strengthen-hospital-emergency-response/",
+  "snippet": "More than 115 hospitals and health systems recently participated in “Broken Trust: AI Takes Control,” a statewide emergency preparedness exercise led by the..."
+ },
+ {
+  "id": "81c703f7ea",
+  "title": "MSSP Ransomware Protection: How Halcyon Helps Partners Defend the Businesses Attackers Hit Most",
+  "source": "Halcyon Anti-Ransomware Platform",
+  "date": "14 hours ago",
+  "first": "2026-11-11T12:27+01:00",
+  "link": "https://www.halcyon.ai/blog/mssp-ransomware-protection",
+  "snippet": "The businesses MSSPs and MSPs protect are the businesses ransomware hits most. In Verizon's 2026 Data Breach Investigations Report (DBIR),..."
+ },
+ {
+  "id": "3343e5ac17",
+  "title": "Hackers Claim Data on 1 Million People in Vanderbilt University Ransomware Attack",
+  "source": "The SOFX Report",
+  "date": "7 hours ago",
+  "first": "2026-11-11T12:27+01:00",
+  "link": "https://www.sofx.com/hackers-claim-data-on-1-million-people-in-vanderbilt-university-ransomware-attack/",
+  "snippet": "Takeaways Up Front 1. The ransomware group BYOD claims to have stolen data belonging to more than 1 million Vanderbilt University students and employees."
+ },
+ {
+  "id": "32302349fb",
+  "title": "Huntress Launches Incident Response Program Towards Cyberattack Recovery Resilience",
+  "source": "Redmond Channel Partner",
+  "date": "6 hours ago",
+  "first": "2026-11-11T12:27+01:00",
+  "link": "https://rcpmag.com/blogs/rcp-channel-briefing/2026/11/huntress-launches-incident-response-program.aspx",
+  "snippet": "The global partner initiative gives incident response firms access to managed identity security tools during cyberattack recovery."
+ },
+ {
   "id": "26fc9afd4e",
   "title": "BREAKING: Vanderbilt experiencing cybersecurity attack, VUIT responding",
   "source": "The Vanderbilt Hustler",
@@ -349,50 +421,5 @@
   "first": "2026-11-08T20:57+01:00",
   "link": "https://www.financexmagazine.com/post/a-900-million-deepfake-tab-dora-s-first-real-enforcement-wave-and-a-ransomware-hit-that-should-wo",
   "snippet": "Deepfake scams near $900M, DORA bites harder, and ransomware hits banks again. Get the cybersecurity breakdown for finance now."
- },
- {
-  "id": "2c0711bb2f",
-  "title": "Online Backup Services Ransomware Test: 13 Steps [2026]",
-  "source": "tech-insider.org",
-  "date": "18 minutes ago",
-  "first": "2026-11-08T11:46+01:00",
-  "link": "https://tech-insider.org/au/online-backup-services-ransomware-restore-test-windows-2026/",
-  "snippet": "Test online backup services on Windows with a safe ransomware simulation: 13 steps, SHA-256 restore checks and five-year costs in USD."
- },
- {
-  "id": "c6d6b1f3a8",
-  "title": "CNet IDs Disabled Following Cyberattack on Computer Science Department",
-  "source": "Chicago Maroon",
-  "date": "8 hours ago",
-  "first": "2026-11-08T11:46+01:00",
-  "link": "https://chicagomaroon.com/54546/news/cnet-ids-disabled-following-cyberattack-on-computer-science-department/",
-  "snippet": "Students and staff whose CNet IDs were disabled were unable to access platforms requiring their UChicago logins on Saturday. The CS department's director of..."
- },
- {
-  "id": "9ae4fdfcc0",
-  "title": "Queens Public Library hit by ransomware at 66 branches",
-  "source": "2-Spyware",
-  "date": "14 hours ago",
-  "first": "2026-11-08T11:46+01:00",
-  "link": "https://www.2-spyware.com/queens-public-library-ransomware-66-branches-outage",
-  "snippet": "A ransomware attack knocked out Wi-Fi, checkout machines, public computers and the website across New York's Queens Public Library."
- },
- {
-  "id": "b3479fc8b9",
-  "title": "Brenner Base Tunnel Cyberattack: 5 Key Facts [2026]",
-  "source": "shattered.io",
-  "date": "11 hours ago",
-  "first": "2026-11-08T11:46+01:00",
-  "link": "https://shattered.io/brenner-base-tunnel-cyberattack-bbt-se-data-access-64-km-2026/",
-  "snippet": "What data hackers accessed in the Brenner Base Tunnel cyberattack: 5 key facts on the breach, who is affected, and what happens next. Updated 2026."
- },
- {
-  "id": "8e1c4b249e",
-  "title": "Mercado Bitcoin Is Reopening After a Cyberattack Froze Withdrawals for a Week. What Happens to Your Crypto When an Exchange Goes Dark?",
-  "source": "24/7 Wall St.",
-  "date": "13 hours ago",
-  "first": "2026-11-08T11:46+01:00",
-  "link": "https://247wallst.com/investing/cryptocurrency/2026/11/07/mercado-bitcoin-is-reopening-after-a-cyberattack-froze-withdrawals-for-a-week-what-happens-to-your-crypto-when-an-exchange-goes-dark/",
-  "snippet": "Mercado Bitcoin reopens November 9 for balance checks only after a hack froze withdrawals. What happens to crypto on a frozen exchange?"
  }
 ]
