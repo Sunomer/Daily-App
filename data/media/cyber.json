@@ -1,5 +1,95 @@
 [
  {
+  "id": "4a7a678889",
+  "title": "Lessons Learned From The Biggest Ransomware Attacks",
+  "source": "Cybercrime Magazine",
+  "date": "8 hours ago",
+  "first": "2026-11-12T22:55+01:00",
+  "link": "https://cybersecurityventures.com/lessons-learned-from-the-biggest-ransomware-attacks/",
+  "snippet": "Sausalito, Calif. – Nov. 12, 2026. –Read the Full Story in ProLion. Ransomware is the fastest-growing type of cybercrime, and the global cost of ransomware..."
+ },
+ {
+  "id": "023d1c79ca",
+  "title": "Cyberattack on Fireworks AI allowed hackers to access Notion customers’ chat transcripts",
+  "source": "TechCrunch",
+  "date": "7 hours ago",
+  "first": "2026-11-12T22:55+01:00",
+  "link": "https://techcrunch.com/2026/11/12/cyberattack-on-fireworks-ai-allowed-hackers-to-access-notion-customers-chat-transcripts/",
+  "snippet": "This is Fireworks' second data breach in as many months."
+ },
+ {
+  "id": "fd9cf6c4a8",
+  "title": "Investor Sues Vanguard Over Alleged Data Breach",
+  "source": "Barron's",
+  "date": "46 minutes ago",
+  "first": "2026-11-12T22:55+01:00",
+  "link": "https://www.google.com/goto?url=CAESiwEBxCJF177E3CUgzKAaAvqpPYPaKZh6H3gY5VBy4_OwP3LAI7S0r6cIny09u84_ddhaqg7-FQVb3zsL6iI64ebS0G3gB48rs6ngdWoevime0fOd6zdzRoa3rNjxlmI_0R0oxPW-cUe8Pt-s8WEFXKAOktOvOEyfYonGE8f7EfC1oM20R_WsFaIC1KG3&gsessionid=NXb4FWog_Xww1_TUAupLPlhKSaRSWU5qYjRh04JANdYPNuhFuwYnfw",
+  "snippet": "A hacker allegedly infiltrated Vanguard systems last month, according to a new investor lawsuit filed in federal court."
+ },
+ {
+  "id": "1922c9eb10",
+  "title": "First Class-Action Lawsuit filed against Vanderbilt University following massive campus cyberattack",
+  "source": "News Channel 5 Nashville",
+  "date": "10 hours ago",
+  "first": "2026-11-12T22:55+01:00",
+  "link": "https://www.newschannel5.com/news/first-class-action-lawsuit-filed-against-vanderbilt-university-following-massive-campus-cyberattack",
+  "snippet": "Filed by a former student and employee, the complaint accuses the university of gross negligence and unencrypted data storage, seeking financial damages,..."
+ },
+ {
+  "id": "169fd9e9e4",
+  "title": "RPS data breach: Former students at risk after dark web leak",
+  "source": "Axios",
+  "date": "3 hours ago",
+  "first": "2026-11-12T22:55+01:00",
+  "link": "https://www.axios.com/local/richmond/2026/11/12/rps-cyberattack-former-students-employees-dark-web",
+  "snippet": "The district hasn't disclosed how many people were affected, what was exposed or how far back the compromised records date."
+ },
+ {
+  "id": "9b10d73bdc",
+  "title": "ConnectWise disables third-party extensions as it probes cyberattack targeting ScreenConnect users",
+  "source": "Cybersecurity Dive",
+  "date": "6 hours ago",
+  "first": "2026-11-12T22:55+01:00",
+  "link": "https://www.cybersecuritydive.com/news/connectwise-disables-third-party-extensions-cyberattack-ScreenConnect/874490/",
+  "snippet": "Researchers warn the platform is being abused to gain remote access and install malicious toolkits."
+ },
+ {
+  "id": "a13d05e16a",
+  "title": "Tanner Clinic Data Breach? Attorneys Investigate Hackers' Claims",
+  "source": "ClassAction.org",
+  "date": "5 hours ago",
+  "first": "2026-11-12T22:55+01:00",
+  "link": "https://www.classaction.org/data-breach-lawsuits/tanner-clinic-november-2026",
+  "snippet": "Suspect your information could have been exposed in the alleged Tanner Clinic data breach? Read more about the possible cyberattack and what you can do."
+ },
+ {
+  "id": "f78bba15c7",
+  "title": "Maersk investigates legacy-system breach after WhiteArmor ransomware group claims 100GB logistics data theft",
+  "source": "Industrial Cyber",
+  "date": "12 hours ago",
+  "first": "2026-11-12T22:55+01:00",
+  "link": "https://www.google.com/goto?url=CAES0QEBxCJF1-A-mYc1y8iId2q8VZyLAzZOV-XAKzvZfmz8j1uFsbfq-nlN0q4oOtRaCESEoob5_ApNWubmay1gGzyRX_y7wZ3tN1Ja_FmuD7EkqNFHzCfV6dqwI2LYOUBTOOKOFDJ3H1p8bzO_FOrDjzWwydmykEgB4I3gpPykXqYsfHQu2uujxZ1oG62klGix7BV9wLXEtDyMHjVOcmT1dGB-c-ehmOY4BQjEjw3tpIoOislI8bky9aoDtEcLs9rsPYj12vlVhXqp8Nnqn10_jhN8gQ&gsessionid=NXb4FWog_Xww1_TUAupLPlhKSaRSWU5qYjRh04JANdYPNuhFuwYnfw",
+  "snippet": "Danish integrated shipping and logistics company A.P. Moller-Maersk disclosed Wednesday that it was investigating unauthorized access to and data extraction..."
+ },
+ {
+  "id": "f6a75d03e5",
+  "title": "Maersk hit by cyberattack, ransom demand",
+  "source": "Business Insurance",
+  "date": "7 hours ago",
+  "first": "2026-11-12T22:55+01:00",
+  "link": "https://www.businessinsurance.com/maersk-hit-by-cyberattack-ransom-demand/",
+  "snippet": "A cyberattack hit Danish shipping giant A.P. Moller–Maersk AS over the weekend, with a ransomware group publicly threatening to release about 100 gigabytes..."
+ },
+ {
+  "id": "459f3ef559",
+  "title": "Southwire Confirms Data Breach Exposing Employee Health and Identity Records",
+  "source": "Security Today",
+  "date": "2 hours ago",
+  "first": "2026-11-12T22:55+01:00",
+  "link": "https://securitytoday.com/articles/2026/11/12/southwire-confirms-data-breach-exposing-employee-health-and-identity-records.aspx",
+  "snippet": "Unauthorized actors accessed files on the wire and cable manufacturer's systems over a three-month period, compromising sensitive personal data."
+ },
+ {
   "id": "756dabefb9",
   "title": "Maersk investigates legacy-system breach after WhiteArmor ransomware group claims 100GB logistics data theft",
   "source": "Industrial Cyber",
@@ -430,95 +520,5 @@
   "first": "2026-11-10T00:51+01:00",
   "link": "https://www.cnn.com/2026/11/09/europe/france-accuses-iran-of-fridge-cyberattack-intl",
   "snippet": "France is blaming Iran for last month's supermarket refrigerator cyberattack. which spoiled produce at around 700 retailers, and is vowing to slap sanctions..."
- },
- {
-  "id": "e04e1af415",
-  "title": "After cyberattack, rural Washburn County is upping security",
-  "source": "WPR",
-  "date": "1 hour ago",
-  "first": "2026-11-09T13:07+01:00",
-  "link": "https://www.wpr.org/news/cyberattack-rural-washburn-county-is-upping-security",
-  "snippet": "Far-northern Washburn County will spend thousands on top-level cybersecurity monitoring months after an attack took the county government's entire network..."
- },
- {
-  "id": "3c0c651efe",
-  "title": "Over 3 Million People Hit by Frontline Education Data Breach",
-  "source": "SecurityWeek",
-  "date": "2 hours ago",
-  "first": "2026-11-09T13:07+01:00",
-  "link": "https://www.securityweek.com/3-million-people-hit-by-frontline-education-data-breach/",
-  "snippet": "Frontline Education's data breach affected more than 3 million people, well above the 1.3 million suggested by earlier state filings."
- },
- {
-  "id": "b99198b033",
-  "title": "From supermarket fridges to passenger flights, a wave of threats is testing Europe's defenses",
-  "source": "CNBC",
-  "date": "7 hours ago",
-  "first": "2026-11-09T13:07+01:00",
-  "link": "https://www.cnbc.com/2026/11/09/europe-fridge-hacks-bomb-threats-cyberattack.html",
-  "snippet": "Europe has faced a number of security threats this month, including cyberattacks on refrigeration systems at supermarkets and hoax bomb threats which..."
- },
- {
-  "id": "7d51b99e83",
-  "title": "Queens Public Library restores some services after ransomware attack",
-  "source": "ABC7 New York",
-  "date": "14 hours ago",
-  "first": "2026-11-09T13:07+01:00",
-  "link": "https://abc7ny.com/post/queens-public-library-restores-services-ransomware-attack/20024588/",
-  "snippet": "Queens Public Library says a ransomware attack continues to disrupt several services, limited check-out and return operations have been restored."
- },
- {
-  "id": "e7bfaf3aed",
-  "title": "French Bank Loses 100 Million Euros in Cyberattack",
-  "source": "BankInfoSecurity",
-  "date": "3 hours ago",
-  "first": "2026-11-09T13:07+01:00",
-  "link": "https://www.bankinfosecurity.com/french-bank-loses-100-million-euros-in-cyberattack-a-33309",
-  "snippet": "French financial institution Crédit Mutuel Arkéa says a cyberattack led to the theft of 100 million euros - $112 million - which it is now trying to..."
- },
- {
-  "id": "b87dd4f9bb",
-  "title": "Arnold Clark Cyberattack: 15,000 Eligible Claimants [2026]",
-  "source": "https://tech-insider.org/",
-  "date": "4 hours ago",
-  "first": "2026-11-09T13:07+01:00",
-  "link": "https://tech-insider.org/arnold-clark-cyberattack-compensation-15000-claimants-scotland-2026/",
-  "snippet": "Arnold Clark cyberattack compensation: 15000 customers may be eligible. See who qualifies, what you could claim and how to file in 2026."
- },
- {
-  "id": "2ed1cbeb48",
-  "title": "Brenner Base Tunnel company hit by cyberattack, weeks after Fehmarnbelt contractor",
-  "source": "RailFreight.com",
-  "date": "2 hours ago",
-  "first": "2026-11-09T13:07+01:00",
-  "link": "https://www.railfreight.com/railfreight/2026/11/09/brenner-base-tunnel-company-hit-by-cyberattack-weeks-after-fehmarnbelt-contractor/",
-  "snippet": "BBT SE, which is building the Brenner Base Tunnel, confirms a data breach blamed on the Everest gang. The Fehmarnbelt tunnel contractor was hit in October."
- },
- {
-  "id": "5962da43ad",
-  "title": "Hospital staff faced 'significant distress' over data breach",
-  "source": "HR Magazine",
-  "date": "21 minutes ago",
-  "first": "2026-11-09T13:07+01:00",
-  "link": "https://www.hrmagazine.co.uk/content/news/hospital-staff-faced-significant-distress-over-data-breach",
-  "snippet": "Staff working for the Royal Cornwall Hospitals NHS Trust reportedly experienced “significant distress”, a loss of trust and ongoing anxiety,..."
- },
- {
-  "id": "deb057310d",
-  "title": "Arnold Clark Cyberattack: 15,000 in Group Case [2026]",
-  "source": "shattered.io",
-  "date": "3 hours ago",
-  "first": "2026-11-09T13:07+01:00",
-  "link": "https://shattered.io/arnold-clark-cyberattack-group-action-15000-customers-court-of-session-2026/",
-  "snippet": "Arnold Clark cyberattack: group proceedings cover about 15000 customers. See what the firm admitted, what it disputes, and what is still undecided."
- },
- {
-  "id": "8149b93005",
-  "title": "Who Gives A Crap: Data breach at ethical toilet paper company exposes customer information across UK, US and Australia",
-  "source": "TechRadar",
-  "date": "1 hour ago",
-  "first": "2026-11-09T13:07+01:00",
-  "link": "https://www.techradar.com/pro/security/who-gives-a-crap-data-breach-at-ethical-toilet-paper-company-exposes-customer-information-across-uk-us-and-australia",
-  "snippet": "Toilet paper firm Who Gives A Crap has told customers it has suffered a major data breach which leaked user information across three major markets."
  }
 ]
