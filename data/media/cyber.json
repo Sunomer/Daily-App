@@ -1,5 +1,77 @@
 [
  {
+  "id": "756dabefb9",
+  "title": "Maersk investigates legacy-system breach after WhiteArmor ransomware group claims 100GB logistics data theft",
+  "source": "Industrial Cyber",
+  "date": "2 hours ago",
+  "first": "2026-11-12T12:50+01:00",
+  "link": "https://industrialcyber.co/ransomware/maersk-investigates-legacy-system-breach-after-whitearmor-ransomware-group-claims-100gb-logistics-data-theft/",
+  "snippet": "Danish integrated shipping and logistics company A.P. Moller-Maersk disclosed Wednesday that it was investigating unauthorized access to and data extraction..."
+ },
+ {
+  "id": "f5f5bc16fe",
+  "title": "CISOs say OT will survive a cyberattack, but their engineers aren’t so sure",
+  "source": "Help Net Security",
+  "date": "6 hours ago",
+  "first": "2026-11-12T12:50+01:00",
+  "link": "https://www.helpnetsecurity.com/2026/11/12/sans-industrial-cybersecurity-survey/",
+  "snippet": "Ask industrial security chiefs whether their plants would keep running through a full IT compromise, and every one who answered the SANS 2026 ICS/OT survey..."
+ },
+ {
+  "id": "3cbd0d2707",
+  "title": "Maersk Reveals Data Breach as Extortion Group Demands $5m",
+  "source": "Infosecurity Magazine",
+  "date": "3 hours ago",
+  "first": "2026-11-12T12:50+01:00",
+  "link": "https://www.infosecurity-magazine.com/news/maersk-data-breach-extortion-group/",
+  "snippet": "Maersk has disclosed a data breach involving one of its IT systems after an extortion group claimed to have stolen 100GB of logistics-related data from the..."
+ },
+ {
+  "id": "218132bc39",
+  "title": "Pentagon Investigates Whether Hackers Spoiled Commissary Food at Army, Navy and Air Force Bases",
+  "source": "Military.com",
+  "date": "2 hours ago",
+  "first": "2026-11-12T12:50+01:00",
+  "link": "https://www.military.com/commissary-freezer-failures-spur-cyberattack-probe-at-us-military-bases",
+  "snippet": "The Pentagon is investigating whether cyberattacks caused August commissary freezer failures that left families buying perishables off base."
+ },
+ {
+  "id": "68b936e8f8",
+  "title": "Vanderbilt faces class action lawsuit after cyberattack; law professor says victims could receive as little as $20",
+  "source": "WKRN News 2",
+  "date": "17 hours ago",
+  "first": "2026-11-12T12:50+01:00",
+  "link": "https://www.wkrn.com/news/local-news/nashville/lawsuit-filed-over-vanderbilt-university-cyberattack/",
+  "snippet": "A former Vanderbilt University student has filed a class action lawsuit against the school over the cyberattack it experienced Monday."
+ },
+ {
+  "id": "8666bed589",
+  "title": "Ransomware group claims attack on Delta Dental of Mo.",
+  "source": "DrBicuspid.com",
+  "date": "3 hours ago",
+  "first": "2026-11-12T12:50+01:00",
+  "link": "https://www.drbicuspid.com/dental-practice/patient-communication/privacy/article/16424437/ransomware-group-claims-attack-on-delta-dental-of-mo",
+  "snippet": "Delta Dental of Missouri is the recent victim of ransomware group NOn, which says it seized Social Security numbers and other patient data."
+ },
+ {
+  "id": "44ca86a8ec",
+  "title": "Vanguard Faces Class Actions Over Data Breach",
+  "source": "ThinkAdvisor",
+  "date": "12 hours ago",
+  "first": "2026-11-12T12:50+01:00",
+  "link": "https://www.google.com/goto?url=CAESkwEBxCJF1_0S8PkEEwndvslmemaX7RmcZV2Ehyl6rs66WFlgC0nQhcq2WvWvh6uAWrCiPYYw9HB01_0c_3bjKlVW7glpSUzlsjcJ2i4Cz2Fz6nG2eX8Ax98sbavJaLRRMKFX1HpdJ91cIPrzFqHvY0nGrQZ34WwIynWuYq9n78ENmxYtw7Cd9CxHrIeKBPuC_l0I6h4&gsessionid=EruGA0jWffUAKKKXnjqRJUJzyb4A7dluemUr4AKIOYg-ABa9R11y2Q",
+  "snippet": "Vanguard faces several putative class-action lawsuits filed this month alleging negligence, breach of implied contract and other violations stemming from a..."
+ },
+ {
+  "id": "58e5fc6bce",
+  "title": "Passport validity unaffected by data breach of 70,000 headshots: BOCA",
+  "source": "Focus Taiwan",
+  "date": "5 hours ago",
+  "first": "2026-11-12T12:50+01:00",
+  "link": "https://focustaiwan.tw/society/202611120013",
+  "snippet": "Passports already issued remain valid despite a data breach involving more than 70000 passport photos held by the Ministry of Foreign Affairs' Bureau of..."
+ },
+ {
   "id": "65f6b7c03d",
   "title": "Ransomware damage costs predicted to quintuple by 2031. What’s your plan?",
   "source": "Cybercrime Magazine",
