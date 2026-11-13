@@ -1,5 +1,95 @@
 [
  {
+  "id": "c7972dcf13",
+  "title": "Uber Says Personal Data Was Exposed in Third-Party Data Breach",
+  "source": "WSJ",
+  "date": "2 hours ago",
+  "first": "2026-11-13T22:37+01:00",
+  "link": "https://www.wsj.com/tech/uber-says-personal-data-was-exposed-in-third-party-data-breach-02e3a875",
+  "snippet": "The transportation company says an unauthorized third party had compromised a service provider's internal credentials and used them to access Uber's..."
+ },
+ {
+  "id": "810ecd44c3",
+  "title": "City of Osaka warns of data breach impacting 1 million as Japan reels from dozens of cyber incidents",
+  "source": "The Record from Recorded Future News",
+  "date": "2 hours ago",
+  "first": "2026-11-13T22:37+01:00",
+  "link": "https://therecord.media/city-of-osaka-japan-email-data-breach",
+  "snippet": "The city of Osaka notified the public that a data breach involving a third-party technology provider exposed more than 1 million email addresses tied to an..."
+ },
+ {
+  "id": "6a305d65f8",
+  "title": "Former Vanderbilt student files class-action lawsuit against Vanderbilt after cyberattack",
+  "source": "The Vanderbilt Hustler",
+  "date": "8 minutes ago",
+  "first": "2026-11-13T22:37+01:00",
+  "link": "https://vanderbilthustler.com/2026/11/13/former-vanderbilt-student-files-class-action-lawsuit-against-vanderbilt-after-cyberattack/",
+  "snippet": "A former Vanderbilt master's student and employee filed a class-action lawsuit in federal court Nov. 9 against the university over Monday's cyberattack on..."
+ },
+ {
+  "id": "51d4a22b17",
+  "title": "Was Microsoft hacked? Company says cyberattack not suspected",
+  "source": "USA Today",
+  "date": "3 hours ago",
+  "first": "2026-11-13T22:37+01:00",
+  "link": "https://www.usatoday.com/story/tech/2026/11/13/microsoft-dismisses-cyberattack-speculation-amid-outage/92759759007/",
+  "snippet": "Microsoft recently said no \"malicious\" activity was suspected as the massive outage surpassed its 24th hour."
+ },
+ {
+  "id": "cb68d535eb",
+  "title": "Vanderbilt University Recovering From Ransomware Attack",
+  "source": "GovTech",
+  "date": "4 hours ago",
+  "first": "2026-11-13T22:37+01:00",
+  "link": "https://www.govtech.com/education/higher-ed/vanderbilt-university-recovering-from-ransomware-attack",
+  "snippet": "Vanderbilt University's systems were restricted earlier this week after the ransomware group BYOD claimed to have stolen more than 1 million Social Security..."
+ },
+ {
+  "id": "280fa4987b",
+  "title": "Metabase Zero-Day Exploited in Dorsata Data Breach Affecting 58,000 Patients",
+  "source": "The HIPAA Journal",
+  "date": "9 hours ago",
+  "first": "2026-11-13T22:37+01:00",
+  "link": "https://www.hipaajournal.com/data-breaches-dorsata-bay-area-psychological-consultants-lansing-urgent-care/",
+  "snippet": "Data breaches have recently been announced by the Virginia healthcare technology company Dorsata, the Florida mental healthcare provider Bay Area Data..."
+ },
+ {
+  "id": "889b396349",
+  "title": "Quantum Systems says grounded German military drones flying again after cyberattack",
+  "source": "Reuters",
+  "date": "12 hours ago",
+  "first": "2026-11-13T22:37+01:00",
+  "link": "https://www.reuters.com/business/aerospace-defense/quantum-systems-says-grounded-german-military-drones-flying-again-after-2026-11-13/",
+  "snippet": "German defence technology group Quantum Systems said drones in service with the German ​military were flying again after they were ‌grounded as a precaution..."
+ },
+ {
+  "id": "182ecf28a5",
+  "title": "Seminole Clerk says Russian hackers may be behind AI-assisted cyberattack on office",
+  "source": "Orlando Sentinel",
+  "date": "22 minutes ago",
+  "first": "2026-11-13T22:37+01:00",
+  "link": "https://www.orlandosentinel.com/2026/11/13/seminole-clerk-says-russian-hackers-behind-ai-assisted-cyberattack-on-office/",
+  "snippet": "Federal authorities suspect Russian hackers were behind the AI-assisted cyberattack on the Seminole County Clerk of Courts office last month, according to..."
+ },
+ {
+  "id": "d5537b04e0",
+  "title": "Game Changer Wealth Data Breach? Lawyers Investigate Hackers' Claims",
+  "source": "ClassAction.org",
+  "date": "7 hours ago",
+  "first": "2026-11-13T22:37+01:00",
+  "link": "https://www.classaction.org/data-breach-lawsuits/game-changer-wealth-november-2026",
+  "snippet": "Suspect your information could have been exposed in the alleged Game Changer Wealth data breach? Read more about the possible attack and what you can do."
+ },
+ {
+  "id": "c3cb9f9906",
+  "title": "In Other News: New CISA Director Nominee, Connected Car Hacking, Baker Tilly Data Breach",
+  "source": "SecurityWeek",
+  "date": "6 hours ago",
+  "first": "2026-11-13T22:37+01:00",
+  "link": "https://www.securityweek.com/in-other-news-new-cisa-director-nominee-connected-car-hacking-baker-tilly-data-breach/",
+  "snippet": "Trump picks Palantir's CISO to lead CISA, researchers remotely unlock connected cars, and a data breach hits Baker Tilly."
+ },
+ {
   "id": "fa9f1d90c9",
   "title": "Important Notice of Data Breach for ECM/HOME Team Clients",
   "source": "Nevada County (.gov)",
@@ -403,122 +493,5 @@
   "first": "2026-11-11T12:27+01:00",
   "link": "https://rcpmag.com/blogs/rcp-channel-briefing/2026/11/huntress-launches-incident-response-program.aspx",
   "snippet": "The global partner initiative gives incident response firms access to managed identity security tools during cyberattack recovery."
- },
- {
-  "id": "26fc9afd4e",
-  "title": "BREAKING: Vanderbilt experiencing cybersecurity attack, VUIT responding",
-  "source": "The Vanderbilt Hustler",
-  "date": "14 hours ago",
-  "first": "2026-11-10T22:25+01:00",
-  "link": "https://vanderbilthustler.com/2026/11/09/breaking-vanderbilt-wi-fi-networks-reportedly-hacked-vuit-yet-to-confirm/",
-  "snippet": "This story was updated Nov. 9, 2026, at 1:16 p.m. CST to include a statement from Vanderbilt University Public Safety. Vanderbilt Wi-Fi networks have..."
- },
- {
-  "id": "8ddec93ac9",
-  "title": "Queens libraries still reeling from ransomware attack as some services return",
-  "source": "Queens Daily Eagle",
-  "date": "5 hours ago",
-  "first": "2026-11-10T22:25+01:00",
-  "link": "https://queenseagle.com/all/2026/11/10/queens-libraries-still-reeling-from-ransomware-attack-as-some-services-return",
-  "snippet": "A cybersecurity attack continued to plague Queens libraries on Monday, even as some services came back online over the weekend."
- },
- {
-  "id": "e47939741c",
-  "title": "Vanderbilt University reels following ransomware attack claimed by BYOD group",
-  "source": "CyberScoop",
-  "date": "3 hours ago",
-  "first": "2026-11-10T22:25+01:00",
-  "link": "https://cyberscoop.com/vanderbilt-university-ransomware-attack-byod/",
-  "snippet": "Vanderbilt University begins restoring systems after a ransomware attack claimed by the BYOD group reportedly compromised personal data and campus networks."
- },
- {
-  "id": "294d7ad95e",
-  "title": "Queens Public Library still recovering from ransomware attack",
-  "source": "QNS.com",
-  "date": "1 hour ago",
-  "first": "2026-11-10T22:25+01:00",
-  "link": "https://qns.com/2026/11/queens-library-ransomware-attack/",
-  "snippet": "Queens Public Library customers are still experiencing disruptions to several services nearly a week after a ransomware attack caused a network outage..."
- },
- {
-  "id": "c3cdfdbbe5",
-  "title": "Vanderbilt University reports some systems are back up after cyberattack",
-  "source": "WZTV",
-  "date": "6 hours ago",
-  "first": "2026-11-10T22:25+01:00",
-  "link": "https://fox17.com/news/local/vanderbilt-universityreports-that-some-systems-are-back-up-after-cyberattack",
-  "snippet": "Vanderbilt University shared in social media post Tuesday morning that some of their systems are available again after a cyberattack."
- },
- {
-  "id": "1e0ff868f3",
-  "title": "France blames Iran for supermarket refrigerator cyberattack",
-  "source": "Denver Gazette",
-  "date": "2 hours ago",
-  "first": "2026-11-10T22:25+01:00",
-  "link": "https://www.denvergazette.com/2026/11/10/france-blames-iran-for-supermarket-refrigerator-cyberattack/",
-  "snippet": "France on Monday said Iran hacked into hundreds of grocery store refrigeration systems across the country, marking a severe disruption to the food chain."
- },
- {
-  "id": "848543e5ac",
-  "title": "Retail Ransomware 2026: Faster Recovery, Rising Encryption",
-  "source": "Sophos",
-  "date": "7 hours ago",
-  "first": "2026-11-10T22:25+01:00",
-  "link": "https://www.sophos.com/en-us/blog/the-state-of-ransomware-in-retail-2026",
-  "snippet": "Retail ransomware victims paid less and recovered faster in 2026, but encryption rose to 62%. Get findings from 217 IT and security leaders in the Sophos..."
- },
- {
-  "id": "61bb0c298a",
-  "title": "Daily Memo: France Blames Iran for Cyberattack",
-  "source": "Geopolitical Futures",
-  "date": "6 hours ago",
-  "first": "2026-11-10T22:25+01:00",
-  "link": "https://geopoliticalfutures.com/daily-memo-france-blames-iran-for-cyberattack/",
-  "snippet": "Response. France has accused Iran's Islamic Revolutionary Guard Corps of carrying out cyberattacks that disrupted refrigeration systems at around 700."
- },
- {
-  "id": "f10fd36834",
-  "title": "Iran denies role in fridge hack, France summons ambassador",
-  "source": "DW.com",
-  "date": "5 hours ago",
-  "first": "2026-11-10T22:25+01:00",
-  "link": "https://www.dw.com/en/iran-denies-french-fridge-cyberattack-hacking/a-79910206",
-  "snippet": "France has said it rules \"nothing\" out in response to a cyberattack on supermarket refrigeration units. Iran, however, said it categorically rejected Paris'..."
- },
- {
-  "id": "9ad78a9553",
-  "title": "France blames Iran for last month's cyberattack on supermarket fridges",
-  "source": "PBS",
-  "date": "14 hours ago",
-  "first": "2026-11-10T12:46+01:00",
-  "link": "https://www.pbs.org/newshour/world/france-blames-iran-for-last-months-cyberattack-on-supermarket-fridges",
-  "snippet": "France on Monday blamed Iran for last month's massive cyberattack on supermarket fridges, summoned the Iranian ambassador and said it would seek European..."
- },
- {
-  "id": "0e6f77f082",
-  "title": "Anthropic's Claude Fable 5.2 Beats GPT-6 Cyber in Multi-Stage Cyberattack Benchmark",
-  "source": "The Hacker News",
-  "date": "4 hours ago",
-  "first": "2026-11-10T12:46+01:00",
-  "link": "https://thehackernews.com/2026/11/anthropics-claude-fable-52-beats-gpt-6.html",
-  "snippet": "Anthropic releases Claude Fable 5.2 and Mythos 5.2, with Fable scoring 76.3% on a multi-stage cyberattack benchmark."
- },
- {
-  "id": "06ddc6e77a",
-  "title": "Israel warns Iran is seeking AI-powered cyberattack capabilities",
-  "source": "CTech",
-  "date": "2 hours ago",
-  "first": "2026-11-10T12:46+01:00",
-  "link": "https://www.calcalistech.com/ctechnews/article/rjve4wgcfg",
-  "snippet": "Yossi Karadi, head of the National Cyber Directorate, says Tehran is pursuing artificial intelligence as a new offensive tool. He warned that AI could give..."
- },
- {
-  "id": "5fcf97a86a",
-  "title": "France blames Iran for cyberattack on supermarket fridges",
-  "source": "NBC News",
-  "date": "2 hours ago",
-  "first": "2026-11-10T12:46+01:00",
-  "link": "https://www.nbcnews.com/video/shorts/france-blames-iran-for-cyberattack-on-supermarket-fridges-273187397505",
-  "snippet": "00:23. Save hover state. France blames Iran for cyberattack on supermarket fridges. 00:0000:00. UP NEXT. Russia strikes Ukraine amid U.S.-mediated peace..."
  }
 ]
