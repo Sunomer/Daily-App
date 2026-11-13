@@ -1,5 +1,95 @@
 [
  {
+  "id": "fa9f1d90c9",
+  "title": "Important Notice of Data Breach for ECM/HOME Team Clients",
+  "source": "Nevada County (.gov)",
+  "date": "7 hours ago",
+  "first": "2026-11-13T12:33+01:00",
+  "link": "https://www.nevadacountyca.gov/m/newsflash/Home/Detail/9006",
+  "snippet": "What Happened? On October 16th 2026 Nevada County Behavioral Health discovered that the Release of Information (ROI) form used by its Enhanced Care..."
+ },
+ {
+  "id": "e0651a3dd3",
+  "title": "Cybersecurity expert breaks down Microsoft 'health check' failure and cyberattack fears",
+  "source": "Fox Business",
+  "date": "6 hours ago",
+  "first": "2026-11-13T12:33+01:00",
+  "link": "https://www.foxbusiness.com/video/6408311436112",
+  "snippet": "As millions grapple with disrupted emails and downed services, attorney and cybersecurity expert Leeza Garber explains why a simple server issue can cripple..."
+ },
+ {
+  "id": "8a7c08896f",
+  "title": "Expedia Confirms Cyberattack Through Third-Party Vendor",
+  "source": "Skift",
+  "date": "10 hours ago",
+  "first": "2026-11-13T12:33+01:00",
+  "link": "https://skift.com/2026/11/12/expedia-confirms-cyberattack-through-third-party-vendor/",
+  "snippet": "Expedia Group confirmed Thursday that attackers reached its systems through a compromised third-party data platform provider, in a supply chain."
+ },
+ {
+  "id": "25fac0edb5",
+  "title": "Online services fully operational, but investigation remains ongoing into Columbia cyberattack",
+  "source": "Post and Courier",
+  "date": "2 hours ago",
+  "first": "2026-11-13T12:33+01:00",
+  "link": "https://www.postandcourier.com/columbia/news/city-of-columbia-sc-cyper-hack-update/article_91c7de0d-115e-40d3-9800-663bc3fe067d.html",
+  "snippet": "Online services have been restored, but the city is still investigating after a ransomware attack took multiple services offline."
+ },
+ {
+  "id": "b955104ed9",
+  "title": "ESXi ransomware: why it is dangerous and how to defend against it",
+  "source": "Securelist",
+  "date": "3 hours ago",
+  "first": "2026-11-13T12:33+01:00",
+  "link": "https://securelist.com/esxi-ransomware/121959/",
+  "snippet": "Kaspersky experts analyze a recent ransomware incident and discuss why the hypervisor layer remains difficult to monitor, what common access paths..."
+ },
+ {
+  "id": "ae935caade",
+  "title": "What Is MDR? How Managed Detection and Response Stops Ransomware",
+  "source": "shattered.io",
+  "date": "34 minutes ago",
+  "first": "2026-11-13T12:33+01:00",
+  "link": "https://shattered.io/what-is-mdr-how-managed-detection-and-response-stops-ransomware/",
+  "snippet": "Managed detection and response (MDR) is a security service in which an outside team of analysts monitors your systems around the clock, investigates."
+ },
+ {
+  "id": "89dc6600ed",
+  "title": "AI Set to Revolutionize Ransomware Following “Stagnant” Few Years",
+  "source": "Infosecurity Magazine",
+  "date": "2 hours ago",
+  "first": "2026-11-13T12:33+01:00",
+  "link": "https://www.infosecurity-magazine.com/news/ai-revolutionize-ransomware/",
+  "snippet": "TrendAI's Bob McArdle said ransomware techniques will change significantly in the next year, with AI making attacks more dangerous and profitable."
+ },
+ {
+  "id": "1f453c23fb",
+  "title": "Microsoft faces a major Outlook outage: ‘no signs of a cyberattack’",
+  "source": "France 24",
+  "date": "1 hour ago",
+  "first": "2026-11-13T12:33+01:00",
+  "link": "https://www.france24.com/en/video/20261113-microsoft-faces-a-major-outlook-outage-no-signs-of-a-cyberattack",
+  "snippet": "Microsoft said \"malicious\" activity was not to blame for an Outlook outage that left users around the world without its crucial services on Friday,..."
+ },
+ {
+  "id": "d6f7c82d85",
+  "title": "Wisconsin retiree still waiting for $60K months after TruStage cyberattack",
+  "source": "Channel 3000",
+  "date": "9 hours ago",
+  "first": "2026-11-13T12:33+01:00",
+  "link": "https://www.channel3000.com/news/wisconsin-retiree-still-waiting-for-60k-months-after-trustage-cyberattack/article_b4c3ff72-fea8-4e06-b0fa-3089e27c4e1c.html",
+  "snippet": "MADISON, Wis. — Nearly four months after a cyberattack disrupted operations at Madison-based TruStage, a Wisconsin woman says she is still waiting to access..."
+ },
+ {
+  "id": "c152beec53",
+  "title": "Microsoft working ‘urgently’ to fix outages",
+  "source": "Al Jazeera",
+  "date": "5 hours ago",
+  "first": "2026-11-13T12:33+01:00",
+  "link": "https://www.aljazeera.com/news/2026/11/12/microsoft-outage-hits-tens-of-thousands-of-users",
+  "snippet": "Microsoft says its efforts to fix the outages – not believed due to a cyberattack – have not worked as expected."
+ },
+ {
   "id": "4a7a678889",
   "title": "Lessons Learned From The Biggest Ransomware Attacks",
   "source": "Cybercrime Magazine",
@@ -430,95 +520,5 @@
   "first": "2026-11-10T12:46+01:00",
   "link": "https://www.nbcnews.com/video/shorts/france-blames-iran-for-cyberattack-on-supermarket-fridges-273187397505",
   "snippet": "00:23. Save hover state. France blames Iran for cyberattack on supermarket fridges. 00:0000:00. UP NEXT. Russia strikes Ukraine amid U.S.-mediated peace..."
- },
- {
-  "id": "7957f63b58",
-  "title": "France, U.S. Suspect Iran Was Behind Cyberattack on European Fridges",
-  "source": "WSJ",
-  "date": "1 hour ago",
-  "first": "2026-11-10T00:51+01:00",
-  "link": "https://www.wsj.com/world/europe/france-u-s-suspect-iran-was-behind-cyberattack-on-european-fridges-6247965c",
-  "snippet": "PARIS—The U.S. and France suspect Iran is responsible for a cyberattack targeting European supermarket refrigerators and freezers that caused tens of..."
- },
- {
-  "id": "1ea6f7a19b",
-  "title": "Vanderbilt urges campus to shut down computers amid cyberattack",
-  "source": "Axios",
-  "date": "3 hours ago",
-  "first": "2026-11-10T00:51+01:00",
-  "link": "https://www.axios.com/2026/11/09/vanderbilt-university-attack-phone-devices-computer",
-  "snippet": "Vanderbilt University is urging students and employees to shut down university computers and devices as it investigates an ongoing cybersecurity attack,..."
- },
- {
-  "id": "2cef4ba52c",
-  "title": "Cybersecurity breach impacts Vanderbilt University",
-  "source": "Nashville Banner",
-  "date": "5 hours ago",
-  "first": "2026-11-10T00:51+01:00",
-  "link": "https://nashvillebanner.com/2026/11/09/vanderbilt-university-cyberattack-byod/",
-  "snippet": "Vanderbilt University confirmed an active cybersecurity incident Monday and instructed staff and students to disconnect from university Wi-Fi."
- },
- {
-  "id": "16c24968c7",
-  "title": "Ransomware Attack Puts Vanderbilt on Lockdown",
-  "source": "Nashville Scene",
-  "date": "5 hours ago",
-  "first": "2026-11-10T00:51+01:00",
-  "link": "https://www.nashvillescene.com/news/pithinthewind/vanderbilt-university-cyber-attack-lockdown/article_c7136f1f-a103-4e75-93bc-826ca02e894e.html",
-  "snippet": "Vanderbilt University has warned all faculty, staff and students to stay off the school's network as it tries to contain a digital attack."
- },
- {
-  "id": "a77bdd06da",
-  "title": "France blames Iran for last month's cyberattack on supermarket fridges as war with Israel, US continues",
-  "source": "ABC7 New York",
-  "date": "2 hours ago",
-  "first": "2026-11-10T00:51+01:00",
-  "link": "https://abc7ny.com/amp/post/france-blames-iran-last-months-cyberattack-supermarket-fridges-war-israel-us-continues/20027575/",
-  "snippet": "PARIS -- France on Monday blamed Iran for last month's massive cyberattack on supermarket fridges, summoned the Iranian ambassador and said it would seek..."
- },
- {
-  "id": "0c8c59ccb7",
-  "title": "EXCLUSIVE: French officials blame Iran for refrigerator hacks, vow retaliation",
-  "source": "Reuters",
-  "date": "2 hours ago",
-  "first": "2026-11-10T00:51+01:00",
-  "link": "https://www.reuters.com/world/french-officials-suspect-iran-is-behind-refrigerator-hacks-sources-say-2026-11-09/",
-  "snippet": "French officials on Monday accused Iran's Revolutionary Guards of responsibility for the cyberattacks that knocked out commercial refrigerators and freezers..."
- },
- {
-  "id": "dc54cd1e24",
-  "title": "France accuses Iran of cyber 'sabotage' in fridge attacks",
-  "source": "NPR",
-  "date": "1 hour ago",
-  "first": "2026-11-10T00:51+01:00",
-  "link": "https://www.npr.org/2026/11/09/g-s1-152724/france-iran-cyber-sabotage-fridge-attacks",
-  "snippet": "France says Iranian military hackers took over refrigeration controllers at around 700 different retail sites last month, turning up temperatures in the..."
- },
- {
-  "id": "a28736a96f",
-  "title": "France Blames Iran for Cyberattack on Refrigeration Systems",
-  "source": "The New York Times",
-  "date": "4 hours ago",
-  "first": "2026-11-10T00:51+01:00",
-  "link": "https://www.nytimes.com/2026/11/09/world/europe/france-iran-refrigerators-cyberattack.html",
-  "snippet": "The French foreign minister said he had summoned the Iranian ambassador to France after a cyberattack on hundreds of supermarkets last month."
- },
- {
-  "id": "50d6edd6dc",
-  "title": "France accuses Iran of cyberattack on supermarket fridges",
-  "source": "Al Jazeera",
-  "date": "6 hours ago",
-  "first": "2026-11-10T00:51+01:00",
-  "link": "https://www.aljazeera.com/news/2026/11/9/france-accuses-iran-of-cyberattack-on-european-fridges",
-  "snippet": "Paris says a cyber unit linked to Iran's Revolutionary Guard was behind hack, which hit more than 1000 stores."
- },
- {
-  "id": "120d0274f2",
-  "title": "France blames Iran for ‘unprecedented’ supermarket fridge cyberattack",
-  "source": "CNN",
-  "date": "7 hours ago",
-  "first": "2026-11-10T00:51+01:00",
-  "link": "https://www.cnn.com/2026/11/09/europe/france-accuses-iran-of-fridge-cyberattack-intl",
-  "snippet": "France is blaming Iran for last month's supermarket refrigerator cyberattack. which spoiled produce at around 700 retailers, and is vowing to slap sanctions..."
  }
 ]
