@@ -1,5 +1,86 @@
 [
  {
+  "id": "b6a0846e2c",
+  "title": "Industrial Ransomware Analysis for Q3 2026",
+  "source": "Dragos",
+  "date": "4 hours ago",
+  "first": "2026-11-17T00:50+01:00",
+  "link": "https://www.dragos.com/blog/dragos-industrial-ransomware-analysis-q3-2026",
+  "snippet": "Industrial ransomware rose 11% in Q3 2026. Dragos breaks down the most active groups, top-targeted sectors, and the edge-device flaws behind them."
+ },
+ {
+  "id": "4faf35ed6d",
+  "title": "Geisinger: Email data breach affects information of nearly 2,000 patients",
+  "source": "Scranton Times-Tribune",
+  "date": "2 hours ago",
+  "first": "2026-11-17T00:50+01:00",
+  "link": "https://www.thetimes-tribune.com/2026/11/16/geisinger-email-data-breach-affects-information-of-nearly-2000-patients/",
+  "snippet": "The Geisinger health system announced Monday it is notifying fewer than 2000 patients that some of their personal information may have been compromised in a..."
+ },
+ {
+  "id": "e7daa89d96",
+  "title": "Uber says hackers stole information on close to 150,000 driver's licenses during data breach",
+  "source": "TechCrunch",
+  "date": "4 hours ago",
+  "first": "2026-11-17T00:50+01:00",
+  "link": "https://techcrunch.com/2026/11/16/uber-confirms-hackers-stole-thousands-of-drivers-license-information-in-data-breach/",
+  "snippet": "Uber is notifying close to 150,000 drivers that their personal and driver's license information was stolen during an October data breach at one of the..."
+ },
+ {
+  "id": "92c34570dd",
+  "title": "Google says Russian speakers pulled off first-ever fully automated AI cyberattack",
+  "source": "POLITICO.eu",
+  "date": "8 hours ago",
+  "first": "2026-11-17T00:50+01:00",
+  "link": "https://www.politico.eu/article/google-says-russian-speakers-behind-first-ever-fully-automated-ai-cyberattack/",
+  "snippet": "Russian-speaking hackers built an AI agent that carried out what may be the first-ever fully-automated cyberattack, Google reported Monday."
+ },
+ {
+  "id": "79ee839f9c",
+  "title": "Google says Russian-speaking hackers ran the first fully automated AI cyberattack",
+  "source": "CyberScoop",
+  "date": "59 minutes ago",
+  "first": "2026-11-17T00:50+01:00",
+  "link": "https://cyberscoop.com/google-fully-automated-ai-cyberattack/",
+  "snippet": "Google's Threat Intelligence Group says Russian-speaking hackers used an AI system dubbed exploit_agent to run the first fully automated cyberattack."
+ },
+ {
+  "id": "81c7c458d7",
+  "title": "Lithuanian customs agency restores services after cyberattack, possible data breach",
+  "source": "The Record from Recorded Future News",
+  "date": "9 hours ago",
+  "first": "2026-11-17T00:50+01:00",
+  "link": "https://therecord.media/lithuania-customs-agency-cyberattack",
+  "snippet": "A November 10 attack prompted Lithuanian Customs to temporarily shut down its main user management portal. It made progress on fixing the problem over the..."
+ },
+ {
+  "id": "04b6dc7574",
+  "title": "Customers turn to WBTV Investigates for help after cyberattack on life insurance company",
+  "source": "WBTV",
+  "date": "3 hours ago",
+  "first": "2026-11-17T00:50+01:00",
+  "link": "https://www.wbtv.com/2026/11/16/customers-turn-wbtv-investigates-help-after-cyberattack-life-insurance-company/",
+  "snippet": "CHARLOTTE, N.C. (WBTV) - Numerous customers who have spent months waiting on life insurance claims turned to WBTV Investigates for help after a July..."
+ },
+ {
+  "id": "e14c451390",
+  "title": "Sam Pack Auto Group faces customer data breach lawsuit",
+  "source": "Automotive News",
+  "date": "6 hours ago",
+  "first": "2026-11-17T00:50+01:00",
+  "link": "https://www.autonews.com/retail/an-texas-pack-cyberattack-lawsuit-1117/",
+  "snippet": "Sam Pack Auto Group, a Texas dealership group targeted in an August ransomware cyberattack, now faces a lawsuit accusing it of lax computer security."
+ },
+ {
+  "id": "4f332bc78e",
+  "title": "Over Easy Office Data Breach? Attorneys Investigate Hackers' Claims",
+  "source": "ClassAction.org",
+  "date": "6 hours ago",
+  "first": "2026-11-17T00:50+01:00",
+  "link": "https://www.classaction.org/data-breach-lawsuits/over-easy-office-november-2026",
+  "snippet": "Suspect your information could have been exposed in the alleged Over Easy Office data breach? Read more about the possible attack and what you can do."
+ },
+ {
   "id": "5d0d0147f7",
   "title": "Check Point finds ransomware at record levels as n0n rises into top three and high-risk GenAI prompts increase",
   "source": "Industrial Cyber",
@@ -448,95 +529,5 @@
   "first": "2026-11-14T11:55+01:00",
   "link": "https://www.google.com/goto?url=CAESbAHEIkXXEmjEbQBYqSaJCX63LTrItdlzN0jwHxVLrMMdVtoVVAi6GNi6rZ_97U6ADqpARdNdIBJVkIjpgUoPhyD7lPFOCjNYLAJxhdviMkx-oVSPs9XzF10rSQdCo7GbCjb0rMFYSP8SpPrqiQ&gsessionid=7w8yOTyIuWE_4P8c29LpWeeI3m2bM9I0mvlsFvz_rK0SWZuTytD0qw",
   "snippet": "As millions grapple with disrupted emails and downed services, attorney and cybersecurity expert Leeza Garber explains why a simple server issue can cripple..."
- },
- {
-  "id": "c7972dcf13",
-  "title": "Uber Says Personal Data Was Exposed in Third-Party Data Breach",
-  "source": "WSJ",
-  "date": "2 hours ago",
-  "first": "2026-11-13T22:37+01:00",
-  "link": "https://www.wsj.com/tech/uber-says-personal-data-was-exposed-in-third-party-data-breach-02e3a875",
-  "snippet": "The transportation company says an unauthorized third party had compromised a service provider's internal credentials and used them to access Uber's..."
- },
- {
-  "id": "810ecd44c3",
-  "title": "City of Osaka warns of data breach impacting 1 million as Japan reels from dozens of cyber incidents",
-  "source": "The Record from Recorded Future News",
-  "date": "2 hours ago",
-  "first": "2026-11-13T22:37+01:00",
-  "link": "https://therecord.media/city-of-osaka-japan-email-data-breach",
-  "snippet": "The city of Osaka notified the public that a data breach involving a third-party technology provider exposed more than 1 million email addresses tied to an..."
- },
- {
-  "id": "6a305d65f8",
-  "title": "Former Vanderbilt student files class-action lawsuit against Vanderbilt after cyberattack",
-  "source": "The Vanderbilt Hustler",
-  "date": "8 minutes ago",
-  "first": "2026-11-13T22:37+01:00",
-  "link": "https://vanderbilthustler.com/2026/11/13/former-vanderbilt-student-files-class-action-lawsuit-against-vanderbilt-after-cyberattack/",
-  "snippet": "A former Vanderbilt master's student and employee filed a class-action lawsuit in federal court Nov. 9 against the university over Monday's cyberattack on..."
- },
- {
-  "id": "51d4a22b17",
-  "title": "Was Microsoft hacked? Company says cyberattack not suspected",
-  "source": "USA Today",
-  "date": "3 hours ago",
-  "first": "2026-11-13T22:37+01:00",
-  "link": "https://www.usatoday.com/story/tech/2026/11/13/microsoft-dismisses-cyberattack-speculation-amid-outage/92759759007/",
-  "snippet": "Microsoft recently said no \"malicious\" activity was suspected as the massive outage surpassed its 24th hour."
- },
- {
-  "id": "cb68d535eb",
-  "title": "Vanderbilt University Recovering From Ransomware Attack",
-  "source": "GovTech",
-  "date": "4 hours ago",
-  "first": "2026-11-13T22:37+01:00",
-  "link": "https://www.govtech.com/education/higher-ed/vanderbilt-university-recovering-from-ransomware-attack",
-  "snippet": "Vanderbilt University's systems were restricted earlier this week after the ransomware group BYOD claimed to have stolen more than 1 million Social Security..."
- },
- {
-  "id": "280fa4987b",
-  "title": "Metabase Zero-Day Exploited in Dorsata Data Breach Affecting 58,000 Patients",
-  "source": "The HIPAA Journal",
-  "date": "9 hours ago",
-  "first": "2026-11-13T22:37+01:00",
-  "link": "https://www.hipaajournal.com/data-breaches-dorsata-bay-area-psychological-consultants-lansing-urgent-care/",
-  "snippet": "Data breaches have recently been announced by the Virginia healthcare technology company Dorsata, the Florida mental healthcare provider Bay Area Data..."
- },
- {
-  "id": "889b396349",
-  "title": "Quantum Systems says grounded German military drones flying again after cyberattack",
-  "source": "Reuters",
-  "date": "12 hours ago",
-  "first": "2026-11-13T22:37+01:00",
-  "link": "https://www.reuters.com/business/aerospace-defense/quantum-systems-says-grounded-german-military-drones-flying-again-after-2026-11-13/",
-  "snippet": "German defence technology group Quantum Systems said drones in service with the German ​military were flying again after they were ‌grounded as a precaution..."
- },
- {
-  "id": "182ecf28a5",
-  "title": "Seminole Clerk says Russian hackers may be behind AI-assisted cyberattack on office",
-  "source": "Orlando Sentinel",
-  "date": "22 minutes ago",
-  "first": "2026-11-13T22:37+01:00",
-  "link": "https://www.orlandosentinel.com/2026/11/13/seminole-clerk-says-russian-hackers-behind-ai-assisted-cyberattack-on-office/",
-  "snippet": "Federal authorities suspect Russian hackers were behind the AI-assisted cyberattack on the Seminole County Clerk of Courts office last month, according to..."
- },
- {
-  "id": "d5537b04e0",
-  "title": "Game Changer Wealth Data Breach? Lawyers Investigate Hackers' Claims",
-  "source": "ClassAction.org",
-  "date": "7 hours ago",
-  "first": "2026-11-13T22:37+01:00",
-  "link": "https://www.classaction.org/data-breach-lawsuits/game-changer-wealth-november-2026",
-  "snippet": "Suspect your information could have been exposed in the alleged Game Changer Wealth data breach? Read more about the possible attack and what you can do."
- },
- {
-  "id": "c3cb9f9906",
-  "title": "In Other News: New CISA Director Nominee, Connected Car Hacking, Baker Tilly Data Breach",
-  "source": "SecurityWeek",
-  "date": "6 hours ago",
-  "first": "2026-11-13T22:37+01:00",
-  "link": "https://www.securityweek.com/in-other-news-new-cisa-director-nominee-connected-car-hacking-baker-tilly-data-breach/",
-  "snippet": "Trump picks Palantir's CISO to lead CISA, researchers remotely unlock connected cars, and a data breach hits Baker Tilly."
  }
 ]
