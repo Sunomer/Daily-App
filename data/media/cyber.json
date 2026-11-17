@@ -1,5 +1,77 @@
 [
  {
+  "id": "00667dc70f",
+  "title": "Cyberattack hits 178 major global brands, exposing visitors to data theft",
+  "source": "Anadolu Ajansı",
+  "date": "4 hours ago",
+  "first": "2026-11-17T13:27+01:00",
+  "link": "https://aa.com.tr/en/world/cyberattack-hits-178-major-global-brands-exposing-visitors-to-data-theft/4127456",
+  "snippet": "Malware delivered via third-party software targets users of Zoom, BBC, CNN, HSBC, and IKEA, according to Report URI / Anadolu."
+ },
+ {
+  "id": "3b04879a68",
+  "title": "Visa confirms security incident, JPMorgan knocked down",
+  "source": "Cybernews",
+  "date": "2 hours ago",
+  "first": "2026-11-17T13:27+01:00",
+  "link": "https://cybernews.com/security/visa-jpmorgan-data-breach/",
+  "snippet": "48-hour deadline from the n0n ransomware gang targets Visa and JPMorgan Chase, but both firms dispute key impacts. Read what evidence shows."
+ },
+ {
+  "id": "ed66a96f70",
+  "title": "The Hormuz Letter: A cyberattack hit 178 major companies...",
+  "source": "The Loadstar",
+  "date": "4 hours ago",
+  "first": "2026-11-17T13:27+01:00",
+  "link": "https://theloadstar.com/the-hormuz-letter-a-cyberattack-hit-178-major-companies/",
+  "snippet": "This site uses cookies and other tracking technologies to assist with navigation and your ability to provide feedback, analyse your use of our products and..."
+ },
+ {
+  "id": "4782391e8d",
+  "title": "Chase declines that their outage was caused by a cyberattack",
+  "source": "CBS News",
+  "date": "8 hours ago",
+  "first": "2026-11-17T13:27+01:00",
+  "link": "https://www.cbsnews.com/miami/video/chase-declines-that-their-outage-was-caused-by-a-cyberattack/",
+  "snippet": "The bank chain, among others, were affected and they say it is due to a \"technical issue.\""
+ },
+ {
+  "id": "e07de5269f",
+  "title": "Four major US outages in five days and none was a cyberattack",
+  "source": "Insurance Business",
+  "date": "11 hours ago",
+  "first": "2026-11-17T13:27+01:00",
+  "link": "https://www.insurancebusinessmag.com/us/news/breaking-news/four-major-us-outages-in-five-days-and-none-was-a-cyberattack-597586.aspx",
+  "snippet": "Chase, United Airlines, the FAA and Microsoft have all suffered major outages in five days, each attributed to technical failure rather than a cyberattack."
+ },
+ {
+  "id": "cf55dd8b5d",
+  "title": "Queens Libraries Still Contending With Ransomware Attack",
+  "source": "The New York Times",
+  "date": "2 hours ago",
+  "first": "2026-11-17T13:27+01:00",
+  "link": "https://www.nytimes.com/2026/11/17/nyregion/queens-libraries-ransomware-attack.html",
+  "snippet": "The Nov. 4 attack has left the library website and app down, and computers are down at most branches. The libraries are still functioning using old-school..."
+ },
+ {
+  "id": "193308a2dd",
+  "title": "Cyberattack Risk Grows for Mortgage Servicing Platforms",
+  "source": "HousingWire",
+  "date": "4 hours ago",
+  "first": "2026-11-17T13:27+01:00",
+  "link": "https://www.housingwire.com/articles/mortgage-servicing-cyber-risk/",
+  "snippet": "Mortgage servicers face rising cyber risk, calls grow for zero trust platforms, faster mitigation and AI-enabled defense for borrower data."
+ },
+ {
+  "id": "2ba2851522",
+  "title": "In a first, Google detects AI-automated cyberattack",
+  "source": "upi",
+  "date": "6 hours ago",
+  "first": "2026-11-17T13:27+01:00",
+  "link": "https://www.upi.com/Top_News/World-News/2026/11/17/Google-artificial-intelligence-cyberattack/6381794893989/",
+  "snippet": "Google's Threat Intelligence Group said Monday that it has, for the first time, detected fully artificial intelligence-automated cyberattacks."
+ },
+ {
   "id": "b6a0846e2c",
   "title": "Industrial Ransomware Analysis for Q3 2026",
   "source": "Dragos",
@@ -439,95 +511,5 @@
   "first": "2026-11-14T21:05+01:00",
   "link": "https://www.google.com/goto?url=CAEStQEBxCJF184vEWuncG_GzhYgk8CIUisPwlvDmQqAqbetGJpW_nKFSNrS4BEwVkPgL7nq343rMpjEhnCPvk64HYtybgSDYcUNa3C45PFsvsMltxS4nnfE4QVYuz_pyn-KnXqaho5wTo6Vfml90UMOPvd-RXZvfDEnIK4AYn7oVbrmpAXZxOChiIY18BJARm-qtF_8PjyDit-DvIYA99o_bke5e9i4Nvm00Mkc9UzXXAivOUqRP3GE&gsessionid=UlZxwNqkFLkvAdWxeVah8o2eMC5RvVd-GtqcRBxSTNiw03YyBHde9Q",
   "snippet": "Preliminary reports indicate the nationwide FAA communications failure was not a cyberattack, according to law enforcement officials cited by CNN."
- },
- {
-  "id": "c0a8ef9463",
-  "title": "DHS says nationwide ground stop was not a cyberattack: 'We are built to handle crisis like this'",
-  "source": "NBC News",
-  "date": "8 hours ago",
-  "first": "2026-11-14T11:55+01:00",
-  "link": "https://www.google.com/goto?url=CAEStgEBxCJF184BnOI7XL0SuoZbYonsbq-ruAneqWjTgzJY-YFNie5JcAb9vjnE30RjvO7NAZCxSCERvUlM_0RwBtGgkwaXlgwyo0m8-lJ9YN5-O_kHZxEluR03vFfcQrhNHR_x5RBU-zZKLEW4bk2Mz1Q0KJefSS1Gcq8vj5-d9PjPKwW-aBPGjT_0_xQAfPkln8Cfre4XBtUAr0Yw5khuP1aimUuWyY6mL07XaWCFWQXe80RqOi6wMQ&gsessionid=7w8yOTyIuWE_4P8c29LpWeeI3m2bM9I0mvlsFvz_rK0SWZuTytD0qw",
-  "snippet": "Homeland Security Secretary Markwayne Mullin told reporters during a Friday night White House briefing that there was no sign of a cyberattack in today's..."
- },
- {
-  "id": "8fa9adc61e",
-  "title": "The Next Cyberattack May Target Your HVAC, Elevators, or Worse. These 3 Steps Close the Gap",
-  "source": "Inc.com",
-  "date": "13 hours ago",
-  "first": "2026-11-14T11:55+01:00",
-  "link": "https://www.google.com/goto?url=CAESwAEBxCJF1_z7ucJkn8mhiLuFGqTFmoNGqw-z652SJ8EeNPiTyNvJTRVjuwkv3eL70zEVuqQUzLYOzCQ-ART0SBp5Qc6Nn9trkUOMhxUDuoh23jDDiwHrSdsIYx5G9YH8jnhdH-PIpR3EuYMFmp0yCn26q3Ywww7YF32ZX4SUASFm0x98Ax9OJfBdww7KAL0a7LdcyTKLfKKcSg7FVsrI1tKwleKqN0uVyHCSj_pe53jvzm_aFEPLapyootnZZPkJnyo&gsessionid=7w8yOTyIuWE_4P8c29LpWeeI3m2bM9I0mvlsFvz_rK0SWZuTytD0qw",
-  "snippet": "Legacy controllers allowed hackers to spoil supermarket food. Three practical checks can uncover similar connected-device exposure in your company."
- },
- {
-  "id": "d21ebc7375",
-  "title": "FAA ground stop sparks cyberattack questions. Here’s what officials are saying",
-  "source": "Cleveland.com",
-  "date": "13 hours ago",
-  "first": "2026-11-14T11:55+01:00",
-  "link": "https://www.google.com/goto?url=CAEStQEBxCJF12-il5hGfurjHLFLQPS7CC3dVxqkZad5ukp-obh7mnY4egt6sYAOEskOThVp77pJAphlhBD-eD4qmCr7dXtrlQTgQf_iqkFQZRjG2SfahY9zbKP_j-IuApOYhaDt6IZmknybsNvQ5K6DsR_cfetN5luqxXUfBdi36Z0-OeLHWDJ7OzFrepkWnEapL_UkqRTMqW1ZUW2WUGM3qXTbTJE__bAWcWVitv7CV4Vr_lSBJrBl&gsessionid=7w8yOTyIuWE_4P8c29LpWeeI3m2bM9I0mvlsFvz_rK0SWZuTytD0qw",
-  "snippet": "Preliminary reports indicate the nationwide FAA communications failure was not a cyberattack, according to law enforcement officials cited by CNN."
- },
- {
-  "id": "43cf1f847d",
-  "title": "Update: Ground Stop Lifted After FAA Grounds Thousands of Flights Across the U.S., 'No Indication' of Cyberattack",
-  "source": "InDepthNH.org",
-  "date": "9 hours ago",
-  "first": "2026-11-14T11:55+01:00",
-  "link": "https://www.google.com/goto?url=CAESrwEBxCJF144CowZ-du7uPtPmw9epiqzclfR4KADUogbZFZm53tmjSyPXuPA5-6bBYjKwSTr5AjQ1fHgq7riYsI3_GQIOqcvPbYk93eSq8bgA7M0cVWl5y7o41x1RjDbtTl64LPSaB8CnwhMJUaM6TDa5sN3wEHJqqB4C0_GRSG-3ATeZNNJw_o-Y2mJ3KYqjLUjBfOgvHhtVHsLr2ust7Kck_PHYBxAs1nxVB2JgFu0U&gsessionid=7w8yOTyIuWE_4P8c29LpWeeI3m2bM9I0mvlsFvz_rK0SWZuTytD0qw",
-  "snippet": "Editor's Note: This story will be updated as more information becomes available. The FAA says on Twitter/X: “There has been a temporary telecommunications..."
- },
- {
-  "id": "2e1233e478",
-  "title": "Eversource faces a new call for answers after data breach",
-  "source": "CT Insider",
-  "date": "2 hours ago",
-  "first": "2026-11-14T11:55+01:00",
-  "link": "https://www.google.com/goto?url=CAESowEBxCJF11apfLL0Lw3m--M47EJLR3iWDRn0IvbO-ddnz_gGdJaKXlH1np4wtJcrmKRiKVqo7VcPp0EBWG3d7xXKKJSLxpavwjfxe16pkDbPX-_7Cwja5ImbrKP7Cc9SwMu6gPTtfLoF29Vp_PrcbjpMV9EwLhpuZX241i9fQJlFYnO40ksaBIa4AEhnulGkO0Jgu53enSttr6AmhdLA3cldeGlJ&gsessionid=7w8yOTyIuWE_4P8c29LpWeeI3m2bM9I0mvlsFvz_rK0SWZuTytD0qw",
-  "snippet": "Consumer Counsel Claire Coleman on Friday called for an independent review of Eversource Energy's cybersecurity practices following an April data breach at..."
- },
- {
-  "id": "932be5e4fc",
-  "title": "City of Osaka warns of data breach impacting 1 million as Japan reels from dozens of cyber incidents",
-  "source": "The Record from Recorded Future News",
-  "date": "15 hours ago",
-  "first": "2026-11-14T11:55+01:00",
-  "link": "https://www.google.com/goto?url=CAESegHEIkXX81jrf6zsjo0ME5E03wpc0kG1yOU9Sh79vHVjh5MCdtWuuhi5Oi658yP2G_xclIELa1N_NflRSLg5stuwS6CdAt19yixju2WeNBeO684GT_IML6P72X6EqT1wgiPbKbY4aqQLV0dIBe92tDq7G4ReLuB9OToB&gsessionid=7w8yOTyIuWE_4P8c29LpWeeI3m2bM9I0mvlsFvz_rK0SWZuTytD0qw",
-  "snippet": "The city of Osaka notified the public that a data breach involving a third-party technology provider exposed more than 1 million email addresses tied to an..."
- },
- {
-  "id": "51be33ef5a",
-  "title": "Dark Web Marketplaces Scaling Ransomware Operations",
-  "source": "Mexico Business News",
-  "date": "13 hours ago",
-  "first": "2026-11-14T11:55+01:00",
-  "link": "https://www.google.com/goto?url=CAESnwEBxCJF13m6ZU7fjyoY-kvBRUo2pwMAY7rKzM8a0SrW9OUWOYFdStfQmQDVwUWLX2__pZMbgh1Uq8tlEiRsPI4i5fTRyxX2ptjd2HkHOEsvA22LKhznoru6kaSwMYrcfReIfU7K39wBIRewDF4D-zHv6iY2IjSD-ku38IIp7km3RIeE59_2E3u41L6hRydJC8s61ZSzMXyRz6jpDQOynAg&gsessionid=7w8yOTyIuWE_4P8c29LpWeeI3m2bM9I0mvlsFvz_rK0SWZuTytD0qw",
-  "snippet": "Mexico's ransomware victims doubled in 2025 as dark-web services made attacks easier to scale."
- },
- {
-  "id": "0701daf599",
-  "title": "Eversource faces a new call for answers after data breach",
-  "source": "CT Insider",
-  "date": "2 hours ago",
-  "first": "2026-11-14T11:55+01:00",
-  "link": "https://www.google.com/goto?url=CAESqAEBxCJF132C7iAKVkfrXnXVHirKN-8QAocIPHBBPfUgUsdAQfBzZS_aDi87gfFUuSMdV7spJ7YrtacALEmUTfmTAs-ml16U7e-MTdSWd6IbVjeX6KlbfnyxhSlFJ81vhNrCnRBpJ17XH3Q-Qly9AY6_Wm0NlPTGpy1Jcsnd2SBzKO81BUkPTzdxo6MkGS3UPiJZ1vxfX4qHgQ5NQ6JE49Ru3AjvXqRUKHY&gsessionid=7w8yOTyIuWE_4P8c29LpWeeI3m2bM9I0mvlsFvz_rK0SWZuTytD0qw",
-  "snippet": "Connecticut's consumer counsel seeks an independent review of Eversource's cybersecurity after a breach exposed customer data."
- },
- {
-  "id": "0871593b03",
-  "title": "Was Microsoft hacked? Company says cyberattack not suspected",
-  "source": "USA Today",
-  "date": "17 hours ago",
-  "first": "2026-11-14T11:55+01:00",
-  "link": "https://www.google.com/goto?url=CAESsAEBxCJF14cQ0wC63y1MKOKP4Ka32UNp6kdcVLWhv7X1Cm-IZS2AhX-SWH6WqyR-hkV436oRhls9ggTEG1E8YDoO3MlgT-hniQaYYb7Qs1DOfOZdNsGWVcKAxpwrtWYC9QsgGz2GY6N7EasRjbe-yFfZ41aqt7e5K2R4eNu7g6PLmYSkrNKU-8A9RJRbJlM9z8JHQvTJCpzyQfgGog78VzHbDksf2FjDq5VPxwiOn9j7pQ&gsessionid=7w8yOTyIuWE_4P8c29LpWeeI3m2bM9I0mvlsFvz_rK0SWZuTytD0qw",
-  "snippet": "Microsoft recently said no \"malicious\" activity was suspected as the massive outage surpassed its 24th hour."
- },
- {
-  "id": "334f5f57dc",
-  "title": "Cybersecurity expert breaks down Microsoft 'health check' failure and cyberattack fears",
-  "source": "Fox Business",
-  "date": "16 hours ago",
-  "first": "2026-11-14T11:55+01:00",
-  "link": "https://www.google.com/goto?url=CAESbAHEIkXXEmjEbQBYqSaJCX63LTrItdlzN0jwHxVLrMMdVtoVVAi6GNi6rZ_97U6ADqpARdNdIBJVkIjpgUoPhyD7lPFOCjNYLAJxhdviMkx-oVSPs9XzF10rSQdCo7GbCjb0rMFYSP8SpPrqiQ&gsessionid=7w8yOTyIuWE_4P8c29LpWeeI3m2bM9I0mvlsFvz_rK0SWZuTytD0qw",
-  "snippet": "As millions grapple with disrupted emails and downed services, attorney and cybersecurity expert Leeza Garber explains why a simple server issue can cripple..."
  }
 ]
