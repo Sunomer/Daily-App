@@ -1,5 +1,95 @@
 [
  {
+  "id": "2212ff058a",
+  "title": "How to Tell If It’s a Cyberattack or Just an Outage",
+  "source": "WIRED",
+  "date": "3 hours ago",
+  "first": "2026-11-18T00:09+01:00",
+  "link": "https://www.google.com/goto?url=CAESjAEBxCJF17SuFUpV3Oj1q2z2e9nje5XkMW45rJljC-3f6j4kTOMYCbQpRJFqisIsG4bW_I_Bv-jI22C7YB7RVWFnJN-TegOqtXRY_QL-SgcBgh_3NLqnhUo5bh9ClebhsyWcMZti3T_fyc4bYgROWPTdJXHTXr9MBLSuX8xaQ5D-Pw0oY1LdzyHW3nhYGg&gsessionid=HDwVBCOohL4rLmX8KigwrMJmWGR5T2zAahnskH7LDQ5NfIJu7NFScw",
+  "snippet": "Email, flights, banks; network failures are piling up. Here's how WIRED investigates if they're the result of hacker mayhem. (Hint: usually not.)"
+ },
+ {
+  "id": "87410cb5c2",
+  "title": "Norway's Equinor detects ongoing cyberattack, oil and gas output unaffected",
+  "source": "Reuters",
+  "date": "2 hours ago",
+  "first": "2026-11-18T00:09+01:00",
+  "link": "https://www.google.com/goto?url=CAESoQEBxCJF14UjKyJ5kOLL8FOBSb63WhQiaKV9ZbEXivi6kH6Qky1D_GoY-cU_cF-xMUygz9SM8xCc68LEo4_WJVEUCw5_OEeSx1JakupwtNdF96fCuvNB0-nsuckG0XvrzbaKHSXcXBq3KRMtyERmC-sIIL6mumj3Z2OEDTvz0KckDgtlZqeYZxPfC_7CcRQdqlh1z3ZPzUv80E5wmA14Du243w&gsessionid=HDwVBCOohL4rLmX8KigwrMJmWGR5T2zAahnskH7LDQ5NfIJu7NFScw",
+  "snippet": "Norwegian oil and gas group Equinor said on Tuesday it had detected an ongoing cyberattack against some IT systems, but that ​the attack had not affected..."
+ },
+ {
+  "id": "79a8da591e",
+  "title": "Some of the world’s most-visited websites targeted by cyberattack",
+  "source": "KCRA",
+  "date": "4 hours ago",
+  "first": "2026-11-18T00:09+01:00",
+  "link": "https://www.google.com/goto?url=CAESgQEBxCJF14Y6y4rMCbQWMAyzlEf94ReGvENjFuJbVbhos2-6aiI2wu0Mf2luNFAlndcO5Gyyo29QBGQvjZ1VpVa3HJ27AFxi-zjw2zd4_v0i4RW9VzKGsGRQAtM6bxHk-FPe7CAKcN_j7MJdMUIv9xX2-AX2GF3ssp1bJxaIkg2gQ0A&gsessionid=HDwVBCOohL4rLmX8KigwrMJmWGR5T2zAahnskH7LDQ5NfIJu7NFScw",
+  "snippet": "A massive cyberattack hit 178 major websites, potentially exposing visitors to malicious code designed to target vulnerable iPhones."
+ },
+ {
+  "id": "570535ecce",
+  "title": "Important Notice of Data Breach for ECM/HOME Team Clients",
+  "source": "Nevada County (.gov)",
+  "date": "2 hours ago",
+  "first": "2026-11-18T00:09+01:00",
+  "link": "https://www.google.com/goto?url=CAESeAHEIkXXEP7MbzbrMAG8eWgEAshlNavgZ3u8VRWSzzJD23eGKbFOubVgHQnygrNK_Wrs_1gFoSMIXriheJ7vo7JVOEm_WgC5NaiX_kfHHfj9tJncWw9MNhWM_aNAu912UmFPrbwJ-_H-H_iO0tFKgCCZPAT9yDMvRA&gsessionid=HDwVBCOohL4rLmX8KigwrMJmWGR5T2zAahnskH7LDQ5NfIJu7NFScw",
+  "snippet": "What Happened? On October 16th 2026 Nevada County Behavioral Health discovered that the Release of Information (ROI) form used by its Enhanced Care..."
+ },
+ {
+  "id": "8de49bc4e4",
+  "title": "Exclusive: Highly classified US national security communications network goes down, sources say",
+  "source": "CNN",
+  "date": "8 hours ago",
+  "first": "2026-11-18T00:09+01:00",
+  "link": "https://www.google.com/goto?url=CAESqQEBxCJF138kdkO1UciDDi1eX80N3l0cf2q7MLp_Nd-TCY8y5RMTTn8CN8NmBgT9dMhauyMyYEtaOmj_60Mw5hYuJGrsMxoC58bZr-cu_36OEDQ7sq_lCXAXLSAcg89Z-wFxySKzPVo8H8Y4oEN9W31SGFWpQNXjHAZEHFLnC_zBI6LZ-gJ__TGX1_8XGxrB8UtGYnybo00oPmUxdYDs7ULb99kE2va2SBmC&gsessionid=HDwVBCOohL4rLmX8KigwrMJmWGR5T2zAahnskH7LDQ5NfIJu7NFScw",
+  "snippet": "The highly classified network that the National Security Agency uses for its internal communications is down, according to six people familiar with the..."
+ },
+ {
+  "id": "a44c7e07af",
+  "title": "Cyberattack Targets iPhones, Crypto of Visitors to Major Websites",
+  "source": "CNET",
+  "date": "3 hours ago",
+  "first": "2026-11-18T00:09+01:00",
+  "link": "https://www.google.com/goto?url=CAESmQEBxCJF13EyGvfTBGSNOEb3-MWUHyP_KWJDd2TRMUt-ZpCnXJ3SbUuwp-qs8vA2kVtI_QBJKpsPutLOiDI9m0q7ODzp9P45vikKrBcWMQsmhY0kXgH0BUJ1bhwtFvjqYfQh59JnAkq25EuX7hYLH_VSYUzbIIfrscaYo2uRLaRfaHtlnrYhOZUHFlRqY6z4Nu-iDcNcZ16W8a4&gsessionid=HDwVBCOohL4rLmX8KigwrMJmWGR5T2zAahnskH7LDQ5NfIJu7NFScw",
+  "snippet": "Hackers tried to inject malware for people going to Ikea, CNN, Zoom and other popular sites."
+ },
+ {
+  "id": "924f46d0e7",
+  "title": "Cyberattack hits 178 organizations, targets website visitors",
+  "source": "FOX5 Vegas",
+  "date": "6 hours ago",
+  "first": "2026-11-18T00:09+01:00",
+  "link": "https://www.google.com/goto?url=CAESngEBxCJF14aMk1mWIR1HkgZaqvyIag5SbTtYk0fscg2KUQIIo82ZRIc89FuDKEhFYoILHN9SjBjnSsAlaSEa2TrA_6FI3LtjK307FiaxgfXF0LTEyM3yzCAuUhZnp6EVzJMXOGgkFsQ8jxoS9l0dFRot66WxJlcD6POhbo32rxcmISmoPvBeb8KykX9vyR3xEwq6A55W54W6dSDoCT03KQ&gsessionid=HDwVBCOohL4rLmX8KigwrMJmWGR5T2zAahnskH7LDQ5NfIJu7NFScw",
+  "snippet": "A cyberattack affected websites tied to 178 organizations. Las Vegas users can learn about the reported cryptocurrency and iPhone risks."
+ },
+ {
+  "id": "d4c6a33514",
+  "title": "New Mexico Information Technology Department seeks $30M funding boost amid cyberattack ‘crisis’",
+  "source": "Source New Mexico",
+  "date": "2 minutes ago",
+  "first": "2026-11-18T00:09+01:00",
+  "link": "https://www.google.com/goto?url=CAESugEBxCJF10vhu250jyuQDA0Wz_E_Pz70t2GAJou7qtsjWWSVP-oTYdJOIvES48wBxxE9N4uSjYe0JN7mootFX2FpUHGIxSqXC7If7gogduHjW6SCIvAHtXXptTvfxpRy_CD9HCR4WtBf1BoBPt0ovAQrwYHftfC6tGVDeM9JQRBmd7Vg7IretBPufe2BmDFd0LjIYGvbNdwjIdMVp5A4y735bFXv98DvWa0QNRkt0Zs89D3x_fcElw6TEpU&gsessionid=HDwVBCOohL4rLmX8KigwrMJmWGR5T2zAahnskH7LDQ5NfIJu7NFScw",
+  "snippet": "The department's Office of Cybersecurity helped state or local entities after 37 cybersecurity \"incidents\" in the last year, secretary says."
+ },
+ {
+  "id": "04bf8a1217",
+  "title": "‘Malicious’ Cyberattack on 178 Major Websites Tried to Steal Credit Cards and Crypto — Here's What You Should Do Immediately",
+  "source": "Entrepreneur",
+  "date": "3 hours ago",
+  "first": "2026-11-18T00:09+01:00",
+  "link": "https://www.google.com/goto?url=CAES4AEBxCJF15dVZerWdO6DRbNR0NxQDLIZJ4Cd_5z3glZrE8nQjmIiBXg6CM5cVrIFkiPTRfEOg9B7UGJDFsYjRrrCR69_8DKzS7Wlex2WgnF40q5eHSIIfrk_boXnrSeCWOAbtZIfXFe-EHVLcvsGK5_4gVSJVhvYkf7SQhkGGSdf-DbVBaIgTlQ9GW0h7e3-TsH2Ncl7G-zhl4ffm-jebc9uTUijfuxIZtDdRcWgcoxI0i-bNa2ibrCKmYCiL9aRxkqeY3R4bjgdz14o_dswWdzMa2No7vMrkGDkWvf443l7ng&gsessionid=HDwVBCOohL4rLmX8KigwrMJmWGR5T2zAahnskH7LDQ5NfIJu7NFScw",
+  "snippet": "Hackers hid code on sites like CNN, Zoom and Levi's to steal data and to break into iPhones. Have you been affected?"
+ },
+ {
+  "id": "025426d4e9",
+  "title": "HSBC, Associated sites briefly affected by cyberattack",
+  "source": "American Banker",
+  "date": "1 hour ago",
+  "first": "2026-11-18T00:09+01:00",
+  "link": "https://www.google.com/goto?url=CAESlgEBxCJF16ljvp3vdPI_arKYk0ExzmtmyX_ro-LkuxTQ_-i17zbzj9_XABU9f9WzEuBzYtt_B7SMvARiStVkJV45F6kBxEyYJoodXpN4NlkSDw9y35IUkGxCQAdbcP7JIjd7jnxspkPcJL720U0sFdsdEOWfKbqv93MIWJssVOsFIijBKzYjLDqg2PYdgOwiKlVFZKhetrY&gsessionid=HDwVBCOohL4rLmX8KigwrMJmWGR5T2zAahnskH7LDQ5NfIJu7NFScw",
+  "snippet": "Key insight: The malicious code reached bank websites through Optimizely, a marketing vendor's testing tool, without the attacker breaking into the banks'..."
+ },
+ {
   "id": "00667dc70f",
   "title": "Cyberattack hits 178 major global brands, exposing visitors to data theft",
   "source": "Anadolu Ajansı",
@@ -421,95 +511,5 @@
   "first": "2026-11-15T12:29+01:00",
   "link": "https://www.google.com/goto?url=CAESpQEBxCJF1zkUIIssw4JUzAgRegcQRKmP3OScWJuUVQCzwHpELSUa_VcMxrVkI_ncNUFyNrzRQYzQbpuiEIPnlgeqSDcrcmTZOL7yQ2nOk4eEsXtnFhygq0oa1fiXBy7GKBCa8CmGwquj3YhU-9CDJI5vf_fQeSNNrjG4vGgzQsRf87CCt2nlLnAqbvUITytq-DxavMhbpOtwLDS9gK7f5Evv-SXiuok&gsessionid=O0wzAEhUwf1dloADzg9iUV68rldXop5BerYJ86p34555ij7_FHfM_Q",
   "snippet": "Many people across the country are still struggling to get to their destinations after Friday's nationwide ground stop."
- },
- {
-  "id": "8b5e1e8611",
-  "title": "Beware the New AI-Fueled Ransomware Boom",
-  "source": "WIRED",
-  "date": "7 hours ago",
-  "first": "2026-11-14T21:05+01:00",
-  "link": "https://www.google.com/goto?url=CAESggEBxCJF15WFq7eTQjH7a22IeCD1sTgGpkf2vMdfj6LbIMFoiNt2D1hGgPmYC8TyZc1rz8Jt3K9MxYRxfM6gATpBN3B10HI9uceR9saNuEEsgsctLCZQV7iyFAnl8t3RtEz0weAIe-r0HysAVQV2Gydo3GLEDGV1M74JWyGK-TK_ya8u&gsessionid=UlZxwNqkFLkvAdWxeVah8o2eMC5RvVd-GtqcRBxSTNiw03YyBHde9Q",
-  "snippet": "Fully automated ransomware hasn't arrived—yet. But seemingly unsophisticated attackers are using AI tools to wreak havoc."
- },
- {
-  "id": "0fc7ff243c",
-  "title": "Iran-linked cyberattack targets European supermarkets and critical infrastructure: What we know so far",
-  "source": "Beinsure",
-  "date": "1 hour ago",
-  "first": "2026-11-14T21:05+01:00",
-  "link": "https://www.google.com/goto?url=CAESqQEBxCJF1_vkIBgtaslyubXQHTfb57Lc_u3euk0qUPd-ZNUWPa74ByXEhHhEETQOblutVwC4XQzE2CTuWRdXteUqJNPvCtiAcxl-Qe-fLJ0DsUgLWRmIkextK7D8_AjXwWGq1XXUzx8hoOhP-1GNQWlBxXuqVhw3x-RENihWUy4ciMp58sKdgJvNeEhXXaIdyf-pA1GmLl75gVOVW1iu5z7GP7yc5kAXqlU6&gsessionid=UlZxwNqkFLkvAdWxeVah8o2eMC5RvVd-GtqcRBxSTNiw03YyBHde9Q",
-  "snippet": "France blames Iranian hackers for cyberattacks on 750 supermarkets, as refrigeration sabotage and attacks on critical infrastructure spread across Europe..."
- },
- {
-  "id": "9855d45e09",
-  "title": "A cyberattack forces you to pull the plug. Can your business keep running?",
-  "source": "Fast Company",
-  "date": "6 hours ago",
-  "first": "2026-11-14T21:05+01:00",
-  "link": "https://www.google.com/goto?url=CAESwwEBxCJF11B3ryYmmKs_8MkPplSBizbMBECpQ3c_Vb9fI8uRTH0BeP9k-d40sZcLaCUO_ITG6c1se7GvJNkpJHi8WM-kSaXOs94hipepGa_c2vb-VK9pBry_KfyTfby-DEcl8RfiS2PAfCc-Az9rDd1Cde0UxwDOpeMj7Tjyc1B4QQw00xxDmqrV6nXwixClF-RRtZGsBYaqqJcVV8QH5sy5YQEoWjulFEAfBWEF4ROYm5N_ZiZTaaQnpjDQjBjiofreYqs&gsessionid=UlZxwNqkFLkvAdWxeVah8o2eMC5RvVd-GtqcRBxSTNiw03YyBHde9Q",
-  "snippet": "AI is giving companies less time to patch security flaws before attackers exploit them. Boards should run a drill to find out whether the business can still..."
- },
- {
-  "id": "fe254a0637",
-  "title": "DHS says nationwide ground stop was not a cyberattack: 'We are built to handle crisis like this'",
-  "source": "NBC News",
-  "date": "17 hours ago",
-  "first": "2026-11-14T21:05+01:00",
-  "link": "https://www.google.com/goto?url=CAEStgEBxCJF16OPLsknKHvpT9oVEnwmT-hKbJsiLbnffAl-F4UFLXpOYjdgb-koOc3KzUA_zr3bJUTswII6sH6CS-rKPl6zb36JuOa93KrJ5jmtdvWBPQxNiCCXwIyk1MJ70iKBU38kjPEpsFVt4M5Z86vIDea4ca0hYrgpFmXfm7nVblMjHnPh84rBCv-uWZDBaW62h25f1Vj8o4qaLT6w88GS_SLgmq6LaCF937vowLPtnteTdAarbg&gsessionid=UlZxwNqkFLkvAdWxeVah8o2eMC5RvVd-GtqcRBxSTNiw03YyBHde9Q",
-  "snippet": "Homeland Security Secretary Markwayne Mullin told reporters during a Friday night White House briefing that there was no sign of a cyberattack in today's..."
- },
- {
-  "id": "e022daef4a",
-  "title": "Update: Ground Stop Lifted After FAA Grounds Thousands of Flights Across the U.S., 'No Indication' of Cyberattack",
-  "source": "InDepthNH.org",
-  "date": "18 hours ago",
-  "first": "2026-11-14T21:05+01:00",
-  "link": "https://www.google.com/goto?url=CAESrwEBxCJF1w4_89OPtgiEQ2Ouv3Fi8l7vFgH9isfLlZGgph4Fgs0djgl0FfFJ3YsP3YOnOObUl58t7S4PuK25rNaHt_oo5H5VnBqO-EY1gMkaWwD28xzPgPdXBwkldimyH_YO2G_4KnAutsyDLWr_5QcgRVsBqro_1LbEbXD4UOK1B1dPX_Y2P55T8f7EMo2YNsY1EhpJUNrNjOco9QQtzWQJ00y3B9H2_nIMjl5HNbqJ&gsessionid=UlZxwNqkFLkvAdWxeVah8o2eMC5RvVd-GtqcRBxSTNiw03YyBHde9Q",
-  "snippet": "Editor's Note: This story will be updated as more information becomes available. The FAA says on Twitter/X: “There has been a temporary telecommunications..."
- },
- {
-  "id": "ab2bfaa322",
-  "title": "Lego Marketplace BrickLink Back in Action After Data Breach",
-  "source": "PCMag",
-  "date": "55 minutes ago",
-  "first": "2026-11-14T21:05+01:00",
-  "link": "https://www.google.com/goto?url=CAESkwEBxCJF159fU5AXGagBV3ikiiXmFuQpBw96S42lcNGRsXmGPrGt-NtoSrwu0NgynS4H-7Tp_EUQJx54Tcpbzu1B62VPF39okE_YKA4y8DXsPsBzobfNLnpakIKnqJ27Yd7ItV1KuaxzWYBnUwLXLiTqLyQdSTB5wV5Adn4Gynu58g12r0owtvYPbYyoPfJNTWTKH10&gsessionid=UlZxwNqkFLkvAdWxeVah8o2eMC5RvVd-GtqcRBxSTNiw03YyBHde9Q",
-  "snippet": "The Lego-owned marketplace confirmed that usernames, IP addresses and a small number of email addresses were accessed, but not passwords or payment..."
- },
- {
-  "id": "6c5f6d9bb0",
-  "title": "The Next Cyberattack May Target Your HVAC, Elevators, or Worse. These 3 Steps Close the Gap",
-  "source": "Inc.com",
-  "date": "22 hours ago",
-  "first": "2026-11-14T21:05+01:00",
-  "link": "https://www.google.com/goto?url=CAESwAEBxCJF16oxg47h7k2X7Msy2TPWT5cj0jbuidXYkNZZdHrjqLItu8ZEQIkWltEvBfc9l6hqZJ1Jb7Z1bvqeKaADNtCmErt_yfpIIVD7kpjksEg_wBRFGMDwPuv7mFFTTBY8frIgsConrDe_WLdVKE4iaUcQAqIaVLS-DeTwHlWsSLpRGQ2IDERq2LrHB7sBsNdxEOsdp6FX96cIZKLg4aymBm9zvmIAvHfe6qenz1FZD2oXkSGivbKm8GqTnMUSomY&gsessionid=UlZxwNqkFLkvAdWxeVah8o2eMC5RvVd-GtqcRBxSTNiw03YyBHde9Q",
-  "snippet": "Legacy controllers allowed hackers to spoil supermarket food. Three practical checks can uncover similar connected-device exposure in your company."
- },
- {
-  "id": "53322b0c79",
-  "title": "Quantum Systems Cyberattack: 0 Attackers Named",
-  "source": "shattered.io",
-  "date": "2 hours ago",
-  "first": "2026-11-14T21:05+01:00",
-  "link": "https://www.google.com/goto?url=CAESmAEBxCJF15Y4lG9I_Xl7U4Aoy79aY9s1s1qP_wqd5BWvAlnZMnLrxqcvtvVcY4M10yFBJK8Jx3u1eygJ5xFiSFK8Dpd0VStzGSYDu5_WHDID2NhKXIWsfsCPHSfM2YEi20OwI6jLzO7Rw2DmvDKTiMz3NcP6HMqw4IRLxICYG-RpiQHDGfk8XldSIho6hOiswgnUNA7UHTeKRw&gsessionid=UlZxwNqkFLkvAdWxeVah8o2eMC5RvVd-GtqcRBxSTNiw03YyBHde9Q",
-  "snippet": "Quantum Systems says it contained an active cyberattack by hostile actors. Reuters says Bundeswehr drones fly again, but no attacker is named."
- },
- {
-  "id": "d2d03ed3d2",
-  "title": "Eversource faces a new call for answers after data breach",
-  "source": "CT Insider",
-  "date": "11 hours ago",
-  "first": "2026-11-14T21:05+01:00",
-  "link": "https://www.google.com/goto?url=CAESowEBxCJF11QKqJnKXL7KajHRLBKvXDAIW67tfqB-heg9Xpb7q7wFtlXck2wwo0RrGGe-eF_u8Nlt0o03iMj_BxolgHTR5-xlACoD5KnqvGVXliyyKmEPaXDoJlKQKFLVP87mJNHNkecC-bqgh2ksDyldohvKUExKKM-19102GrszVV94T6Q6ip7GmS0P_njIsXY-Z90-iVE0ywC06cWzqaYCMUy3&gsessionid=UlZxwNqkFLkvAdWxeVah8o2eMC5RvVd-GtqcRBxSTNiw03YyBHde9Q",
-  "snippet": "Consumer Counsel Claire Coleman on Friday called for an independent review of Eversource Energy's cybersecurity practices following an April data breach at..."
- },
- {
-  "id": "7f265e99f3",
-  "title": "FAA ground stop sparks cyberattack questions. Here’s what officials are saying",
-  "source": "Cleveland.com",
-  "date": "22 hours ago",
-  "first": "2026-11-14T21:05+01:00",
-  "link": "https://www.google.com/goto?url=CAEStQEBxCJF184vEWuncG_GzhYgk8CIUisPwlvDmQqAqbetGJpW_nKFSNrS4BEwVkPgL7nq343rMpjEhnCPvk64HYtybgSDYcUNa3C45PFsvsMltxS4nnfE4QVYuz_pyn-KnXqaho5wTo6Vfml90UMOPvd-RXZvfDEnIK4AYn7oVbrmpAXZxOChiIY18BJARm-qtF_8PjyDit-DvIYA99o_bke5e9i4Nvm00Mkc9UzXXAivOUqRP3GE&gsessionid=UlZxwNqkFLkvAdWxeVah8o2eMC5RvVd-GtqcRBxSTNiw03YyBHde9Q",
-  "snippet": "Preliminary reports indicate the nationwide FAA communications failure was not a cyberattack, according to law enforcement officials cited by CNN."
  }
 ]
