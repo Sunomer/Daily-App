@@ -1,8 +1,8 @@
 # Kandydaci – Newsy – elektronika i gry
 
-Ostatni przebieg: 2026-11-18 13:14 (Europe/Warsaw), słot: poludnie
+Ostatni przebieg: 2026-11-18 23:41 (Europe/Warsaw), słot: wieczor
 SerpAPI (Google News, 24 h): 0 wyszukiwań w tym przebiegu, 0 nowych pozycji, błędy: brak
-Zużycie SerpAPI w tym miesiącu: 77 z 250
+Zużycie SerpAPI w tym miesiącu: 80 z 250
 Pozycji w pliku (ostatnie 72 h): 40
 
 Format: id | tytuł | źródło | data w Google | pierwszy raz (Europe/Warsaw) | link | fragment

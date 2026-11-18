@@ -1,5 +1,95 @@
 [
  {
+  "id": "d4ae36431d",
+  "title": "Energy giant Equinor investigates cyberattack impacting IT systems",
+  "source": "Cybersecurity Dive",
+  "date": "6 hours ago",
+  "first": "2026-11-18T23:41+01:00",
+  "link": "https://www.cybersecuritydive.com/news/energy-equinor-investigates-cyberattack/875035/",
+  "snippet": "The Norway-based oil and gas giant said production capabilities were not disrupted, but it has no immediate timetable for full recovery."
+ },
+ {
+  "id": "ead95e5c3b",
+  "title": "Vanderbilt University was hit by a cyberattack. Here's what we know.",
+  "source": "Mashable",
+  "date": "3 hours ago",
+  "first": "2026-11-18T23:41+01:00",
+  "link": "https://mashable.com/tech/vanderbilt-university-cyberattack-byod",
+  "snippet": "Vanderbilt told students and staff to shut down university devices after a cyberattack. Ransomware group BYOD claims it has student and employee data."
+ },
+ {
+  "id": "844c6eb6fe",
+  "title": "Visa confirms apparent cyberattack, hackers also claim hit on JPMorgan",
+  "source": "TechRadar",
+  "date": "7 hours ago",
+  "first": "2026-11-18T23:41+01:00",
+  "link": "https://www.techradar.com/pro/security/visa-confirms-apparent-cyberattack-hackers-also-claim-hit-on-jpmorgan",
+  "snippet": "Emerging ransomware group n0n claims to have stolen data from Visa and JPMorgan Chase, threatening public leaks unless paid; Visa acknowledged a third-party..."
+ },
+ {
+  "id": "38dd873294",
+  "title": "US Sen. Tammy Duckworth, Democrat from Illinois, seeks answers after FAA outage as officials rule out coordinated cyberattack",
+  "source": "ABC7 Chicago",
+  "date": "12 minutes ago",
+  "first": "2026-11-18T23:41+01:00",
+  "link": "https://www.google.com/goto?url=CAESzQEBxCJF1wbhOrdq_PKapa4LvN8s-hGqttq5M5IEzxJOjor4BTX6q8U0fg662eJV8ax53BypuEc2LT9oiKrLPzvbVFcWJkW3b0Mda1J8oSIzbG8ahTd_Z-ASHi9k6n7-xVt2TfQ7iRxnl51J61Ubh-0QabeYDYybG27Xd8Si7pHbzJbPKLhoME2ovSbdDWWTG7_cuMj427-C6Ddx-g2CnDhg7FI9EukQie1oOfsGAMqcaagLs1IKXtwjdNygJjwte1p6r01tlLDRrW5UpKR1&gsessionid=NuFj6g5lH5OfCaGL9wd9AIHAT5tbWuODOJSiY3u96wYUUz0zD5KTRg",
+  "snippet": "US Sen. Tammy Duckworth, a Democrat from Illinois, seeks answers after a FAA outage as officials ruled out a coordinated cyberattack."
+ },
+ {
+  "id": "499d31c181",
+  "title": "Optimizely cyberattack hits major websites and what it means for security teams",
+  "source": "Spiceworks",
+  "date": "8 hours ago",
+  "first": "2026-11-18T23:41+01:00",
+  "link": "https://www.google.com/goto?url=CAESsQEBxCJF1_xUz3mZiYlm-lrEfKskHLRoJWIBu_AiyEaPhrXq4ZyXrFxe_R-8wLobwqJ5sTRBkjgbrO2LpchKhnW2xCwvRrtV1Kja8P_3w0E3rPkGgtNYAm7saKaOx-7tNAHEY9VYZAvkbnTA1v21NxCFliHxqFFas0qJgyCtmuoXgdFoaTkf210Wkp97TjJoYWnChBD6hFZh6qYQXu5sEMMeDx7IqVWCsZWnwYmAtKCLEaM&gsessionid=NuFj6g5lH5OfCaGL9wd9AIHAT5tbWuODOJSiY3u96wYUUz0zD5KTRg",
+  "snippet": "Optimizely's supply chain cyberattack exposed 178 organizations to malicious scripts, highlighting the urgent need for robust client-side security..."
+ },
+ {
+  "id": "f2cded2641",
+  "title": "Data Breach Leads Ohio County Libraries to Shutter App",
+  "source": "GovTech",
+  "date": "37 minutes ago",
+  "first": "2026-11-18T23:41+01:00",
+  "link": "https://www.google.com/goto?url=CAESlAEBxCJF10vMgCxt8O0fT_4T0DzEorx-gSG4kdfJIhjJGLUGrGKzzDSyu9i4fRXNCg81oP83HVobMAFn0JudowdduEcv8iyUtW8koHsRMckdGDGVOB303DLrx9L-T_AhF40fl-8xWCqCmeGGB3hrkMJqW1p2diTgmnQKGlCqUhAVOvnXLrToimsT5Avp-UZj5lnaUiO4&gsessionid=NuFj6g5lH5OfCaGL9wd9AIHAT5tbWuODOJSiY3u96wYUUz0zD5KTRg",
+  "snippet": "An “outside entity” obtained access to Cuyahoga County Public Library system patron information via two vendors, prompting officials to shut down its app..."
+ },
+ {
+  "id": "21677fe584",
+  "title": "What to know about recent tech outages spurring cyberattack fears",
+  "source": "ABC News - Breaking News, Latest News and Videos",
+  "date": "33 minutes ago",
+  "first": "2026-11-18T23:41+01:00",
+  "link": "https://www.google.com/goto?url=CAESnQEBxCJF1zcQ__YGjbtIhO8CMoUPy4nY9wG24vTujboto3DdO3drY9fUPBiaRWooxXZqd_tSYiAJ7ZcdRbqRsak_CLt4QktoXjToIYaoAnFWqUMo054GxnWWmup9CZD32kPS6ivUQgHTdQ1sPxqBVDdOgeH5UX8OV6gF4-r3EKvnt44vhgGuvUDsOrqhKj1yjrJqC_je4eliaTeuBqHG&gsessionid=NuFj6g5lH5OfCaGL9wd9AIHAT5tbWuODOJSiY3u96wYUUz0zD5KTRg",
+  "snippet": "The Trump administration continues to assuage growing fears of cyberattacks after multiple tech outages across the nation."
+ },
+ {
+  "id": "99f522ecc4",
+  "title": "Cyberattack hits Norwegian energy giant Equinor, disrupting internal services",
+  "source": "The Record from Recorded Future News",
+  "date": "9 hours ago",
+  "first": "2026-11-18T23:41+01:00",
+  "link": "https://www.google.com/goto?url=CAESdgHEIkXXi1k8vYtTvbONUUhf15EX2ZDHtLj63C4t_yW5FymjoYf01odOQYv2ZDrkdfkBKdfoSWGYhjjybI-TNeqx5DKTGzm55nGDHYJtx9ksUypz4HvLt9TJBU0Hq4YAbHs5gmnWnh-KOI66_UUUiij9WZT_6ZY&gsessionid=NuFj6g5lH5OfCaGL9wd9AIHAT5tbWuODOJSiY3u96wYUUz0zD5KTRg",
+  "snippet": "The Norwegian energy giant Equinor is working to contain a cyberattack on its IT systems that the company said has not impacted oil and gas production."
+ },
+ {
+  "id": "02ef512dab",
+  "title": "Vanderbilt University Investigates Cybersecurity Attack, Ransomware Group Claims Data Breach",
+  "source": "The Tennessee Tribune",
+  "date": "2 hours ago",
+  "first": "2026-11-18T23:41+01:00",
+  "link": "https://www.google.com/goto?url=CAESrwEBxCJF10fwgXtSSWzfzSQ5crXIGTSQ3qg_zcjHjL-RS37zFmt_u6ml4e0VAIk8vF_XYZlM9awHqDxVKqDW7TMqoGOhHMq0j1HCoJO3DnhIxGmpOYkxn8DRko-hQAdBP6izpJ-ejhXqvyQ15ZcFNAY1Id8tJoY24BYHdZQmyzsn4up7B5EB77YqrZlCYgsH1pv0UeowxheWpxLo5D8rVOEjjOO5SRTYy3f3afqXNjfg&gsessionid=NuFj6g5lH5OfCaGL9wd9AIHAT5tbWuODOJSiY3u96wYUUz0zD5KTRg",
+  "snippet": "NASHVILLE, TN — Vanderbilt University is investigating a cybersecurity attack after a ransomware group claimed to have accessed sensitive personal..."
+ },
+ {
+  "id": "321ded9b86",
+  "title": "The State of Ransomware Q3 2026",
+  "source": "Check Point Research",
+  "date": "4 hours ago",
+  "first": "2026-11-18T23:41+01:00",
+  "link": "https://www.google.com/goto?url=CAESggEBxCJF1xlHUs7IttwlbuMcSG0En04b0dcSxqvqi28wq22fMWtoBQPSAH1sSLhc4htTFwIusVcANuM4gGdOnAhfyOnjAt5moSYOM3NH7D4IKQpKZfqwbEbJr9AUzwz04QKNKeuThQH7fYQMK_ttCMs-3fnfi1fWqmVE4JNuhLEtL9a0&gsessionid=NuFj6g5lH5OfCaGL9wd9AIHAT5tbWuODOJSiY3u96wYUUz0zD5KTRg",
+  "snippet": "Ransomware reached record levels in Q3 2026, but the scale of activity is only part of what changed. The ecosystem producing those attacks is becoming..."
+ },
+ {
   "id": "72ca796b18",
   "title": "National intelligence director says no signs of cyberattack amid tech outage concerns",
   "source": "ABC News - Breaking News, Latest News and Videos",
@@ -421,95 +511,5 @@
   "first": "2026-11-16T13:02+01:00",
   "link": "https://shattered.io/la-poste-maileva-hack-22-million-people-data-exposed/",
   "snippet": "La Poste says the Maileva data breach exposed names and postal addresses of 22 million people. Banking details were not hit. Here is what we know."
- },
- {
-  "id": "1f409098df",
-  "title": "Transportation secretary still hasn't rule out a cyberattack hit the FAA, and the FBI is assisting",
-  "source": "Fortune",
-  "date": "3 hours ago",
-  "first": "2026-11-15T21:34+01:00",
-  "link": "https://www.google.com/goto?url=CAESvAEBxCJF1ymVmOGrc8xUz0MaSaN_drQEmLwdsr4i2duN863sU3WUr9WUf5ou8MkOrECIRj66k3K2nYvEVhXE9IhVb2R1YelSp14YAmvLaBfCIYUDLr8LIx8wQzS9jXqmaQut-gLSSo0uGbhgY_ZPSPF3DUNActrQ4_8NWrWvlrRvCRuvhi_kk-rwNd1iFIdJhx1JW2eR03pA69KsMhUkfPb83Q5RwRBjY_NE2FFOs4hWk5Iz_vho_99zj74bXQ&gsessionid=__cv5LaCgvqtLbpxyZRAyQYyv9jtNj0jfahjU6R2FXrbGm3sYiSUQA",
-  "snippet": "Air traffic is returning to normal after a nationwide ground stop on Friday, but the investigation into the root cause is just starting, and the federal..."
- },
- {
-  "id": "6d8b84dfa8",
-  "title": "VIDEO: The Hustler speaks to Vanderbilt cyberattack hackers",
-  "source": "The Vanderbilt Hustler",
-  "date": "4 hours ago",
-  "first": "2026-11-15T21:34+01:00",
-  "link": "https://www.google.com/goto?url=CAESoQEBxCJF13gtyx8mJMvP4c2GHSzKhVJQmT8qw7unAbjz3I0s_SqPgzigpWtivciDnszWpRNLt2uZWos_TYNcC59Dn9yHZYrc3k_G-ypY-u5W0T678L3Bf0CMlq0glZ_OkI05-8tE5uYzS--YmMMZUsm1C7zYwqDjx0QpM8pUR_40YB4QnLUVPlT431vAXAaLPeRMQy2XWwP0DCOW0SSY9UhEJA&gsessionid=__cv5LaCgvqtLbpxyZRAyQYyv9jtNj0jfahjU6R2FXrbGm3sYiSUQA",
-  "snippet": "Corey Lochan ('27) is majoring in human and organizational development and mathematics in Peabody College. He previously served as Copy Editor and Deputy..."
- },
- {
-  "id": "673613584e",
-  "title": "Jeweler Chow Sang Sang Reports Data Breach",
-  "source": "Rapaport",
-  "date": "6 hours ago",
-  "first": "2026-11-15T21:34+01:00",
-  "link": "https://www.google.com/goto?url=CAESggEBxCJF16cLRtr5MssYZRLGmctwtS1k96ToGcHuBtq1Vh8ZMI2o_oBmeXNYdyvsncw3kguZZuDNsk1r_tpgLgMv20lhSTqXuvoKDJJTHm7HwE_5mc26F5t4bU9xrkDWjxQE8iENTxkQ4OJn3qORmszm7ijuXtzjjAb7GGxjq4K01pLa&gsessionid=__cv5LaCgvqtLbpxyZRAyQYyv9jtNj0jfahjU6R2FXrbGm3sYiSUQA",
-  "snippet": "Chow Sang Sang detected a data breach on November 9 involving its membership system and e-commerce platforms. Personal information of customers and..."
- },
- {
-  "id": "fc0ee62bab",
-  "title": "'Is this a cyberattack?' Grounded flights, a Microsoft outage and AI chaos fuel cybersecurity fears",
-  "source": "France 24",
-  "date": "14 hours ago",
-  "first": "2026-11-15T21:34+01:00",
-  "link": "https://www.google.com/goto?url=CAESzQEBxCJF1w5I2Dx9u1iL4YiLpJsKOnjvn0Um0LmkyFD8tiRG5L61tT9B82n3ndLxzUGjJpf_5XpwC01l7T6eeq_MvYZsr2OJuNNkIkBNvVK0n71G1uu1EClhqNlGMNvBKOpQtIbirWhVBMA-EwMVbUi4zf4M13UZ-a0J9rp7y19jp8zeUnixm76tLvT-uAocBkuwqZ2T9VNMw0mik9nGZJbCvfyU1lbSkkhtHtpnA9-aVvdmZoIAP58hGDF9eQLwt6F7x88zOi0n5-dsSUI0&gsessionid=__cv5LaCgvqtLbpxyZRAyQYyv9jtNj0jfahjU6R2FXrbGm3sYiSUQA",
-  "snippet": "A series of unsettling disruptions, from tech stock turbulence and Microsoft outages to a nationwide grounding of flights, has left millions wondering..."
- },
- {
-  "id": "7dc68e19bd",
-  "title": "Russian hosting provider Beget reports second major cyberattack in two weeks – media",
-  "source": "Ukrinform",
-  "date": "1 hour ago",
-  "first": "2026-11-15T21:34+01:00",
-  "link": "https://www.google.com/goto?url=CAESzgEBxCJF1y0MhqTOhyLKGMVYXfDc8LL9x6m9R9U-FHfJZWCeVsfLme1npm5TElCmHnG8V4C09Phvc-9bTBCBkuNqw49rRCizxgirPIpiXXU4QuzUeSZ7tJyLVZkptIyvHbTw7jBaHfm06P5Q0I3tO1ge69xVo0VZ5dXzwt0AbB6oVDw_YEHTk52YgrPIf6jmRETpDELCmaZUde50ZLpYjQoYtq0LMUT1Tc3qBHol3UpSKSwgnYan5Px-CMxy0yweFLONKsrKf8BfT-0Dj4CxOw&gsessionid=__cv5LaCgvqtLbpxyZRAyQYyv9jtNj0jfahjU6R2FXrbGm3sYiSUQA",
-  "snippet": "Russian hosting provider Beget, which recently lost its cloud infrastructure, has been hit by a large-scale DDoS attack reaching 2.1 terabits per second."
- },
- {
-  "id": "002e43c3a7",
-  "title": "TSMC employee data breach linked to cloud provider",
-  "source": "BleepingComputer",
-  "date": "5 hours ago",
-  "first": "2026-11-15T21:34+01:00",
-  "link": "https://www.google.com/goto?url=CAESnwEBxCJF1yXgUEZB8epvMxX3u069g06XzZ1x6KLZjGD80wF4gWJ1na2YsoZ3ftN3z3LPxBo7pPuVztJMPg3RE-4-usRSRG2jkc0lwzeDVnoSN9fdKazkBoKIEiuPJDeF2yTUZF3Zh2-k0IDYGOg2-o0NvC1qVp5GufbK4XQSaak2lTYbpd3FSbre-btYt6FqiyZh0W9dqaPvKKKhZLjCC0k&gsessionid=__cv5LaCgvqtLbpxyZRAyQYyv9jtNj0jfahjU6R2FXrbGm3sYiSUQA",
-  "snippet": "Taiwan Semiconductor Manufacturing Company (TSMC) confirmed that personal employee data has been leaked online after a threat actor put 6.9GB of information..."
- },
- {
-  "id": "fefc4548f8",
-  "title": "'Zionist regime's false flag': Iran warns France over supermarket cyberattack",
-  "source": "Middle East Eye",
-  "date": "9 hours ago",
-  "first": "2026-11-15T21:34+01:00",
-  "link": "https://www.google.com/goto?url=CAESqQEBxCJF16Ieg0V5P9ULcdIAU2jJ2RPC5BbAgNc19UzajfoVmhcjN8pN52UvR8mYq1ykmBMBBBEZs655mHzB_BOgGlB0NoVfl8gH9Cm3KJhnLAqkK0CiGVU_qgzCSecQ6UYcpK-l-JNkQT_HvTjAiPlhukxXbhleSDM_suGM9ntQ-nMC14H4B1vEj9If5JNfRlQrorHiLobFJK9yHbFq5LGBb73GTraFaMtY&gsessionid=__cv5LaCgvqtLbpxyZRAyQYyv9jtNj0jfahjU6R2FXrbGm3sYiSUQA",
-  "snippet": "Paris has accused an IRGC-linked cyber unit of targeting refrigeration systems at hundreds of supermarkets."
- },
- {
-  "id": "c81588e8e3",
-  "title": "Data Breach at La Poste Subsidiary Maileva Affects 22 Million People in France",
-  "source": "Security Affairs",
-  "date": "9 hours ago",
-  "first": "2026-11-15T21:34+01:00",
-  "link": "https://www.google.com/goto?url=CAESwAEBxCJF17hpPzorrciU-p371PQq2FuvOVVsyQPVxH8fldGeEHWn90rIMSnJhtpeb-nf50wdcU1D0B6ZC-uRVyQuR-Ru3YRdYGthAfEjpuPqqXy4KcrxRTFdmX1f-wM-dDwH-F9ODNRk6Yx1VS7JNg1ovN_BPBGnWyyqMhqCWyGekSrs4hGmdTlrCjTEFtOGzjHXBjRHD_n2RxMzT26v_CURcavGfSrXijB4dov3UPN_qTliSTjZzMDEuv-9GrrPdus&gsessionid=__cv5LaCgvqtLbpxyZRAyQYyv9jtNj0jfahjU6R2FXrbGm3sYiSUQA",
-  "snippet": "A cyberattack on La Poste subsidiary Maileva exposed the names and postal addresses of 22 million people, including patients and tenants."
- },
- {
-  "id": "e549604b83",
-  "title": "Duffy: Investigators examining 2 routers after nationwide FAA ground stop, no signs of foreign cyberattack",
-  "source": "Fox News",
-  "date": "2 hours ago",
-  "first": "2026-11-15T21:34+01:00",
-  "link": "https://www.google.com/goto?url=CAEStwEBxCJF1zOPOa1bBOLbak0DBLb-7wRvMRs6ZBNqawE1kNtwfa48I4H6Uj-7-KpKOMpgK3OFB-pTx7zO7dEib3oa_4oQquM6pgfMcMZheuS4PNI95_se-tC1zM2dUytlxVp0cmvuwhgkNo-9z6taYCEc_JOc7XEPZEDG_48C658aTNCyKZrkts-_GMt-gDg_-o6vG0E9kQ_BroMq4Gzoj3bzinYYosasQzgKEDnn7NgiO8ihUmgdnw4&gsessionid=__cv5LaCgvqtLbpxyZRAyQYyv9jtNj0jfahjU6R2FXrbGm3sYiSUQA",
-  "snippet": "Transportation Secretary Sean Duffy says two routers from FAA facilities in Texas and Arkansas are being tested after the nationwide ground stop that halted..."
- },
- {
-  "id": "1bb8187773",
-  "title": "Cyberattack on French postal operator subsidiary exposes data of 22M people",
-  "source": "Anadolu Ajansı",
-  "date": "7 hours ago",
-  "first": "2026-11-15T21:34+01:00",
-  "link": "https://www.google.com/goto?url=CAESvgEBxCJF11adcyZEMVPvHmcS4fSeqDSa_2UGP1SDIMMc_Zf4_OQXpy8aTC_AVmtXdB8TRdheeeGg7YpFaT49uWrqrc-h-lrgIvpMxiTgd4Llu1IKs9ZujADzW70F1LOPuFHlPedzPsCyHrOJDR1sb0RMbk3oS8NApHDh-75AHqEEy_ZSzRSsw3NZB0NNUjG8EWSbr9mPXqTcuP1YXuWFyeKM-hWU-ylO24hV0rYr9rc11J2TbzzCfHKbZkY-h7P0&gsessionid=__cv5LaCgvqtLbpxyZRAyQYyv9jtNj0jfahjU6R2FXrbGm3sYiSUQA",
-  "snippet": "Incident affects nearly 39 million mail references before duplicate records were filtered out, impacting roughly one-third of France's population / Anadolu."
  }
 ]
