@@ -1,5 +1,95 @@
 [
  {
+  "id": "72ca796b18",
+  "title": "National intelligence director says no signs of cyberattack amid tech outage concerns",
+  "source": "ABC News - Breaking News, Latest News and Videos",
+  "date": "9 hours ago",
+  "first": "2026-11-18T13:14+01:00",
+  "link": "https://abcnews.com/US/national-intelligence-director-signs-cyberattack-amid-tech-outage/story?id=138229967",
+  "snippet": "Jay Clayton's comments come after an internal communications system used by NSA employees to share classified information temporarily went down on Tuesday."
+ },
+ {
+  "id": "2b35eb8d69",
+  "title": "Optimizely confirms massive cyberattack on customer websites injected stealer malware",
+  "source": "CSO Online",
+  "date": "11 hours ago",
+  "first": "2026-11-18T13:14+01:00",
+  "link": "https://www.csoonline.com/article/4249925/optimizely-confirms-massive-cyberattack-on-customer-websites-injected-stealer-malware.html",
+  "snippet": "The attack, which hit some of the world's largest corporate sites including Zoom, Salesforce, IKEA and Heineken, almost certainly came from China,..."
+ },
+ {
+  "id": "b1c05a2847",
+  "title": "Norway's Equinor detects ongoing cyberattack, oil and gas output unaffected",
+  "source": "Reuters",
+  "date": "13 hours ago",
+  "first": "2026-11-18T13:14+01:00",
+  "link": "https://www.reuters.com/technology/equinor-detects-ongoing-cyberattack-output-unaffected-2026-11-17/",
+  "snippet": "Norwegian oil and gas group Equinor said on Tuesday it had detected an ongoing cyberattack against some IT systems, but that ​the attack had not affected..."
+ },
+ {
+  "id": "a1b58d88c5",
+  "title": "How to Tell If It’s a Cyberattack or Just an Outage",
+  "source": "WIRED",
+  "date": "17 hours ago",
+  "first": "2026-11-18T13:14+01:00",
+  "link": "https://www.google.com/goto?url=CAESjAEBxCJF18u0afEn9bq3qKoFLCcExK5r9EjDiFJnNdpoiOY7BspqwbkwAuvnqvbt284ekiNtajquwRl3YMc-Qlzj2yPIx2Wi4DJVLLWDvJc7sNmNFQqko55n33iz4msL10PLw5zGlk83pU7oJSSEq3ntwNlR5G287wMPDb5hkIlR5DALhS8daFUCEButew&gsessionid=zd6Ym6sxuTueor4eqibxp_YstBdR1j-KD39c5DRsZV7FQMQ2hkkZQA",
+  "snippet": "Email, flights, banks; network failures are piling up. Here's how WIRED investigates if they're the result of hacker mayhem. (Hint: usually not.)"
+ },
+ {
+  "id": "2295f43397",
+  "title": "Cyberattack targets Optimizely, third-party software used by major websites",
+  "source": "ClickOnDetroit / WDIV Local 4",
+  "date": "14 hours ago",
+  "first": "2026-11-18T13:14+01:00",
+  "link": "https://www.google.com/goto?url=CAESvgEBxCJF1wUcF_blw4cuMBboaIGXwI40AVQHleF1OGGs_oCkAFIfRpa1y0BeP74pznF02d48u3_i145Q6VxLqG07wZ-vDcUYvfewQmqUATk5WQaOYSb4oqgkMR-qSx4Pe_18Al9_GdlzSZhJM4i1-SAchNMe7sd-jXO17fj6qPVHD2jLPC80MO4p64jKE8C-aBGoeMh7GAJ_etOUJXR5Zj_KyFrj0dIO0YTUIl-27zhFMQTEfQq6WJQqL35cqRsm&gsessionid=zd6Ym6sxuTueor4eqibxp_YstBdR1j-KD39c5DRsZV7FQMQ2hkkZQA",
+  "snippet": "A new cyberattack is raising concerns about the security risks tied to third-party software used to help run some of the world's biggest websites."
+ },
+ {
+  "id": "c23d2780a8",
+  "title": "Cyberattack hits 178 organizations: Credit cards, crypto, other data at risk",
+  "source": "Syracuse.com",
+  "date": "14 hours ago",
+  "first": "2026-11-18T13:14+01:00",
+  "link": "https://www.google.com/goto?url=CAEStAEBxCJF10XiyPAXwd8r5yyJ-CoxVPfROMj5SBCpsCUasQ0XbyoKVXbgfxNzvDO1U7NKDAcS9dfyJ3aAQnG-3CAfvdBWv59aVpcom8JI9Nl9Qr86h5AMJr23NOXuj5qlr8vwxE18SYyDijzqDhtf9zoqx-vuK4PJGtikGWvaltFaIDQoO9eEPyZuROzqa-V4xFlxQsiID5VqYIWaTS698azWD0ROUjjk_DzCgqb-lEhNYvUllBA&gsessionid=zd6Ym6sxuTueor4eqibxp_YstBdR1j-KD39c5DRsZV7FQMQ2hkkZQA",
+  "snippet": "A cyberattack has hit 178 organizations worldwide, potentially exposing users' credit cards, cryptocurrency and other data."
+ },
+ {
+  "id": "5e9cc533f4",
+  "title": "A month after RPS cyberattack, schools are far from normal",
+  "source": "Axios",
+  "date": "50 minutes ago",
+  "first": "2026-11-18T13:14+01:00",
+  "link": "https://www.google.com/goto?url=CAESnQEBxCJF122rastnwmx2ghvLte3mlvUraN7ljY4CNyzT6Zo03VSy9U34orAWP9OP2SpdIS7JK9bsyQ_J61dANxipraX1BGh1KblzclBpsMi7uGfowf5ATqVZQD7AuwDKP2J2RVODvY-SYHxnSQAi9OucNub2q-S-16LhYFkQQzidJQ9lxpEBt7MSaAPXubHfHGKJqdxGelIS_Ngb9YfJ&gsessionid=zd6Ym6sxuTueor4eqibxp_YstBdR1j-KD39c5DRsZV7FQMQ2hkkZQA",
+  "snippet": "School staff calling parents to verify who can pick up their children. Students huddling around tiny computers to see lessons. Teachers relying on personal..."
+ },
+ {
+  "id": "25e07962f4",
+  "title": "Vanderbilt University was hit by a cyberattack. Here's what we know.",
+  "source": "Mashable",
+  "date": "14 hours ago",
+  "first": "2026-11-18T13:14+01:00",
+  "link": "https://www.google.com/goto?url=CAESfQHEIkXX-y1wN8oP8IWQ_iQgDGDKCsw57QNlUO3BWFmOP4xhXIJX6HM4BT8BK0PAMQ118Cc0JKkoRdLlwOh6DSfW0CmXvmxS3zPHaxB7q7xKL0Plv5ojUOOW6AQGvcfpZA1iLYXfa9ZbOmmQdEIem6W8BybMKoYV161l6lb9&gsessionid=zd6Ym6sxuTueor4eqibxp_YstBdR1j-KD39c5DRsZV7FQMQ2hkkZQA",
+  "snippet": "Vanderbilt told students and staff to shut down university devices after a cyberattack. Ransomware group BYOD claims it has student and employee data."
+ },
+ {
+  "id": "d0035bee80",
+  "title": "Charleston Co. investigating potential cyberattack after data removed from systems",
+  "source": "Live 5 News",
+  "date": "13 hours ago",
+  "first": "2026-11-18T13:14+01:00",
+  "link": "https://www.google.com/goto?url=CAESrwEBxCJF10vkNsqYChdDRxR7GD-gG1JMBd89IctXIM-o8Xw6YUQ7CX_hYcQ0oXsr1NjpxdOpjXnc6vsddOvSJ2kU0xUzY2PMsfLW8RlwKj7A6g9UxCnqavM2Fd9yrSeb07ciLLq9N0DJRt1FmCI60qiejgjc0ETW-t7-EGbq98sc2tyo0QHPhXjPNNSJJa9OZLQ582-9SwngCLML7uuDAfJznAsdeoa9qI9JGqqbUN7f&gsessionid=zd6Ym6sxuTueor4eqibxp_YstBdR1j-KD39c5DRsZV7FQMQ2hkkZQA",
+  "snippet": "Charleston County is investigating a potential cyberattack after its IT team identified “unusual activity” Monday."
+ },
+ {
+  "id": "fea0c6adc6",
+  "title": "Important Notice of Data Breach for ECM/HOME Team Clients",
+  "source": "Nevada County (.gov)",
+  "date": "15 hours ago",
+  "first": "2026-11-18T13:14+01:00",
+  "link": "https://www.google.com/goto?url=CAESeAHEIkXXrwNu4lrTHiXHPUCsS1zcsp9l8Td7teFurOn7K4eyye93RiBjyhmHIpiGmShKt8YLhL_w5XEATu3irXuLzAJ34UGV4a68Y_KbWnUwBm9dxUWotZscrWfLvjE7HPdKCI0lufStewbRALfGMGLDXjS_X1x1lA&gsessionid=zd6Ym6sxuTueor4eqibxp_YstBdR1j-KD39c5DRsZV7FQMQ2hkkZQA",
+  "snippet": "What Happened? On October 16th 2026 Nevada County Behavioral Health discovered that the Release of Information (ROI) form used by its Enhanced Care..."
+ },
+ {
   "id": "2212ff058a",
   "title": "How to Tell If It’s a Cyberattack or Just an Outage",
   "source": "WIRED",
@@ -421,95 +511,5 @@
   "first": "2026-11-15T21:34+01:00",
   "link": "https://www.google.com/goto?url=CAESvgEBxCJF11adcyZEMVPvHmcS4fSeqDSa_2UGP1SDIMMc_Zf4_OQXpy8aTC_AVmtXdB8TRdheeeGg7YpFaT49uWrqrc-h-lrgIvpMxiTgd4Llu1IKs9ZujADzW70F1LOPuFHlPedzPsCyHrOJDR1sb0RMbk3oS8NApHDh-75AHqEEy_ZSzRSsw3NZB0NNUjG8EWSbr9mPXqTcuP1YXuWFyeKM-hWU-ylO24hV0rYr9rc11J2TbzzCfHKbZkY-h7P0&gsessionid=__cv5LaCgvqtLbpxyZRAyQYyv9jtNj0jfahjU6R2FXrbGm3sYiSUQA",
   "snippet": "Incident affects nearly 39 million mail references before duplicate records were filtered out, impacting roughly one-third of France's population / Anadolu."
- },
- {
-  "id": "16c93305b6",
-  "title": "Stolen Fireworks AI Key Led to Cursor Data Breach and Trojanized Claude Code Extension",
-  "source": "The Hacker News",
-  "date": "3 hours ago",
-  "first": "2026-11-15T12:29+01:00",
-  "link": "https://www.google.com/goto?url=CAESiQEBxCJF19wcC8OqwMxQQsVmyps_tqXfNG0B0XPF3zQ7WyvbY9JEBt3LydEgI1vjbb9jlcGjY56Eydp_Erb9DkGQsS7bV24LOYPOJsSxK0Be6ad8mLgrkpdyNwOVLBwI-nV8XuSZwPEOZVzJdnG6bOAIg-nQM9aGdI7PesbJsH5R_RjUHQPsPcyY7A&gsessionid=O0wzAEhUwf1dloADzg9iUV68rldXop5BerYJ86p34555ij7_FHfM_Q",
-  "snippet": "Cursor says a stolen Fireworks AI key enabled data theft and a Claude Code extension compromise that potentially affected up to 5000 users."
- },
- {
-  "id": "fc324430a5",
-  "title": "Beware the New AI-Fueled Ransomware Boom",
-  "source": "WIRED",
-  "date": "22 hours ago",
-  "first": "2026-11-15T12:29+01:00",
-  "link": "https://www.google.com/goto?url=CAESggEBxCJF1x_mqEsUnSsDPfJiH8zbfBp9jsGgXUJC2P34rwykFU_yoaus1zftfJEoHtODwReVlze-omankWa98TftlK-PGWZL7dxysrnT6US7JmUBZYzgk8L4rcGoIupDWuLDd0UPLedlwhJjG0l91gwNOXzXBB-kjYQd6midKmlibQ2r&gsessionid=O0wzAEhUwf1dloADzg9iUV68rldXop5BerYJ86p34555ij7_FHfM_Q",
-  "snippet": "Fully automated ransomware hasn't arrived—yet. But seemingly unsophisticated attackers are using AI tools to wreak havoc."
- },
- {
-  "id": "acf6bc3eee",
-  "title": "World Triathlon Data Breach Exposed Athlete Medical Information and More",
-  "source": "Slowtwitch News",
-  "date": "11 hours ago",
-  "first": "2026-11-15T12:29+01:00",
-  "link": "https://www.google.com/goto?url=CAESpwEBxCJF1xd5Wa6UwrHPuhRkJYgiMfPkZfLPJ1UERVZteu_ei0xzY0LhjwoFaUKYc1AIW611Z37C2rLSxC8JbC0NKUEE6gobW9EyX2Bqtvnro6zxMd64q6H8Prp1z3nYYXwIo8TUQpZDeibty54TLbtSCPClDMsNr6NlKaMuItES5v6reEQ85eIMBdGkDoIIlHFXRlmii96pYXNMCexokGMjbFC5Fs9v5Q&gsessionid=O0wzAEhUwf1dloADzg9iUV68rldXop5BerYJ86p34555ij7_FHfM_Q",
-  "snippet": "World Triathlon yesterday disclosed a data security incident in which an unauthorized party accessed its databases and copied personal records of members,..."
- },
- {
-  "id": "78fb85d697",
-  "title": "‘We don’t believe so’: Duffy dismisses cyberattack as cause for air traffic shutdown",
-  "source": "MS NOW",
-  "date": "14 hours ago",
-  "first": "2026-11-15T12:29+01:00",
-  "link": "https://www.google.com/goto?url=CAESiwEBxCJF14_11ryI_AgLmuSuGpXYgZQY9TzqzofcXz4vmbegma3lGn6pVCCdfZLNw7qeau43LU9FanEjQyFIuuv0U48QQhoo9rNEy_5ofFaLcdcocg5z33Ls5W80jX7MxZJSNGYocU21FBXB5N2NIv9IdQDvPctQnVkktZZ58yZjB1SBVjlVDxUdbt1_&gsessionid=O0wzAEhUwf1dloADzg9iUV68rldXop5BerYJ86p34555ij7_FHfM_Q",
-  "snippet": "Instead, the transportation secretary pointed fingers at potential “incompetence” by an FAA contractor."
- },
- {
-  "id": "8796b1c92a",
-  "title": "'Is this a cyberattack?' Grounded flights, a Microsoft outage and AI chaos fuel cybersecurity fears",
-  "source": "France 24",
-  "date": "4 hours ago",
-  "first": "2026-11-15T12:29+01:00",
-  "link": "https://www.google.com/goto?url=CAESzQEBxCJF10s0fZDShDyNk_ByUcvCoFkalFZAzzaQnGye69K0P-mEaLyLPplji-Lrt-c1EPY7MrTy4SeZDE8kpyU0TAMRCrTI9wQM8EcgPGkvNk-Kc3KhEjz6L2xJmX7K-sp0gd3deteg-PoViOMRHpuEejmAWzfbiQg0Ou3jzj1zWWzXGvUQwiedDwUW_ETl2rjLa7BMMmvgkgEmeOEjDk8w6-Ief518R3xPzV7G5V-fdTweZ5VYZHVu-lKnhKqCFdsBie03rZsuBGzwofeV&gsessionid=O0wzAEhUwf1dloADzg9iUV68rldXop5BerYJ86p34555ij7_FHfM_Q",
-  "snippet": "A series of unsettling disruptions, from tech stock turbulence and Microsoft outages to a nationwide grounding of flights, has left millions wondering..."
- },
- {
-  "id": "414c506d20",
-  "title": "Iran-linked cyberattack targets European supermarkets and critical infrastructure: What we know so far",
-  "source": "Beinsure",
-  "date": "17 hours ago",
-  "first": "2026-11-15T12:29+01:00",
-  "link": "https://www.google.com/goto?url=CAESqQEBxCJF1ykNIabLV9F2DFbvT6oJy7cwULCGD4wkYIKztaRTD0lr5RbW4mCU0fodHw0j54ynaNzzZQ7AwQhWXtG0kkEmKottHve1sRMY3sWkDYoFlP745HCdPFt_n3nPGfVpD2_THiN9TZ1Di2YUQXW0CP3OhtPwzvPGfeRM6vO5fx8a6EvIjKzUI99rteTYvUOre-SJC9ze8sycZD9NpkE7iOckikOEpn05&gsessionid=O0wzAEhUwf1dloADzg9iUV68rldXop5BerYJ86p34555ij7_FHfM_Q",
-  "snippet": "France blames Iranian hackers for cyberattacks on 750 supermarkets, as refrigeration sabotage and attacks on critical infrastructure spread across Europe..."
- },
- {
-  "id": "1bfb5d8dda",
-  "title": "Data Breach at La Poste Subsidiary Maileva Affects 22 Million People in France",
-  "source": "Security Affairs",
-  "date": "23 minutes ago",
-  "first": "2026-11-15T12:29+01:00",
-  "link": "https://www.google.com/goto?url=CAESwAEBxCJF1w9pkETbm5wZI73HrwfdAE73-nhl3fyZOhB-fKtnMe_BJ1uoFd9F34XgG2wNBh41A3gx3olg2m_viOwjCnmLjNlwWaojraelJ16K6owEH772W3ihMUf_ZL8BntaVqFYNCsdqE3OcAH6fZ42DPOH3XiEk_Qnlbb1VU4WxG-_W9OT58WYoKaa2lUiTV3K7xhq_IWQ-cWFfbKn7JOHPdZNgmR3C2xf9hF8PrMdNdBn_8IjLenFz294K0qhKFp4&gsessionid=O0wzAEhUwf1dloADzg9iUV68rldXop5BerYJ86p34555ij7_FHfM_Q",
-  "snippet": "A cyberattack on La Poste subsidiary Maileva exposed the names and postal addresses of 22 million people, including patients and tenants."
- },
- {
-  "id": "010bee5f78",
-  "title": "Is This a Cyberattack? 2 Outages, 14,000 Flights Canceled",
-  "source": "shattered.io",
-  "date": "4 hours ago",
-  "first": "2026-11-15T12:29+01:00",
-  "link": "https://www.google.com/goto?url=CAESoAEBxCJF16bouvOO_VwwUrH-C55D155hg5Cvw4bLI9RplzLiEf4Uv2ykzop-Li3oEblHB7AGquT38uEjJeE2DMJgfxr3YGvgH6kF_PE1Fnl3jfkDvuOYjZTCIxIPWMYDHuw4NaZU2F0WslPJ6yP1lpcpFUFCmFuRslF4tEGkkBR3SKXJjHFG1y7KMRJcpstd-DZx3N_VM8tzw9UXQ6h69_e9&gsessionid=O0wzAEhUwf1dloADzg9iUV68rldXop5BerYJ86p34555ij7_FHfM_Q",
-  "snippet": "Is this a cyberattack? Microsoft and DHS see no evidence after the Nov. 12 outage and the 4-hour FAA ground stop. What is confirmed and what is not."
- },
- {
-  "id": "a0bc0765d4",
-  "title": "World Triathlon confirms data breach",
-  "source": "Inside The Games",
-  "date": "3 hours ago",
-  "first": "2026-11-15T12:29+01:00",
-  "link": "https://www.google.com/goto?url=CAESiQEBxCJF1-3g7RrLmQPMLfQhPrqe1ajKbadH0xPdd9H8ZjvrS62jJEDvGkc31yWw0fIVdiGfpGYUcq0I27KXzrStzk0ceqkNkXzwkAlPKVzOGQGGNk1Ul1Q99sd1K-G9MRtHxJjHKy2-yofg1jYhURUDcyN7Apu3gk464SnjlEIZmPv16QpSN7qXUA&gsessionid=O0wzAEhUwf1dloADzg9iUV68rldXop5BerYJ86p34555ij7_FHfM_Q",
-  "snippet": "The governing body revealed a cyberattack last week exposed sensitive information belonging to athletes, coaches, officials and national federations,..."
- },
- {
-  "id": "a609d01cf1",
-  "title": "FAA doesn't believe cyberattack caused nationwide ground stop",
-  "source": "CBS News",
-  "date": "11 hours ago",
-  "first": "2026-11-15T12:29+01:00",
-  "link": "https://www.google.com/goto?url=CAESpQEBxCJF1zkUIIssw4JUzAgRegcQRKmP3OScWJuUVQCzwHpELSUa_VcMxrVkI_ncNUFyNrzRQYzQbpuiEIPnlgeqSDcrcmTZOL7yQ2nOk4eEsXtnFhygq0oa1fiXBy7GKBCa8CmGwquj3YhU-9CDJI5vf_fQeSNNrjG4vGgzQsRf87CCt2nlLnAqbvUITytq-DxavMhbpOtwLDS9gK7f5Evv-SXiuok&gsessionid=O0wzAEhUwf1dloADzg9iUV68rldXop5BerYJ86p34555ij7_FHfM_Q",
-  "snippet": "Many people across the country are still struggling to get to their destinations after Friday's nationwide ground stop."
  }
 ]
