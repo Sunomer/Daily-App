@@ -1,5 +1,95 @@
 [
  {
+  "id": "2942d0b7e3",
+  "title": "New government report sparks concern over potential cyberattack on US food supply",
+  "source": "ABC News - Breaking News, Latest News and Videos",
+  "date": "5 hours ago",
+  "first": "2026-11-20T23:21+01:00",
+  "link": "https://abcnews.com/GMA/Food/new-government-report-sparks-concern-potential-cyberattack-us/story?id=138316014",
+  "snippet": "The U.S. Government Accountability Office is warning that the nation's food sector is increasingly susceptible to cybersecurity threats."
+ },
+ {
+  "id": "3c453f7004",
+  "title": "Did Banks Get Hacked? Visa, Mastercard, Chase Confirm Vendor Cyberattack",
+  "source": "Forbes",
+  "date": "7 hours ago",
+  "first": "2026-11-20T23:21+01:00",
+  "link": "https://www.forbes.com/sites/maryroeloffs/2026/11/20/chase-visa-mastercard-customer-data-leaked-in-cyberattack/",
+  "snippet": "The announcement comes days after Chase Bank blamed a \"software bug\" for thousands of users being locked out of their accounts."
+ },
+ {
+  "id": "fc7d7a97a6",
+  "title": "Federal cybersecurity gaps leave US food supply vulnerable to ransomware and operational disruptions, GAO warns",
+  "source": "Industrial Cyber",
+  "date": "11 hours ago",
+  "first": "2026-11-20T23:21+01:00",
+  "link": "https://www.google.com/goto?url=CAES0AEBxCJF10Y-OBO_LN-GOUK0Kd--JyyPcB6WM2Oe4gKT6ehFo9AU5fi_stIUBJnBEpyA5Jg5rUHGmQ9YuBHRNyi3XVJsgeFDmDCSeVmxakXSFsQNa7XHINdyh394PleJQzgcg3nAgfpGt5MT00HwfpUd8mo3tM6Io2tF4GdliR4TKblLvi-jAuloPlssxhaSEEAT0LBtGsmntBI9migObzqyf_GzbCcsMSmDIsH-Q2OwGyGniE4bjInv-9bzZf-mR26pfvJjObNWD1uVyt-MKe0_&gsessionid=bZ5F0hTTf5XYcRatfG6LLxx8yCs3EgWCNoGNzvXrqa29r9NZ287GhA",
+  "snippet": "The U.S. Government Accountability Office (GAO) identified that federal efforts to strengthen cybersecurity across the food and agriculture sector remain..."
+ },
+ {
+  "id": "a3dd83791d",
+  "title": "Is Seattle prepared for a cyberattack?",
+  "source": "KUOW",
+  "date": "3 hours ago",
+  "first": "2026-11-20T23:21+01:00",
+  "link": "https://www.google.com/goto?url=CAESkwEBxCJF1xo4aflP4XpeIQZupMtP0fp5DUSnGmNQjW9iY-SUvL0ooU4cpcjYWu2NRefiI-FjcpPXl0iCtxseaCD7Q-yicK9gjmeGXByLCUroAhDDjK5uJqMlJBRg8l5DNlfgNi465YeDzxogIfaGgxioGiyMVxXoS9ycPpL1y4XoF8p3eeSK9V4U6DhFA49paTA0goQ&gsessionid=bZ5F0hTTf5XYcRatfG6LLxx8yCs3EgWCNoGNzvXrqa29r9NZ287GhA",
+  "snippet": "Shannon Smith, Seattle's top technology officer, says ICE and Homeland Security does not have access to data from the city's surveillance cameras."
+ },
+ {
+  "id": "5337e2fc6d",
+  "title": "Container Store restores systems after cyberattack",
+  "source": "The Record from Recorded Future News",
+  "date": "3 hours ago",
+  "first": "2026-11-20T23:21+01:00",
+  "link": "https://www.google.com/goto?url=CAESgQEBxCJF15AfJJVgpMGzxiIPEf5DOWzriyv4K5x7Ai_W4I_NU768_hEl0zEDGpCEJb6A5r1haMR3bJoF7YDqFFkNP1I8h1cGLUwJqKxEwvFRms69RL8PQLzwHnNFIJ7cSQ3XMKU7yahpShJfvcPbjcwZ7S_9SFSuPh16dMpDoQDsozU&gsessionid=bZ5F0hTTf5XYcRatfG6LLxx8yCs3EgWCNoGNzvXrqa29r9NZ287GhA",
+  "snippet": "The firm's parent company, Neighborhood Intelligence, said in a statement that The Container Store has “restored its website and systems following a..."
+ },
+ {
+  "id": "8655c498a4",
+  "title": "Carnegie Endowment hit by third-party cyberattack that exposed donor info",
+  "source": "Politico",
+  "date": "3 hours ago",
+  "first": "2026-11-20T23:21+01:00",
+  "link": "https://www.google.com/goto?url=CAESjQEBxCJF13a1oswpdKtkZ0eHemz_nhW9iYabHuuhtzB9mwYm2mVoeVs8yTSWicZj3vKa9USaTmjtx0Qo3EBouA9uddgfwYSyXdjBlDy2TpO-miIXTqKQzTjMBTKFGtxMc2JfcFGTp0Ch-nemsX49427k4GrCjAiCNyrBLT4YMBk93OCDeh75jlqApZkvhPU&gsessionid=bZ5F0hTTf5XYcRatfG6LLxx8yCs3EgWCNoGNzvXrqa29r9NZ287GhA",
+  "snippet": "The Carnegie Endowment for International Peace was affected by a third-party data breach that exposed information on some of the think tank's donors,..."
+ },
+ {
+  "id": "cec0f39567",
+  "title": "Is the U.S. Facing a Coordinated Cyberattack?",
+  "source": "The Dispatch",
+  "date": "16 hours ago",
+  "first": "2026-11-20T23:21+01:00",
+  "link": "https://www.google.com/goto?url=CAESfAHEIkXXM0IDqkAZMz6I0naD9WGJRwW-oFjnOUxvMxHbc6liEackQU2Omf9fm-u4xRB-W5xAyvQnzOtZ0WAV77l2p89kDTD1ZyJx7ifX5fwLCVmGacadiGsOivD83mc4dGy-fOAqOZO3YdzdOZMnwVs3wvbOiqHNDY8QlGw&gsessionid=bZ5F0hTTf5XYcRatfG6LLxx8yCs3EgWCNoGNzvXrqa29r9NZ287GhA",
+  "snippet": "It's been a bad week or so for IT, with headline-making outages at the Federal Aviation Administration, Microsoft, United Airlines, JPMorgan Chase, Apple,..."
+ },
+ {
+  "id": "e2f85ad002",
+  "title": "Healthcare Sector Disclosed 100 Ransomware Attacks in Q3",
+  "source": "The HIPAA Journal",
+  "date": "6 hours ago",
+  "first": "2026-11-20T23:21+01:00",
+  "link": "https://www.google.com/goto?url=CAESfwHEIkXXNRVbIUkxay_d7KXfPosssbIZOnyxaqqqrKHb4KdY4v6rNrCORbhXXKvyX-RapnHZbhC12Me4LgGg-49NectL4bP6RrIESPd09zVT2dJUoiOMOg7AoYeWz63dmzr9i1wD0miaSeeZQkGbarMI6DHc6DWW2mJrG4m4wSg&gsessionid=bZ5F0hTTf5XYcRatfG6LLxx8yCs3EgWCNoGNzvXrqa29r9NZ287GhA",
+  "snippet": "Ransomware groups are running riot, with 353 disclosed attacks in Q3 2026 and 2668 undisclosed attacks, an increase of 20% in disclosed attacks and an..."
+ },
+ {
+  "id": "35aa4e2422",
+  "title": "Equinor says cyberattack against company has been stopped",
+  "source": "Reuters",
+  "date": "14 hours ago",
+  "first": "2026-11-20T23:21+01:00",
+  "link": "https://www.google.com/goto?url=CAESqgEBxCJF1zVZEMRb-o0gUfOWIgzpnxSzsdKE1Ca6BrYnYtv-0qytbq04_VcPKGGd51yEQIcNDjvxu8pRD5ryVL4H9kJ19nfJGfJ8bZd-G8F58QaARnBBxpHNpByaBgbLzeKeKFuXq93DYim6166QoDpfNjriS0RhuEtLqqjUg7IHYu0neQChTyMyioJAYQJ7RbQTlqyIdCudCo-mNY5FVX42o2AqFzp4X_z5VA&gsessionid=bZ5F0hTTf5XYcRatfG6LLxx8yCs3EgWCNoGNzvXrqa29r9NZ287GhA",
+  "snippet": "Norwegian ​oil and gas group Equinor ‌said a cyberattack against the company had been stopped ​as of Friday, ​adding there had been no ⁠impact to production..."
+ },
+ {
+  "id": "90250de6f0",
+  "title": "Check Point Software: Ransomware Hits Record Victims in Q3",
+  "source": "Cyber Magazine",
+  "date": "7 hours ago",
+  "first": "2026-11-20T23:21+01:00",
+  "link": "https://www.google.com/goto?url=CAESlQEBxCJF1-Rs_KCSrFl9dkQz4S7wTdSQIe9vTVWSlXEBT_-mtv7drnLbucHcFczTPGq2mhbvxSkIF3_o4HRMyBlSPIL8M2oX0XNP7EjnYzzOWgma_40NV3qXdGcg-bKSTxRBJfiStndr2EJHaUXVUgkwxmxtUzKmpt4CMS59_QyFX7FLGX4_J9PoBqWgT64NWa-M72vZHA&gsessionid=bZ5F0hTTf5XYcRatfG6LLxx8yCs3EgWCNoGNzvXrqa29r9NZ287GhA",
+  "snippet": "As ransomware takes 2830 victims in Q3 2026, Sergey Shykevich, Director of Threat Intelligence at Check Point, says the way victims respond is changing."
+ },
+ {
   "id": "5eed5829a5",
   "title": "Intel 471 exposes ransomware groups, IABs targeting manufacturing and automotive supply chains",
   "source": "Industrial Cyber",
@@ -520,77 +610,5 @@
   "first": "2026-11-18T00:09+01:00",
   "link": "https://www.google.com/goto?url=CAESlgEBxCJF16ljvp3vdPI_arKYk0ExzmtmyX_ro-LkuxTQ_-i17zbzj9_XABU9f9WzEuBzYtt_B7SMvARiStVkJV45F6kBxEyYJoodXpN4NlkSDw9y35IUkGxCQAdbcP7JIjd7jnxspkPcJL720U0sFdsdEOWfKbqv93MIWJssVOsFIijBKzYjLDqg2PYdgOwiKlVFZKhetrY&gsessionid=HDwVBCOohL4rLmX8KigwrMJmWGR5T2zAahnskH7LDQ5NfIJu7NFScw",
   "snippet": "Key insight: The malicious code reached bank websites through Optimizely, a marketing vendor's testing tool, without the attacker breaking into the banks'..."
- },
- {
-  "id": "00667dc70f",
-  "title": "Cyberattack hits 178 major global brands, exposing visitors to data theft",
-  "source": "Anadolu Ajansı",
-  "date": "4 hours ago",
-  "first": "2026-11-17T13:27+01:00",
-  "link": "https://aa.com.tr/en/world/cyberattack-hits-178-major-global-brands-exposing-visitors-to-data-theft/4127456",
-  "snippet": "Malware delivered via third-party software targets users of Zoom, BBC, CNN, HSBC, and IKEA, according to Report URI / Anadolu."
- },
- {
-  "id": "3b04879a68",
-  "title": "Visa confirms security incident, JPMorgan knocked down",
-  "source": "Cybernews",
-  "date": "2 hours ago",
-  "first": "2026-11-17T13:27+01:00",
-  "link": "https://cybernews.com/security/visa-jpmorgan-data-breach/",
-  "snippet": "48-hour deadline from the n0n ransomware gang targets Visa and JPMorgan Chase, but both firms dispute key impacts. Read what evidence shows."
- },
- {
-  "id": "ed66a96f70",
-  "title": "The Hormuz Letter: A cyberattack hit 178 major companies...",
-  "source": "The Loadstar",
-  "date": "4 hours ago",
-  "first": "2026-11-17T13:27+01:00",
-  "link": "https://theloadstar.com/the-hormuz-letter-a-cyberattack-hit-178-major-companies/",
-  "snippet": "This site uses cookies and other tracking technologies to assist with navigation and your ability to provide feedback, analyse your use of our products and..."
- },
- {
-  "id": "4782391e8d",
-  "title": "Chase declines that their outage was caused by a cyberattack",
-  "source": "CBS News",
-  "date": "8 hours ago",
-  "first": "2026-11-17T13:27+01:00",
-  "link": "https://www.cbsnews.com/miami/video/chase-declines-that-their-outage-was-caused-by-a-cyberattack/",
-  "snippet": "The bank chain, among others, were affected and they say it is due to a \"technical issue.\""
- },
- {
-  "id": "e07de5269f",
-  "title": "Four major US outages in five days and none was a cyberattack",
-  "source": "Insurance Business",
-  "date": "11 hours ago",
-  "first": "2026-11-17T13:27+01:00",
-  "link": "https://www.insurancebusinessmag.com/us/news/breaking-news/four-major-us-outages-in-five-days-and-none-was-a-cyberattack-597586.aspx",
-  "snippet": "Chase, United Airlines, the FAA and Microsoft have all suffered major outages in five days, each attributed to technical failure rather than a cyberattack."
- },
- {
-  "id": "cf55dd8b5d",
-  "title": "Queens Libraries Still Contending With Ransomware Attack",
-  "source": "The New York Times",
-  "date": "2 hours ago",
-  "first": "2026-11-17T13:27+01:00",
-  "link": "https://www.nytimes.com/2026/11/17/nyregion/queens-libraries-ransomware-attack.html",
-  "snippet": "The Nov. 4 attack has left the library website and app down, and computers are down at most branches. The libraries are still functioning using old-school..."
- },
- {
-  "id": "193308a2dd",
-  "title": "Cyberattack Risk Grows for Mortgage Servicing Platforms",
-  "source": "HousingWire",
-  "date": "4 hours ago",
-  "first": "2026-11-17T13:27+01:00",
-  "link": "https://www.housingwire.com/articles/mortgage-servicing-cyber-risk/",
-  "snippet": "Mortgage servicers face rising cyber risk, calls grow for zero trust platforms, faster mitigation and AI-enabled defense for borrower data."
- },
- {
-  "id": "2ba2851522",
-  "title": "In a first, Google detects AI-automated cyberattack",
-  "source": "upi",
-  "date": "6 hours ago",
-  "first": "2026-11-17T13:27+01:00",
-  "link": "https://www.upi.com/Top_News/World-News/2026/11/17/Google-artificial-intelligence-cyberattack/6381794893989/",
-  "snippet": "Google's Threat Intelligence Group said Monday that it has, for the first time, detected fully artificial intelligence-automated cyberattacks."
  }
 ]
