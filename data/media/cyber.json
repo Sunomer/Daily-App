@@ -1,5 +1,95 @@
 [
  {
+  "id": "959bc62d87",
+  "title": "US ports face surge in cyberattack attempts, threatening vital trade routes: Report",
+  "source": "Anadolu Ajansı",
+  "date": "2 hours ago",
+  "first": "2026-11-22T22:16+01:00",
+  "link": "https://www.aa.com.tr/en/americas/us-ports-face-surge-in-cyberattack-attempts-threatening-vital-trade-routes-report/4133812",
+  "snippet": "Port of Los Angeles recorded 120 million attempted cyberattacks in August, while major US crude oil export hub faces thousands of daily threats,..."
+ },
+ {
+  "id": "ce93bb816e",
+  "title": "South Portland city buildings to reopen after cyberattack",
+  "source": "The Portland Press Herald",
+  "date": "1 hour ago",
+  "first": "2026-11-22T22:16+01:00",
+  "link": "https://www.google.com/goto?url=CAESngEBxCJF16txzdn99kPicNdNpAb4bnR1PtsI5SlaVBXcctSYnfP_z4oA7Zu9zEQ1Pa5SvPLTeNTrDWMxhZ0n8b3pOv97_mQhY8sdmET26L8Jt8k-yKgdao4w2LNpHPQ0DhUkbqWsyNo07aonh36v_3ZLV9NkFZyhRUv2Bmf-cv7QF0b8nH4NoDv0jOnGL3MKKtKoww0kv73xSdbPFkc6gQ&gsessionid=6ObqKr1oH-HAs9SuW8ecU0eRsF0-Ga4WV0MEoHhy0lLBu3juNdx-Zw",
+  "snippet": "An investigation remains active, and a few services still won't be available when offices reopen Monday."
+ },
+ {
+  "id": "9d6cbe1d0f",
+  "title": "What a Doomsday Cyberattack Could Look Like",
+  "source": "Newsweek",
+  "date": "8 hours ago",
+  "first": "2026-11-22T22:16+01:00",
+  "link": "https://www.google.com/goto?url=CAESlAEBxCJF1yNjlqmoiHq161MSArmqFo0_1u0BzIwGhFZHrjzUXtO0nJymo5QmRqqo_om8TE4fgCA4AZJ040Xek7DetaHT1EsgcEaLG-LPd8bTalphFznc4ZqYTOsd6IR74NGydulNgailEQqry0Zesakj-fiGd_Cnk4_vnynCwgs4Ihq6OcM9auR_gAacwiXQzJZfgclB&gsessionid=6ObqKr1oH-HAs9SuW8ecU0eRsF0-Ga4WV0MEoHhy0lLBu3juNdx-Zw",
+  "snippet": "Officials say recent incidents aren't connected, but they have raised questions about the fallout from a major attack."
+ },
+ {
+  "id": "e7ea312fa4",
+  "title": "Tower Records Becomes Latest Japan Retailer Hit by Data Breach",
+  "source": "Bloomberg.com",
+  "date": "11 hours ago",
+  "first": "2026-11-22T22:16+01:00",
+  "link": "https://www.google.com/goto?url=CAESrgEBxCJF16y2mS4Nkg_znqVadJtWhWwOzPOJEsvZG4UsryezcfCAADyLUmgQwK5u37ukg5HmXWydx2f74XJ_jiiZX0zh7ASTwJyRrdzDI6Z7Ne4AV_L7MskdGqaTF1CChsYgShuxUjbQ595_XT02fvu1PyxmMoeuVEwfPEsbVsJ7KW0K5k6M-JRrxxkq7Cuos8shcBlnZl2HnaFLLUvaOJoD8EhyXyjSq3SxQBFAgkY&gsessionid=6ObqKr1oH-HAs9SuW8ecU0eRsF0-Ga4WV0MEoHhy0lLBu3juNdx-Zw",
+  "snippet": "Music retailer Tower Records Japan Inc. said customer information was leaked following unauthorized access, making it the nation's latest retailer to..."
+ },
+ {
+  "id": "7847bd2f05",
+  "title": "Cleverbridge warns hackers stole credit card numbers, CVVs in data breach",
+  "source": "BleepingComputer",
+  "date": "6 hours ago",
+  "first": "2026-11-22T22:16+01:00",
+  "link": "https://www.google.com/goto?url=CAEStQEBxCJF13oXKa9KSgTEzUFAARey87biI1z-G7CnR725djZ-HUO138X3fkM0neVEjozLSk0usxnYAYmBsRy0-spiYuqz5MbvKro06wwymK3nih1tGXYflB8FR-_buYOrgSkqNproPiNlTcuOlJhe814HHe7hmpt3q49annJC2rg-VdI79mVZ8pnn1V6Avk0ITuyAjONJcFbs2Nha9w1jJTIsO-VRzjmIuWpWm-ijPH4osVgJkiLY&gsessionid=6ObqKr1oH-HAs9SuW8ecU0eRsF0-Ga4WV0MEoHhy0lLBu3juNdx-Zw",
+  "snippet": "E-commerce platform Cleverbridge is warning that hackers breached its systems and stole customers' payment card information, including credit card numbers..."
+ },
+ {
+  "id": "47257fcc78",
+  "title": "Morning Digest: Northeast Ohio library systems hit by data breach",
+  "source": "News 5 Cleveland WEWS",
+  "date": "6 hours ago",
+  "first": "2026-11-22T22:16+01:00",
+  "link": "https://www.google.com/goto?url=CAESsAEBxCJF14GrXmuOHHPhyAGaosaf4ayPbJPXqI4GeYqslTiWpvP2_PkfPxmdYFFSGBxz1mpMlXMyfjBKN0CGxEvlt2uH9O9FnB-3b1PvKM5BIbQH7uWZwBXf2Kyby8jJra1hO2Fe1jMq7aJ3CobtqQZWquyV3oR1bAjDsoeIJ6hGCIYBXuMFHYvIrz0B1PJ6rGioW0Woyacn4MwUR7IbvUl_t2dlRV07HlrCvUrhfqjCpQ&gsessionid=6ObqKr1oH-HAs9SuW8ecU0eRsF0-Ga4WV0MEoHhy0lLBu3juNdx-Zw",
+  "snippet": "Good Morning, Cleveland! It's Thursday, November 19th, and here is what you need to know. Northeast Ohio library systems hit by data breach exposing patron..."
+ },
+ {
+  "id": "b2e54113cd",
+  "title": "Is the US under cyberattack?",
+  "source": "DW.com",
+  "date": "10 hours ago",
+  "first": "2026-11-22T22:16+01:00",
+  "link": "https://www.google.com/goto?url=CAESmgEBxCJF19LdYaS3I2_4B2-0Nn04UvFqWF-RSfX6vtEf6DhyQU8fki6eAPgXGZYiosyHIX7JHXkSpp7tEzT1MaiXkJdH55QHvX8iyxT8_iGsYQOH51SCsf14ziOKlXtMYu9syrTVvPGJTXzH2EJ2oR1u6AS2wO2_hBUaoV1vEwiyEjo7_2XJF-XSeByZJipYP-5Gulx_EHGggMwR&gsessionid=6ObqKr1oH-HAs9SuW8ecU0eRsF0-Ga4WV0MEoHhy0lLBu3juNdx-Zw",
+  "snippet": "The FBI is investigating a suspected breach of its NCIC crime database, adding to concerns over US digital infrastructure after recent disruptions in..."
+ },
+ {
+  "id": "ff30d284f7",
+  "title": "Trump blames Minnesota governor, not Iran, for cyberattacks on the state's water systems",
+  "source": "ABC News - Breaking News, Latest News and Videos",
+  "date": "11 hours ago",
+  "first": "2026-11-22T22:16+01:00",
+  "link": "https://www.google.com/goto?url=CAESqwEBxCJF186dbOmPPd-j9M4VOmK7Bq4LdStZg3nYhuinicbqz6gKrn1TvTG32Vu-RjyprUOpsIcWjDW-qLTiuHghUqc8cY0FXMAWgWvkHMlZxjc01cXuiSV8bsk6X0HuCy3MGX21we32QJcUaO1EMGG5jQIE2cCIHS1VK2xnT66SW80Tqf7_6hFpGZlGY6XXQ2S5RV3_uHcowONGy3FkYMUM3s9A5Afk309G82o&gsessionid=6ObqKr1oH-HAs9SuW8ecU0eRsF0-Ga4WV0MEoHhy0lLBu3juNdx-Zw",
+  "snippet": "Georgia and Michigan are reporting similar cyberattacks, according to sources. 1:39. Pres. Trump blames Minnesota for cyberattack on water systemAs federal..."
+ },
+ {
+  "id": "ed03d06d57",
+  "title": "Legislative cyberattack funding, eliminating personal income tax; city wide ban on glue traps",
+  "source": "KRQE",
+  "date": "8 hours ago",
+  "first": "2026-11-22T22:16+01:00",
+  "link": "https://www.google.com/goto?url=CAES0AEBxCJF1xgMpKah5Kcy-0C8rW-leRqz4JDr5EVsbnvVKYgvxlrJZO097oVnuqgE_DhSkfqaQRpE7dhAqPUZq3fjYESz1mXZdi8FGvm0P2_2Q5ud0uE8jHRWqQLN1bM8STgiuZ1lRYp-T5UhbH333kA2p_klMQfKDzO_VNtfeKa73S6kdBaeswyYNnq66zs0cvFUxP9IQGnX_cXshk8KjXip4srSLzvUcKYBe5YRCH8INDd2hGqTfsUGm2LeeIe-HNc1N_PQGqjUfmASPP-fGCfS&gsessionid=6ObqKr1oH-HAs9SuW8ecU0eRsF0-Ga4WV0MEoHhy0lLBu3juNdx-Zw",
+  "snippet": "From City Hall to the Roundhouse to Washington, KRQE political reporter Jessica Barron has a finger on the pulse of the biggest issues impacting our state."
+ },
+ {
+  "id": "a1d02fac4c",
+  "title": "East-West Center’s participant database target of cyberattack",
+  "source": "Honolulu Star-Advertiser",
+  "date": "11 hours ago",
+  "first": "2026-11-22T22:16+01:00",
+  "link": "https://www.google.com/goto?url=CAESsAEBxCJF1-99eof5DQVv52AQQgY_vVQOGsFULSIMQeoK4-1G2s1pFH51i46rklfLDFWaMjdFNmN1ghZ7Yf1YsFToQJJx44Hdpc8QrP6TKdO1eyp4XUHLm4gy0Kgz7eoiQy8s2x5jE6prPROtyiLCeC2bWDPiFTCQwgmn5VcFcCGoIQZ1clSxfqkqXYaf9lW9ILYq8OssaQTof6OHSVor6ODkp7oBfS0eYedaXfypaQXC_w&gsessionid=6ObqKr1oH-HAs9SuW8ecU0eRsF0-Ga4WV0MEoHhy0lLBu3juNdx-Zw",
+  "snippet": "The East-West Center in Manoa has been hit by a cyberattack targeting anyone who ever registered with the center, prompting officials to pay for..."
+ },
+ {
   "id": "efa5bca23a",
   "title": "Tower Records Becomes Latest Japan Retailer Hit by Data Breach",
   "source": "Bloomberg.com",
@@ -520,86 +610,5 @@
   "first": "2026-11-19T23:46+01:00",
   "link": "https://www.google.com/goto?url=CAESoAEBxCJF1wM8axYdBo0fXi0q8vUbkVsQ334Q0qE6fNaheKQproUPF_YiBFhusHEFcsiLgKjZILSChBfNjnbkqQX0m6nuubEWOHSamS3zFJemUPZqikF0TrspqPCnp40SN6jLIZU-OePb1emAIy1xuXLSXkwLAfkHulUiNZvLtQDeAJ6s5NaeZC8aLQIOUqxio70bChITSK8yVbTHYBdPhKJA&gsessionid=1OzQC5Z2faF32jkYrknJmhDVWz-aLqMOfmCU5jn8j7bTTqUlsh0_SA",
   "snippet": "November 2026This policy fosters compliance with national laws, regulations, and recommendations, including the Desirable Characteristics of Data..."
- },
- {
-  "id": "7b2c191d75",
-  "title": "CISA Warns of 4 Exploited Flaws Linked to Ransomware, Cryptomining, and LLMjacking Attacks",
-  "source": "The Hacker News",
-  "date": "4 hours ago",
-  "first": "2026-11-19T13:08+01:00",
-  "link": "https://thehackernews.com/2026/11/cisa-warns-of-4-exploited-flaws-linked.html",
-  "snippet": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added four vulnerabilities impacting Synology DiskStation Manager (DSM),..."
- },
- {
-  "id": "14739a4b7b",
-  "title": "EU Commission hit by large-scale cyberattack with data leakage unknown",
-  "source": "Euronews.com",
-  "date": "2 hours ago",
-  "first": "2026-11-19T13:08+01:00",
-  "link": "https://www.euronews.com/2026/11/19/eu-commission-hit-by-large-scale-cyberattack-with-data-leakage-unknown",
-  "snippet": "The European Commission's internal HR systems have been targeted by a malicious cyberattack, with EU cyber experts still assessing whether sensitive..."
- },
- {
-  "id": "7b2125c581",
-  "title": "Reported cyberattack on European Commission, exposing substantial amounts of personal data",
-  "source": "Digital Watch Observatory",
-  "date": "2 hours ago",
-  "first": "2026-11-19T13:08+01:00",
-  "link": "https://www.google.com/goto?url=CAEShAEBxCJF1wxoXxIIVs58EaZqUjiuIdHGr_8Rz_9jSo4vLx2sp8zV_I_vUG22cjFD6Lp-BhRJGGG8-BmiIQDyuyAlmc1-lfd35Y_8La8Ix6URuXAT0TLnG4eQLezWfO00yx_OWm_U7EotxcC_x214FY7X2qFXllOZoIBGA447uGshKCqYvfM&gsessionid=gzw6GhaLLPbS8jrCIqs7l8Xk5xOzryVqLvKRSSRHgZRClJvx3nY2GA",
-  "snippet": "According to POLITICO, the European Commission was hit by a cyberattack that may have exposed substantial amounts of personal data on 19 November."
- },
- {
-  "id": "d2fedd3328",
-  "title": "NVIDIA investigating Gentlemen ransomware breach claims",
-  "source": "BleepingComputer",
-  "date": "3 hours ago",
-  "first": "2026-11-19T13:08+01:00",
-  "link": "https://www.google.com/goto?url=CAESpAEBxCJF1ytvwo7gAn0-wUOxYE67GECA5Ywqhw0v_k-EdHkJaVon7gZkKHq5aLhQdULHbTwewCPjCNPj7p8XQ472YdCtP2-jTqZntrHOlGtWnuXEeRr5sH4LonZZXOqQVfcSy7t_Y34vKUp2eWf0ev8TduGSPnBFD4-qLFiCs-k_MelaScJMNY22N1idjEAvXAtzK-IHv__C6gDfgGGbAzDjh7rEhA&gsessionid=gzw6GhaLLPbS8jrCIqs7l8Xk5xOzryVqLvKRSSRHgZRClJvx3nY2GA",
-  "snippet": "NVIDIA is investigating claims of a security breach after the Gentlemen ransomware group has added the company to its dark web data leak site."
- },
- {
-  "id": "3b526890a3",
-  "title": "Energy giant Equinor investigates cyberattack impacting IT systems",
-  "source": "Cybersecurity Dive",
-  "date": "20 hours ago",
-  "first": "2026-11-19T13:08+01:00",
-  "link": "https://www.google.com/goto?url=CAESkwEBxCJF1ybYmr_58_JMP50H3l5Tt7e-0L1CkxsOQJVvuJbk6g6pTIKVGvOPLkrNlKxQxH7ZZc0mel8vhulsjlt36km3lBo2ZGSB5dHwxACVs8uQ7EaI2iqwy2baTQBUrAdxB4Z9jjnRRNc3-RMwDvb7bLpn6VCkjaKROmWxi1gHEQiA8oUbuY4GFD9IoEFquY5sJFY&gsessionid=gzw6GhaLLPbS8jrCIqs7l8Xk5xOzryVqLvKRSSRHgZRClJvx3nY2GA",
-  "snippet": "The Norway-based oil and gas giant said production capabilities were not disrupted, but it has no immediate timetable for full recovery."
- },
- {
-  "id": "6d39b4147d",
-  "title": "Ukraine arrests key members of ransomware gang that posed as IT support to extort $40.5 million",
-  "source": "Help Net Security",
-  "date": "2 hours ago",
-  "first": "2026-11-19T13:08+01:00",
-  "link": "https://www.google.com/goto?url=CAESngEBxCJF18O-paEmenZ27hSWG7c7rZm3QgdqggkVBhApxhcNtmK8s-kIUMXglueEhiFK-X8xHAtJBcYpMT8325Sc_lWI7OGZbiU344Y-yDrOkvTtpALEmMpWDLdN6tgyjK0-giCypdsXdx0MhfzqQo6XJE-gQkn8nUOTtnfXZlO2ZGNdBwKiIvR7pwosbGKbflXJuhPfsA93vTDb7WKeyw&gsessionid=gzw6GhaLLPbS8jrCIqs7l8Xk5xOzryVqLvKRSSRHgZRClJvx3nY2GA",
-  "snippet": "Police in Ukraine and the FBI make four arrests after a ransomware gang posing as IT support extorted $40.5M from at least 28 companies."
- },
- {
-  "id": "b7d870c3d9",
-  "title": "Cyberattack Disrupts European Commission Systems and Staff Services",
-  "source": "Hungarian Conservative",
-  "date": "57 minutes ago",
-  "first": "2026-11-19T13:08+01:00",
-  "link": "https://www.google.com/goto?url=CAESpwEBxCJF19LboYhgGqt3IDpyo33kVmEkZe3pn6_-IDctd_0DSqNjTfv_cJzUz3YRbw-e1kz3xHOzVDHJAIOGapp6PDBLvwQAeSr2yFVRFvLBFFb6h7YUGqL3tGoaJbGvIDm8U4gr7obcxYeOVaeBOLuWX90rUNrUxH0-ewOE0Maakzx2-RpDCtmPEAjTyPnzJTKCnCfc5eeM2TpHtDx5AJrTyEXcVKx0YQ&gsessionid=gzw6GhaLLPbS8jrCIqs7l8Xk5xOzryVqLvKRSSRHgZRClJvx3nY2GA",
-  "snippet": "The European Commission has been hit by a cyberattack that may have compromised personal data and disrupted several internal services, including payroll,..."
- },
- {
-  "id": "48b42ec745",
-  "title": "Cyberattack shuts down European Commission’s HR systems",
-  "source": "Techzine Global",
-  "date": "36 minutes ago",
-  "first": "2026-11-19T13:08+01:00",
-  "link": "https://www.google.com/goto?url=CAESoQEBxCJF1-VcAMYwKoQBTtNimZ1bZwuBQaabYBvP56RxtHdnljc77ElsJf3yViKr6ulP4UDThxQPVqAi3rwdAvPR_-ZFDGa22jkZ8xBressUstWAdWzl5-OT2-z6ZOR8llITbw6Lo1je9H09bJEY4h4tH_lwajwy6PJYCbDRWtKGuxj-1ra9s6t09iXAvOMBvKHf9RgqycxAKaMH3ZYtKgDD7Q&gsessionid=gzw6GhaLLPbS8jrCIqs7l8Xk5xOzryVqLvKRSSRHgZRClJvx3nY2GA",
-  "snippet": "Hackers attacked the European Commission using the AI tool ARTEX. HR systems were shut down, and personal data may have been exposed."
- },
- {
-  "id": "5155d012de",
-  "title": "County officials canvass election, investigate data breach",
-  "source": "Colorado County Citizen",
-  "date": "9 minutes ago",
-  "first": "2026-11-19T13:08+01:00",
-  "link": "https://www.google.com/goto?url=CAESqQEBxCJF14zp3gFPCD3xHVMZfhQH-Ur93WyTNIuuYe8lZqGryZ4KwIAIYA8Rm_IbWdo0foV4GJA9MhSxNTrkMv2zyD5VUZh5KsMK2aZXAav-IrMINT-PB6pOjiykzuZMyDlh7Asg62FwEZ_YgzqXFUTA7UFFAUTIul7Tc9eHHZn0KGu7m79wBV3x2ci92zmVXd4cw-FweGm_Qu-lQrqS_h49PjbRCcrdsNKZ&gsessionid=gzw6GhaLLPbS8jrCIqs7l8Xk5xOzryVqLvKRSSRHgZRClJvx3nY2GA",
-  "snippet": "COLORADO COUNTY — Colorado County Judge Ty Prause provided more insight into last month's data breach that has spurred a criminal investigation."
  }
 ]
