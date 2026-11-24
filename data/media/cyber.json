@@ -1,5 +1,95 @@
 [
  {
+  "id": "930d0c8e5a",
+  "title": "Suspected cyberattack targets City of El Cajon",
+  "source": "NBC 7 San Diego",
+  "date": "2 hours ago",
+  "first": "2026-11-24T03:35+01:00",
+  "link": "https://www.nbcsandiego.com/news/local/suspected-cyberattack-targets-city-el-cajon/4105754/",
+  "snippet": "A cache of city data has seemingly appeared on a ransomware leak site, as the city confirms a \"network security incident.\"..."
+ },
+ {
+  "id": "59335fcda7",
+  "title": "Cyberattack attempt at Algonquin, Illinois Dam raises concerns about infrastructure security",
+  "source": "ABC7 Chicago",
+  "date": "2 hours ago",
+  "first": "2026-11-24T03:35+01:00",
+  "link": "https://abc7chicago.com/post/cyberattack-attempt-algonquin-illinois-dam-raises-concerns-infrastructure-security/20072013/",
+  "snippet": "ALGONQUIN, Ill. (WLS) -- A cyberattack attempt targeting the Algonquin Dam along the Fox River has raised questions about the security of critical..."
+ },
+ {
+  "id": "5e9db5537b",
+  "title": "Behind the Alias: How One Researcher Unmasked a Decade of Ransomware Actors",
+  "source": "Dark Reading",
+  "date": "5 hours ago",
+  "first": "2026-11-24T03:35+01:00",
+  "link": "https://www.darkreading.com/cybersecurity-operations/alias-researcher-unmasked-ransomware-actors",
+  "snippet": "Ransomware isn't slowing down. A new framework gives security teams the edge to trace attackers back to their source."
+ },
+ {
+  "id": "4785ee3ea0",
+  "title": "Google says the first autonomous AI cyberattack has happened. Expect a lot more like it.",
+  "source": "Mashable",
+  "date": "2 hours ago",
+  "first": "2026-11-24T03:35+01:00",
+  "link": "https://mashable.com/tech/google-says-first-autonomous-ai-cyberattack-has-happened",
+  "snippet": "Google Threat Intelligence has uncovered a fully autonomous AI cyberattack and detailed exactly how it went down."
+ },
+ {
+  "id": "4ca5a6cc42",
+  "title": "FBI reportedly facing second data breach involving National Crime Information Center",
+  "source": "The Record from Recorded Future News",
+  "date": "8 hours ago",
+  "first": "2026-11-24T03:35+01:00",
+  "link": "https://therecord.media/fbi-cyberattack-data-breach",
+  "snippet": "The FBI is reportedly investigating a data breach involving the National Crime Information Center, a database used by U.S. law enforcement agencies that..."
+ },
+ {
+  "id": "5a5c205cc4",
+  "title": "Reports: USDA hit with cyberattack, GAO report cites security concerns",
+  "source": "Michigan Farm News",
+  "date": "7 hours ago",
+  "first": "2026-11-24T03:35+01:00",
+  "link": "https://www.michiganfarmnews.com/about/news-media/reports-usda-hit-cyberattack-gao-report-cites-security-concerns",
+  "snippet": "Several USDA systems were subject to a cybersecurity incident last week according to multiple media reports that cite sources within the department."
+ },
+ {
+  "id": "e632805ccb",
+  "title": "GoFundMe says donor information was exposed in data breach",
+  "source": "10TV",
+  "date": "5 hours ago",
+  "first": "2026-11-24T03:35+01:00",
+  "link": "https://www.10tv.com/article/news/nation-world/gofundme-data-breach-donor-data-nonprofits/507-6efe578f-8a12-49f8-88d3-90bcc948b1b1",
+  "snippet": "WASHINGTON — GoFundMe is investigating a security incident in which it says information from some nonprofits may have been compromised."
+ },
+ {
+  "id": "b9bad7a237",
+  "title": "Luxury dealer sues At-Bay over $4M ransomware coverage gap",
+  "source": "Insurance Business",
+  "date": "5 hours ago",
+  "first": "2026-11-24T03:35+01:00",
+  "link": "https://www.insurancebusinessmag.com/us/news/risk-compliance-legal/luxury-dealer-sues-atbay-over-4m-ransomware-coverage-gap-598450.aspx",
+  "snippet": "Warren Henry Automobiles sues cyber insurer At-Bay, alleging it misclassified JLR ransomware losses to cap the payout at $1M instead of $5M."
+ },
+ {
+  "id": "35bfdeac3b",
+  "title": "South Korea probes data breach affecting 1.52 million at KEPCO",
+  "source": "upi",
+  "date": "1 hour ago",
+  "first": "2026-11-24T03:35+01:00",
+  "link": "https://www.upi.com/Top_News/World-News/2026/11/23/kepco-data-breach-cybersecurity/9451795481298/",
+  "snippet": "South Korea's privacy regulator is investigating a KEPCO data breach involving about 1.52 million users, including sensitive identity details."
+ },
+ {
+  "id": "80da5e9c14",
+  "title": "Cyberattack Targets Apple Phones, Crypto of Visitors to Major Websites",
+  "source": "Cybercrime Magazine",
+  "date": "13 hours ago",
+  "first": "2026-11-24T03:35+01:00",
+  "link": "https://cybersecurityventures.com/cyberattack-targets-apple-phones-crypto-of-visitors-to-major-websites/",
+  "snippet": "This week in cybersecurity from the editors at Cybercrime Magazine."
+ },
+ {
   "id": "2e92de5c4e",
   "title": "Here's Why Data Breach Disclosure is so Hard: Lessons from Hundreds of Emails with Hacked Companies",
   "source": "Troy Hunt",
@@ -439,95 +529,5 @@
   "first": "2026-11-21T12:46+01:00",
   "link": "https://www.google.com/goto?url=CAESzwEBxCJF1yo7ZzXlb4TtSP5o3Y0BOk6C7poEKUOVav0Sh69iO1pUWdrSWVs0lFTvT71KvGWcAS8DeUaqQ8u0jW1Hjsa2ElSIjc8SKw3fk48HzKw4ea5ykMiBGI1HZ6f-NNBAcyy4RVE3gXaH95XJlgGSoRz0iws7E-cC4SD_BDVMdmt_adcVCUi-6dv8ddPlZf8FJjAJw14cmzGAX_j5EKaIOsEVDhRJMmZrvnUwqW8J3y1kwzafHj8lVSpaspTwkQpBgTxyx32yLOHN51Rl__I&gsessionid=28jWr-j0LmuFOV4lsqvx68xcgAGRZGkAL86aLxy4FRGrCMsrhjJ1Eg",
   "snippet": "FORT SMITH, Ark. — Three months after discovering a large-scale cyberattack, the City of Fort Smith says it still doesn't know whose personal information..."
- },
- {
-  "id": "2942d0b7e3",
-  "title": "New government report sparks concern over potential cyberattack on US food supply",
-  "source": "ABC News - Breaking News, Latest News and Videos",
-  "date": "5 hours ago",
-  "first": "2026-11-20T23:21+01:00",
-  "link": "https://abcnews.com/GMA/Food/new-government-report-sparks-concern-potential-cyberattack-us/story?id=138316014",
-  "snippet": "The U.S. Government Accountability Office is warning that the nation's food sector is increasingly susceptible to cybersecurity threats."
- },
- {
-  "id": "3c453f7004",
-  "title": "Did Banks Get Hacked? Visa, Mastercard, Chase Confirm Vendor Cyberattack",
-  "source": "Forbes",
-  "date": "7 hours ago",
-  "first": "2026-11-20T23:21+01:00",
-  "link": "https://www.forbes.com/sites/maryroeloffs/2026/11/20/chase-visa-mastercard-customer-data-leaked-in-cyberattack/",
-  "snippet": "The announcement comes days after Chase Bank blamed a \"software bug\" for thousands of users being locked out of their accounts."
- },
- {
-  "id": "fc7d7a97a6",
-  "title": "Federal cybersecurity gaps leave US food supply vulnerable to ransomware and operational disruptions, GAO warns",
-  "source": "Industrial Cyber",
-  "date": "11 hours ago",
-  "first": "2026-11-20T23:21+01:00",
-  "link": "https://www.google.com/goto?url=CAES0AEBxCJF10Y-OBO_LN-GOUK0Kd--JyyPcB6WM2Oe4gKT6ehFo9AU5fi_stIUBJnBEpyA5Jg5rUHGmQ9YuBHRNyi3XVJsgeFDmDCSeVmxakXSFsQNa7XHINdyh394PleJQzgcg3nAgfpGt5MT00HwfpUd8mo3tM6Io2tF4GdliR4TKblLvi-jAuloPlssxhaSEEAT0LBtGsmntBI9migObzqyf_GzbCcsMSmDIsH-Q2OwGyGniE4bjInv-9bzZf-mR26pfvJjObNWD1uVyt-MKe0_&gsessionid=bZ5F0hTTf5XYcRatfG6LLxx8yCs3EgWCNoGNzvXrqa29r9NZ287GhA",
-  "snippet": "The U.S. Government Accountability Office (GAO) identified that federal efforts to strengthen cybersecurity across the food and agriculture sector remain..."
- },
- {
-  "id": "a3dd83791d",
-  "title": "Is Seattle prepared for a cyberattack?",
-  "source": "KUOW",
-  "date": "3 hours ago",
-  "first": "2026-11-20T23:21+01:00",
-  "link": "https://www.google.com/goto?url=CAESkwEBxCJF1xo4aflP4XpeIQZupMtP0fp5DUSnGmNQjW9iY-SUvL0ooU4cpcjYWu2NRefiI-FjcpPXl0iCtxseaCD7Q-yicK9gjmeGXByLCUroAhDDjK5uJqMlJBRg8l5DNlfgNi465YeDzxogIfaGgxioGiyMVxXoS9ycPpL1y4XoF8p3eeSK9V4U6DhFA49paTA0goQ&gsessionid=bZ5F0hTTf5XYcRatfG6LLxx8yCs3EgWCNoGNzvXrqa29r9NZ287GhA",
-  "snippet": "Shannon Smith, Seattle's top technology officer, says ICE and Homeland Security does not have access to data from the city's surveillance cameras."
- },
- {
-  "id": "5337e2fc6d",
-  "title": "Container Store restores systems after cyberattack",
-  "source": "The Record from Recorded Future News",
-  "date": "3 hours ago",
-  "first": "2026-11-20T23:21+01:00",
-  "link": "https://www.google.com/goto?url=CAESgQEBxCJF15AfJJVgpMGzxiIPEf5DOWzriyv4K5x7Ai_W4I_NU768_hEl0zEDGpCEJb6A5r1haMR3bJoF7YDqFFkNP1I8h1cGLUwJqKxEwvFRms69RL8PQLzwHnNFIJ7cSQ3XMKU7yahpShJfvcPbjcwZ7S_9SFSuPh16dMpDoQDsozU&gsessionid=bZ5F0hTTf5XYcRatfG6LLxx8yCs3EgWCNoGNzvXrqa29r9NZ287GhA",
-  "snippet": "The firm's parent company, Neighborhood Intelligence, said in a statement that The Container Store has “restored its website and systems following a..."
- },
- {
-  "id": "8655c498a4",
-  "title": "Carnegie Endowment hit by third-party cyberattack that exposed donor info",
-  "source": "Politico",
-  "date": "3 hours ago",
-  "first": "2026-11-20T23:21+01:00",
-  "link": "https://www.google.com/goto?url=CAESjQEBxCJF13a1oswpdKtkZ0eHemz_nhW9iYabHuuhtzB9mwYm2mVoeVs8yTSWicZj3vKa9USaTmjtx0Qo3EBouA9uddgfwYSyXdjBlDy2TpO-miIXTqKQzTjMBTKFGtxMc2JfcFGTp0Ch-nemsX49427k4GrCjAiCNyrBLT4YMBk93OCDeh75jlqApZkvhPU&gsessionid=bZ5F0hTTf5XYcRatfG6LLxx8yCs3EgWCNoGNzvXrqa29r9NZ287GhA",
-  "snippet": "The Carnegie Endowment for International Peace was affected by a third-party data breach that exposed information on some of the think tank's donors,..."
- },
- {
-  "id": "cec0f39567",
-  "title": "Is the U.S. Facing a Coordinated Cyberattack?",
-  "source": "The Dispatch",
-  "date": "16 hours ago",
-  "first": "2026-11-20T23:21+01:00",
-  "link": "https://www.google.com/goto?url=CAESfAHEIkXXM0IDqkAZMz6I0naD9WGJRwW-oFjnOUxvMxHbc6liEackQU2Omf9fm-u4xRB-W5xAyvQnzOtZ0WAV77l2p89kDTD1ZyJx7ifX5fwLCVmGacadiGsOivD83mc4dGy-fOAqOZO3YdzdOZMnwVs3wvbOiqHNDY8QlGw&gsessionid=bZ5F0hTTf5XYcRatfG6LLxx8yCs3EgWCNoGNzvXrqa29r9NZ287GhA",
-  "snippet": "It's been a bad week or so for IT, with headline-making outages at the Federal Aviation Administration, Microsoft, United Airlines, JPMorgan Chase, Apple,..."
- },
- {
-  "id": "e2f85ad002",
-  "title": "Healthcare Sector Disclosed 100 Ransomware Attacks in Q3",
-  "source": "The HIPAA Journal",
-  "date": "6 hours ago",
-  "first": "2026-11-20T23:21+01:00",
-  "link": "https://www.google.com/goto?url=CAESfwHEIkXXNRVbIUkxay_d7KXfPosssbIZOnyxaqqqrKHb4KdY4v6rNrCORbhXXKvyX-RapnHZbhC12Me4LgGg-49NectL4bP6RrIESPd09zVT2dJUoiOMOg7AoYeWz63dmzr9i1wD0miaSeeZQkGbarMI6DHc6DWW2mJrG4m4wSg&gsessionid=bZ5F0hTTf5XYcRatfG6LLxx8yCs3EgWCNoGNzvXrqa29r9NZ287GhA",
-  "snippet": "Ransomware groups are running riot, with 353 disclosed attacks in Q3 2026 and 2668 undisclosed attacks, an increase of 20% in disclosed attacks and an..."
- },
- {
-  "id": "35aa4e2422",
-  "title": "Equinor says cyberattack against company has been stopped",
-  "source": "Reuters",
-  "date": "14 hours ago",
-  "first": "2026-11-20T23:21+01:00",
-  "link": "https://www.google.com/goto?url=CAESqgEBxCJF1zVZEMRb-o0gUfOWIgzpnxSzsdKE1Ca6BrYnYtv-0qytbq04_VcPKGGd51yEQIcNDjvxu8pRD5ryVL4H9kJ19nfJGfJ8bZd-G8F58QaARnBBxpHNpByaBgbLzeKeKFuXq93DYim6166QoDpfNjriS0RhuEtLqqjUg7IHYu0neQChTyMyioJAYQJ7RbQTlqyIdCudCo-mNY5FVX42o2AqFzp4X_z5VA&gsessionid=bZ5F0hTTf5XYcRatfG6LLxx8yCs3EgWCNoGNzvXrqa29r9NZ287GhA",
-  "snippet": "Norwegian ​oil and gas group Equinor ‌said a cyberattack against the company had been stopped ​as of Friday, ​adding there had been no ⁠impact to production..."
- },
- {
-  "id": "90250de6f0",
-  "title": "Check Point Software: Ransomware Hits Record Victims in Q3",
-  "source": "Cyber Magazine",
-  "date": "7 hours ago",
-  "first": "2026-11-20T23:21+01:00",
-  "link": "https://www.google.com/goto?url=CAESlQEBxCJF1-Rs_KCSrFl9dkQz4S7wTdSQIe9vTVWSlXEBT_-mtv7drnLbucHcFczTPGq2mhbvxSkIF3_o4HRMyBlSPIL8M2oX0XNP7EjnYzzOWgma_40NV3qXdGcg-bKSTxRBJfiStndr2EJHaUXVUgkwxmxtUzKmpt4CMS59_QyFX7FLGX4_J9PoBqWgT64NWa-M72vZHA&gsessionid=bZ5F0hTTf5XYcRatfG6LLxx8yCs3EgWCNoGNzvXrqa29r9NZ287GhA",
-  "snippet": "As ransomware takes 2830 victims in Q3 2026, Sergey Shykevich, Director of Threat Intelligence at Check Point, says the way victims respond is changing."
  }
 ]
