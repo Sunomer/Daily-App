@@ -1,5 +1,59 @@
 [
  {
+  "id": "c545a52890",
+  "title": "FIFA confirms personal, business data stolen in cyberattack",
+  "source": "Field Level Media",
+  "date": "1 hour ago",
+  "first": "2026-11-27T00:59+01:00",
+  "link": "https://fieldlevelmedia.com/news/fifa-confirms-personal-business-data-stolen-in-cyberattack/",
+  "snippet": "FIFA was the victim of a cyberattack that resulted in personal and business data being stolen. A group called the Handsome Boy Hacking Club (HBHC) claims it..."
+ },
+ {
+  "id": "83bac09adc",
+  "title": "FIFA confirms cyberattack that accessed personal and ​business information",
+  "source": "Mashable",
+  "date": "4 hours ago",
+  "first": "2026-11-27T00:59+01:00",
+  "link": "https://mashable.com/tech/fifa-cyberattack-confirmed",
+  "snippet": "FIFA has experienced a criminal cyberattack, the football association confirmed to Reuters."
+ },
+ {
+  "id": "32d7e2a9b7",
+  "title": "USDA cyberattack leaves farmers with questions ahead of aid enrollment deadlines",
+  "source": "KATV",
+  "date": "2 hours ago",
+  "first": "2026-11-27T00:59+01:00",
+  "link": "https://katv.com/news/local/usda-cyberattack-leaves-farmers-with-questions-ahead-of-aid-enrollment-deadlines",
+  "snippet": "LITTLE ROCK (KATV) — Last Monday, the U.S. Department of Agriculture was hit with a cyberattack that caused outages or disruptions for department..."
+ },
+ {
+  "id": "7c2954f504",
+  "title": "FIFA says ‘limited set of personal and business information’ stolen in cyber attack",
+  "source": "The Hill",
+  "date": "6 hours ago",
+  "first": "2026-11-27T00:59+01:00",
+  "link": "https://thehill.com/policy/technology/6244786-fifa-cyberattack-personal-data/",
+  "snippet": "FIFA, the international governing body for soccer, said Thursday that it had been subject to a cyberattack that resulted in a “limited set of personal and..."
+ },
+ {
+  "id": "2c83b8f105",
+  "title": "Faculty members adapt to cyberattack effects, cite lack of clarity",
+  "source": "The Vanderbilt Hustler",
+  "date": "8 hours ago",
+  "first": "2026-11-27T00:59+01:00",
+  "link": "https://vanderbilthustler.com/2026/11/26/faculty-members-adapt-to-cyberattack-effects-cite-lack-of-clarity/",
+  "snippet": "With Vanderbilt announcing cloud-saved files in OneDrive will not be available until December, faculty members have had to adapt without access to research..."
+ },
+ {
+  "id": "d23edd2496",
+  "title": "FIFA says it has been victim of a cyberattack accessing 'personal and business information'",
+  "source": "ABC7 New York",
+  "date": "7 hours ago",
+  "first": "2026-11-27T00:59+01:00",
+  "link": "https://abc7ny.com/amp/post/fifa-says-has-been-victim-cyberattack-accessing-personal-business-information/20085852/",
+  "snippet": "ZURICH -- FIFA was the victim of a cyberattack that saw hackers gain access to what soccer's world governing body describes as a \"limited set of personal..."
+ },
+ {
   "id": "ba281e9749",
   "title": "FIFA subject of cyberattack, has ‘personal and business information’ stolen",
   "source": "The New York Times",
@@ -457,95 +511,5 @@
   "first": "2026-11-24T03:35+01:00",
   "link": "https://cybersecurityventures.com/cyberattack-targets-apple-phones-crypto-of-visitors-to-major-websites/",
   "snippet": "This week in cybersecurity from the editors at Cybercrime Magazine."
- },
- {
-  "id": "2e92de5c4e",
-  "title": "Here's Why Data Breach Disclosure is so Hard: Lessons from Hundreds of Emails with Hacked Companies",
-  "source": "Troy Hunt",
-  "date": "6 hours ago",
-  "first": "2026-11-23T14:39+01:00",
-  "link": "https://www.troyhunt.com/heres-why-data-breach-disclosure-is-so-hard-lessons-from-hundreds-of-emails-with-hacked-companies/",
-  "snippet": "When I asked Claude to write the blog post below, I already knew what was in the messages it would read. Hundreds of emails back and forth with companies..."
- },
- {
-  "id": "3f6bcce09e",
-  "title": "Important Notice of Data Breach for ECM/HOME Team Clients",
-  "source": "Nevada County (.gov)",
-  "date": "14 hours ago",
-  "first": "2026-11-23T14:39+01:00",
-  "link": "http://www.nevadacountyca.gov/m/newsflash/Home/Detail/9006",
-  "snippet": "What Happened? On October 16th 2026 Nevada County Behavioral Health discovered that the Release of Information (ROI) form used by its Enhanced Care..."
- },
- {
-  "id": "577f908089",
-  "title": "Next Supplier Hit by Cyberattack in Latest UK Retail Breach",
-  "source": "Bloomberg.com",
-  "date": "1 hour ago",
-  "first": "2026-11-23T14:39+01:00",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-23/next-supplier-hit-by-cyberattack-in-latest-uk-retail-breach",
-  "snippet": "Next Plc said an online supplier suffered a breach that allowed unauthorized access to certain data relating to the retailer, the latest in a string of UK..."
- },
- {
-  "id": "1442ea9c40",
-  "title": "China-backed hackers suspected behind EU Commission cyberattack",
-  "source": "Euronews.com",
-  "date": "2 hours ago",
-  "first": "2026-11-23T14:39+01:00",
-  "link": "https://www.euronews.com/2026/11/23/exclusive-china-backed-hackers-suspected-behind-ongoing-eu-commission-cyberattack",
-  "snippet": "The European Commission suspects a China-backed hacking group is behind a cyberattack that has hit its systems for a month and is still ongoing."
- },
- {
-  "id": "e9c0cf57f9",
-  "title": "EU Commission confirms personal data leak after cyberattack, warns of further disruption",
-  "source": "POLITICO.eu",
-  "date": "32 minutes ago",
-  "first": "2026-11-23T14:39+01:00",
-  "link": "https://www.politico.eu/article/european-commission-personal-data-leak-cyberattack-disruption/",
-  "snippet": "Names and email addresses were leaked in the cyberattack, according to one EU official, who warned that the full extent of the breach remains unclear."
- },
- {
-  "id": "547d9df6fb",
-  "title": "Ransomware attacks surge 38% in Q3 2026 as vulnerability exploitation doubles to 28%",
-  "source": "Beinsure",
-  "date": "12 minutes ago",
-  "first": "2026-11-23T14:39+01:00",
-  "link": "https://beinsure.com/news/ransomware-attacks-surge-as-vulnerability-exploitation-doubles/",
-  "snippet": "Beazley Security reported a 38% increase in ransomware incidents during the third quarter of 2026, alongside a sharp rise in attacks exploiting software..."
- },
- {
-  "id": "05758d8936",
-  "title": "Delta recovers from flight delays as FBI investigates potential cyberattack",
-  "source": "41NBC News",
-  "date": "1 hour ago",
-  "first": "2026-11-23T14:39+01:00",
-  "link": "https://www.41nbc.com/delta-flight-delays-fbi-cyberattack-technology-outages/",
-  "snippet": "Delta restores operations after a technology outage delays more than 1000 flights as the FBI investigates a possible breach of a law enforcement database."
- },
- {
-  "id": "6682d35e4f",
-  "title": "European Commission warns EU Academy users of data leak after AI-driven cyberattack",
-  "source": "AP News",
-  "date": "16 minutes ago",
-  "first": "2026-11-23T14:39+01:00",
-  "link": "https://apnews.com/article/european-commission-cyberattack-website-artex-ai-02e1f69e46ad9f82484b66b2f86df53b",
-  "snippet": "The European Commission is warning of a data leak from a major AI-generated cyberattack on its EU Academy website."
- },
- {
-  "id": "fb758a1717",
-  "title": "Major cyberattack hits IT systems at Guadeloupe university hospital",
-  "source": "RFI",
-  "date": "3 hours ago",
-  "first": "2026-11-23T14:39+01:00",
-  "link": "https://www.rfi.fr/en/france/20261123-major-cyberattack-hits-it-systems-at-guadeloupe-university-hospital",
-  "snippet": "A major cyberattack has disrupted the university hospital in the French overseas department of Guadeloupe, affecting its operations and forcing it to..."
- },
- {
-  "id": "b5e485f431",
-  "title": "Data breach notice in your mailbox? Why ignoring it could cost you",
-  "source": "Boston 25 News",
-  "date": "2 hours ago",
-  "first": "2026-11-23T14:39+01:00",
-  "link": "https://www.boston25news.com/news/local/data-breach-notice-your-mailbox-why-ignoring-it-could-cost-you/B75EEVAUDFEATGCKGZLKKQVPBU/",
-  "snippet": "Many of us have received an email or a letter in the mail saying our personal information was compromised in a data breach. Most people toss it and go about..."
  }
 ]
