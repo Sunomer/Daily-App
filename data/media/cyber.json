@@ -1,5 +1,95 @@
 [
  {
+  "id": "ba281e9749",
+  "title": "FIFA subject of cyberattack, has ‘personal and business information’ stolen",
+  "source": "The New York Times",
+  "date": "2 hours ago",
+  "first": "2026-11-26T14:08+01:00",
+  "link": "https://www.nytimes.com/athletic/7813984/2026/11/26/fifa-hack-cyberattack/",
+  "snippet": "FIFA has confirmed it has been the victim of a cyberattack after a group managed to gain access to its data by impersonating staff."
+ },
+ {
+  "id": "aef8c2ca5d",
+  "title": "FIFA hit by cyberattack as hackers access ‘personal and business information’",
+  "source": "NBC News",
+  "date": "35 minutes ago",
+  "first": "2026-11-26T14:08+01:00",
+  "link": "https://www.nbcnews.com/sports/soccer/fifa-hit-cyberattack-hackers-access-personal-business-information-rcna611426",
+  "snippet": "Last week, a group calling itself the Handsome Boy Hacking Club posted a screenshot on X of what it claimed were FIFA files."
+ },
+ {
+  "id": "9fef03c442",
+  "title": "Data recovery firm co-founder accused of cashing in on ransomware victims",
+  "source": "Help Net Security",
+  "date": "3 hours ago",
+  "first": "2026-11-26T14:08+01:00",
+  "link": "https://www.helpnetsecurity.com/2026/11/26/ransomware-recovery-fraud-florida-firm-co-founder-charged/",
+  "snippet": "A Florida data recovery firm's co-founder is charged with fraud for allegedly paying ransomware gangs in secret and overcharging victims."
+ },
+ {
+  "id": "3cc5a70a68",
+  "title": "Cardiology Associates of Mobile and Teklinks Pay $1.25M to Settle Data Breach Lawsuit",
+  "source": "The HIPAA Journal",
+  "date": "2 hours ago",
+  "first": "2026-11-26T14:08+01:00",
+  "link": "https://www.hipaajournal.com/cardiology-associates-mobile-teklinks-data-breach-settlement/",
+  "snippet": "Cardiology Associates of Mobile and its IT service provider, Teklinks, Inc., have agreed to pay $1250000 to settle a class action lawsuit stemming from..."
+ },
+ {
+  "id": "58e0339a89",
+  "title": "1Password Data Breach: What Was Taken and What Was Not",
+  "source": "Cyber Magazine",
+  "date": "1 hour ago",
+  "first": "2026-11-26T14:08+01:00",
+  "link": "https://cybermagazine.com/news/1password-data-breach-what-was-taken-and-what-was-not",
+  "snippet": "SafePoint CEO Alek Pirkhalo says the 1Password attacker 'didn't get a single password' but one GitHub account was enough to reach backend systems."
+ },
+ {
+  "id": "6cddbe5ef5",
+  "title": "StanChart’s Crypto Custody Unit Suffers Data Breach",
+  "source": "Bloomberg.com",
+  "date": "44 minutes ago",
+  "first": "2026-11-26T14:08+01:00",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-26/stanchart-s-crypto-custody-unit-suffers-data-breach",
+  "snippet": "Standard Chartered's crypto custody subsidiary Zodia Custody Ltd. said it had suffered a security breach, exposing some client and staff information."
+ },
+ {
+  "id": "c4d229d3c3",
+  "title": "FIFA hit by cyberattack as hackers gain access to personal and business data",
+  "source": "ESPN",
+  "date": "1 hour ago",
+  "first": "2026-11-26T14:08+01:00",
+  "link": "https://www.espn.com/soccer/story/_/id/50603612/fifa-cyber-attack",
+  "snippet": "FIFA has been hit by a criminal cyberattack in which hackers gained access to personal and business information. Sources have told ESPN the hack accounted..."
+ },
+ {
+  "id": "1d7cc538e6",
+  "title": "FIFA confirms cyberattack as hacking group claims theft of sensitive data: Report",
+  "source": "Anadolu Ajansı",
+  "date": "1 hour ago",
+  "first": "2026-11-26T14:08+01:00",
+  "link": "https://www.aa.com.tr/en/sports/fifa-confirms-cyberattack-as-hacking-group-claims-theft-of-sensitive-data-report/4138680",
+  "snippet": "Group claims it stole more than 12 gigabytes of files, including identity records, financial information and internal governance documents / Anadolu."
+ },
+ {
+  "id": "7162ddac67",
+  "title": "FIFA says personal and business information stolen in cyberattack",
+  "source": "Al Jazeera",
+  "date": "35 minutes ago",
+  "first": "2026-11-26T14:08+01:00",
+  "link": "https://www.aljazeera.com/sports/2026/11/26/fifa-says-personal-and-business-information-stolen-in-cyberattack",
+  "snippet": "FIFA sources say no files from the abandoned FIFA Forward Enterprise project were accessed."
+ },
+ {
+  "id": "50b85e0b5f",
+  "title": "Ransomware recovery exec accused of defrauding victims",
+  "source": "IT Pro",
+  "date": "1 hour ago",
+  "first": "2026-11-26T14:08+01:00",
+  "link": "https://www.itpro.com/cyber-resilience/ransomware/ransomware-recovery-exec-accused-of-defrauding-victims",
+  "snippet": "A security company lied about being able to decrypt ransomware, according to US lawmakers, and instead just paid the ransom. The US Department of Justice..."
+ },
+ {
   "id": "d21d3f727d",
   "title": "The US Government Is Under AI Cyberattack",
   "source": "Forbes",
