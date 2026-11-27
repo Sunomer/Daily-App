@@ -1,5 +1,95 @@
 [
  {
+  "id": "395637d6b4",
+  "title": "Global news agency AFP reports cyberattack, shuts down content platform",
+  "source": "Al Jazeera",
+  "date": "1 hour ago",
+  "first": "2026-11-27T14:06+01:00",
+  "link": "https://www.aljazeera.com/news/2026/11/27/global-news-agency-afp-reports-cyberattack-shuts-down-content-platform",
+  "snippet": "France's cybersecurity chief urges collective action to combat unprecedented threat levels in the nation."
+ },
+ {
+  "id": "62ce00fb3a",
+  "title": "SAP Confirms Cyberattack, Source Code Reportedly Compromised",
+  "source": "SecurityWeek",
+  "date": "6 hours ago",
+  "first": "2026-11-27T14:06+01:00",
+  "link": "https://www.securityweek.com/sap-confirms-cyberattack-source-code-reportedly-compromised/",
+  "snippet": "SAP is investigating suspicious GitHub activity after reports that hackers stole employee tokens and tampered with its source code."
+ },
+ {
+  "id": "88c0374dcc",
+  "title": "Booba ransomware spreads from US water treatment plant to local government network, exposing IT/OT network security gap",
+  "source": "Industrial Cyber",
+  "date": "5 hours ago",
+  "first": "2026-11-27T14:06+01:00",
+  "link": "https://industrialcyber.co/threats-attacks/booba-ransomware-spreads-from-us-water-treatment-plant-to-local-government-network-exposing-it-ot-network-security-gap/",
+  "snippet": "New data from ThreatDown reported that Booba ransomware hit an East Coast water treatment plant in November and then spread to the network of the local..."
+ },
+ {
+  "id": "ca9ac51e0f",
+  "title": "FIFA Data Breach: Social Engineering Exposes Brand Risk",
+  "source": "Cyber Magazine",
+  "date": "22 minutes ago",
+  "first": "2026-11-27T14:06+01:00",
+  "link": "https://cybermagazine.com/news/fifa-data-breach-social-engineering-exposes-brand-risk",
+  "snippet": "Mishcon de Reya Partner Joe Hancock says the FIFA cyberattack has 'the hallmarks of hacking for renown and recognition' as breach exposes business data."
+ },
+ {
+  "id": "66edbd8fd4",
+  "title": "USDA cyberattack knocks out farm loan systems for a week",
+  "source": "Farm Progress",
+  "date": "1 hour ago",
+  "first": "2026-11-27T14:06+01:00",
+  "link": "https://www.farmprogress.com/tv-and-radio/usda-cyberattack-knocks-out-farm-loan-systems-for-a-week",
+  "snippet": "Security incident briefly disrupted FSA loans and conservation payments, but USDA says farmer data remained safe throughout the outage."
+ },
+ {
+  "id": "3e6c0975b1",
+  "title": "Flight Centre Travel Group warns of customer data breach involving some passport details",
+  "source": "Help Net Security",
+  "date": "4 hours ago",
+  "first": "2026-11-27T14:06+01:00",
+  "link": "https://www.helpnetsecurity.com/2026/11/27/flight-centre-travel-group-data-breach-booking-system/",
+  "snippet": "Travellers who booked accommodation through Flight Centre and several of its leisure brands may have had their names, and in rare cases passport and health..."
+ },
+ {
+  "id": "1e7c0dabfb",
+  "title": "FIFA says it has been victim of a cyberattack",
+  "source": "ABC7 Chicago",
+  "date": "1 hour ago",
+  "first": "2026-11-27T14:06+01:00",
+  "link": "https://abc7chicago.com/videoClip/20089903/",
+  "snippet": "FIFA says it has been victim of a cyberattack. WLS logo. Friday, November 27, 2026 3:45AM. FIFA says it has been victim of a cyberattack."
+ },
+ {
+  "id": "46cfafaf3e",
+  "title": "Denmark arrests teenager over data breach affecting 11,000 people",
+  "source": "Euronews.com",
+  "date": "5 hours ago",
+  "first": "2026-11-27T14:06+01:00",
+  "link": "https://www.euronews.com/2026/11/27/denmark-arrests-teenager-over-data-breach-affecting-11000-people",
+  "snippet": "An 18-year-old has been detained over the latest breach of Denmark's national civil registry, two months after a separate cyberattack exposed data linked to..."
+ },
+ {
+  "id": "ebe23231c5",
+  "title": "FIFA targeted by cyberattack",
+  "source": "NBC News",
+  "date": "2 hours ago",
+  "first": "2026-11-27T14:06+01:00",
+  "link": "https://www.nbcnews.com/video/shorts/fifa-targeted-by-cyberattack-274254917908",
+  "snippet": "U.S. troops based in Poland get a taste of Thanksgiving. 00:53. Severe storms disrupt Thanksgiving travel across the country."
+ },
+ {
+  "id": "29f721a2b1",
+  "title": "FIFA data breach exposes personal and business information",
+  "source": "Bitdefender",
+  "date": "4 hours ago",
+  "first": "2026-11-27T14:06+01:00",
+  "link": "https://www.bitdefender.com/en-us/blog/hotforsecurity/fifa-data-breach-2026",
+  "snippet": "FIFA confirms a data breach. Hackers claim they stole more than 12GB of files. It remains unclear whether football fans were affected."
+ },
+ {
   "id": "c545a52890",
   "title": "FIFA confirms personal, business data stolen in cyberattack",
   "source": "Field Level Media",
@@ -421,95 +511,5 @@
   "first": "2026-11-24T15:16+01:00",
   "link": "https://www.insurancebusinessmag.com/us/news/cyber/retail-ranks-among-leastinsured-sectors-as-ransomware-attacks-peak-598539.aspx",
   "snippet": "Ransomware attacks targeting retail businesses spike 50% in November compared to any other month of the year, according to claims data published by CFC,..."
- },
- {
-  "id": "930d0c8e5a",
-  "title": "Suspected cyberattack targets City of El Cajon",
-  "source": "NBC 7 San Diego",
-  "date": "2 hours ago",
-  "first": "2026-11-24T03:35+01:00",
-  "link": "https://www.nbcsandiego.com/news/local/suspected-cyberattack-targets-city-el-cajon/4105754/",
-  "snippet": "A cache of city data has seemingly appeared on a ransomware leak site, as the city confirms a \"network security incident.\"..."
- },
- {
-  "id": "59335fcda7",
-  "title": "Cyberattack attempt at Algonquin, Illinois Dam raises concerns about infrastructure security",
-  "source": "ABC7 Chicago",
-  "date": "2 hours ago",
-  "first": "2026-11-24T03:35+01:00",
-  "link": "https://abc7chicago.com/post/cyberattack-attempt-algonquin-illinois-dam-raises-concerns-infrastructure-security/20072013/",
-  "snippet": "ALGONQUIN, Ill. (WLS) -- A cyberattack attempt targeting the Algonquin Dam along the Fox River has raised questions about the security of critical..."
- },
- {
-  "id": "5e9db5537b",
-  "title": "Behind the Alias: How One Researcher Unmasked a Decade of Ransomware Actors",
-  "source": "Dark Reading",
-  "date": "5 hours ago",
-  "first": "2026-11-24T03:35+01:00",
-  "link": "https://www.darkreading.com/cybersecurity-operations/alias-researcher-unmasked-ransomware-actors",
-  "snippet": "Ransomware isn't slowing down. A new framework gives security teams the edge to trace attackers back to their source."
- },
- {
-  "id": "4785ee3ea0",
-  "title": "Google says the first autonomous AI cyberattack has happened. Expect a lot more like it.",
-  "source": "Mashable",
-  "date": "2 hours ago",
-  "first": "2026-11-24T03:35+01:00",
-  "link": "https://mashable.com/tech/google-says-first-autonomous-ai-cyberattack-has-happened",
-  "snippet": "Google Threat Intelligence has uncovered a fully autonomous AI cyberattack and detailed exactly how it went down."
- },
- {
-  "id": "4ca5a6cc42",
-  "title": "FBI reportedly facing second data breach involving National Crime Information Center",
-  "source": "The Record from Recorded Future News",
-  "date": "8 hours ago",
-  "first": "2026-11-24T03:35+01:00",
-  "link": "https://therecord.media/fbi-cyberattack-data-breach",
-  "snippet": "The FBI is reportedly investigating a data breach involving the National Crime Information Center, a database used by U.S. law enforcement agencies that..."
- },
- {
-  "id": "5a5c205cc4",
-  "title": "Reports: USDA hit with cyberattack, GAO report cites security concerns",
-  "source": "Michigan Farm News",
-  "date": "7 hours ago",
-  "first": "2026-11-24T03:35+01:00",
-  "link": "https://www.michiganfarmnews.com/about/news-media/reports-usda-hit-cyberattack-gao-report-cites-security-concerns",
-  "snippet": "Several USDA systems were subject to a cybersecurity incident last week according to multiple media reports that cite sources within the department."
- },
- {
-  "id": "e632805ccb",
-  "title": "GoFundMe says donor information was exposed in data breach",
-  "source": "10TV",
-  "date": "5 hours ago",
-  "first": "2026-11-24T03:35+01:00",
-  "link": "https://www.10tv.com/article/news/nation-world/gofundme-data-breach-donor-data-nonprofits/507-6efe578f-8a12-49f8-88d3-90bcc948b1b1",
-  "snippet": "WASHINGTON — GoFundMe is investigating a security incident in which it says information from some nonprofits may have been compromised."
- },
- {
-  "id": "b9bad7a237",
-  "title": "Luxury dealer sues At-Bay over $4M ransomware coverage gap",
-  "source": "Insurance Business",
-  "date": "5 hours ago",
-  "first": "2026-11-24T03:35+01:00",
-  "link": "https://www.insurancebusinessmag.com/us/news/risk-compliance-legal/luxury-dealer-sues-atbay-over-4m-ransomware-coverage-gap-598450.aspx",
-  "snippet": "Warren Henry Automobiles sues cyber insurer At-Bay, alleging it misclassified JLR ransomware losses to cap the payout at $1M instead of $5M."
- },
- {
-  "id": "35bfdeac3b",
-  "title": "South Korea probes data breach affecting 1.52 million at KEPCO",
-  "source": "upi",
-  "date": "1 hour ago",
-  "first": "2026-11-24T03:35+01:00",
-  "link": "https://www.upi.com/Top_News/World-News/2026/11/23/kepco-data-breach-cybersecurity/9451795481298/",
-  "snippet": "South Korea's privacy regulator is investigating a KEPCO data breach involving about 1.52 million users, including sensitive identity details."
- },
- {
-  "id": "80da5e9c14",
-  "title": "Cyberattack Targets Apple Phones, Crypto of Visitors to Major Websites",
-  "source": "Cybercrime Magazine",
-  "date": "13 hours ago",
-  "first": "2026-11-24T03:35+01:00",
-  "link": "https://cybersecurityventures.com/cyberattack-targets-apple-phones-crypto-of-visitors-to-major-websites/",
-  "snippet": "This week in cybersecurity from the editors at Cybercrime Magazine."
  }
 ]
