@@ -1,5 +1,59 @@
 [
  {
+  "id": "7cdcb3469b",
+  "title": "US air force’s computer system hit by cyberattack",
+  "source": "The Times",
+  "date": "8 hours ago",
+  "first": "2026-11-28T00:44+01:00",
+  "link": "https://www.thetimes.com/us/american-politics/article/us-air-force-cloud-one-breach-hacked-grf0pkdk6",
+  "snippet": "The breaching of the Cloud One platform will raise fears that hackers can breach even the Pentagon's most secure defences using AI."
+ },
+ {
+  "id": "5224a7e391",
+  "title": "Air Force's cloud computing platform hacked in latest cyberattack on federal assets",
+  "source": "WRAL",
+  "date": "5 hours ago",
+  "first": "2026-11-28T00:44+01:00",
+  "link": "https://www.wral.com/news/ap/air-force-cloud-computing-platform-hacked-latest-cyberattack-federal-assets-november-2026/",
+  "snippet": "The Air Force's cloud computing platform has been hacked in a breach that could have exposed sensitive military information. NBC News reported that a U.S...."
+ },
+ {
+  "id": "bd85d55b17",
+  "title": "Ransomware Attacks Spike 23% in October with Recovery Taking Weeks",
+  "source": "The HIPAA Journal",
+  "date": "6 hours ago",
+  "first": "2026-11-28T00:44+01:00",
+  "link": "https://www.hipaajournal.com/ransomware-attacks-spike-23-recovery-taking-weeks/",
+  "snippet": "A recent analysis of ransomware attacks has revealed that while the digital forensic investigation is often completed within 48 hours of an attack,..."
+ },
+ {
+  "id": "b8e91a880e",
+  "title": "Cyber Attack News: SAP Source Code Leak, UK Pension Administration Breach and Booba Ransomware Attack on Water Treatment Facility",
+  "source": "Cybersecurity Insiders",
+  "date": "8 hours ago",
+  "first": "2026-11-28T00:44+01:00",
+  "link": "https://www.cybersecurity-insiders.com/cyber-attack-news-sap-source-code-leak-uk-pension-administration-breach-and-booba-ransomware-attack-on-water-treatment-facility/",
+  "snippet": "Recent reports highlight three significant incidents involving German software giant SAP, Britain's pension administration systems, and a ransomware attack…"
+ },
+ {
+  "id": "8efbf07e2f",
+  "title": "Hackers Breach U.S. Air Force Cloud in Latest High-Profile Cyberattack",
+  "source": "The Information",
+  "date": "6 hours ago",
+  "first": "2026-11-28T00:44+01:00",
+  "link": "https://www.theinformation.com/briefings/hackers-breach-u-s-air-force-cloud-latest-high-profile-cyberattack",
+  "snippet": "The U.S. Air Force in recent weeks discovered that cyberattackers breached Cloud One, an internal cloud computing platform it uses to run applications that..."
+ },
+ {
+  "id": "724ddf06e3",
+  "title": "myColorado app cyberattack affects 100,000 users; Hundreds without power on Thanksgiving",
+  "source": "KGNU",
+  "date": "7 hours ago",
+  "first": "2026-11-28T00:44+01:00",
+  "link": "https://kgnu.org/mycolorado-app-cyberattack-affects-100000-users-hundreds-without-power-on-thanksgiving/",
+  "snippet": "State IT staff are working to notify everyone whose data was affected by a cyberattack on the myColorado app last week. Currently, the state estimates that..."
+ },
+ {
   "id": "395637d6b4",
   "title": "Global news agency AFP reports cyberattack, shuts down content platform",
   "source": "Al Jazeera",
@@ -448,68 +502,5 @@
   "first": "2026-11-25T01:06+01:00",
   "link": "https://www.wisn.com/article/unclassified-cia-system-breached-cyberattack/74523336",
   "snippet": "An unclassified CIA system handling open source intelligence was breached in a cyberattack, according to reports and U.S. officials."
- },
- {
-  "id": "f3a43b3954",
-  "title": "1.5 Million Impacted by Data Breach at South Korean Electric Company KEPCO",
-  "source": "SecurityWeek",
-  "date": "2 hours ago",
-  "first": "2026-11-24T15:16+01:00",
-  "link": "https://www.securityweek.com/1-5-million-impacted-by-data-breach-at-south-korean-electric-company-kepco/",
-  "snippet": "Hackers stole the personal information of 1.5 million people from KEPCO's customer portal and supplier relationship management platform."
- },
- {
-  "id": "0dcf600d68",
-  "title": "Ransomware gangs keep multiplying, even as fewer victims pay",
-  "source": "Help Net Security",
-  "date": "8 hours ago",
-  "first": "2026-11-24T15:16+01:00",
-  "link": "https://www.helpnetsecurity.com/2026/11/24/check-point-ransomware-attacks-q3-2026-report/",
-  "snippet": "Ransomware attacks in Q3 2026 hit record highs, with 2830 victims, more active groups and fewer victims paying ransom demands."
- },
- {
-  "id": "f683fcf9b0",
-  "title": "Colla Health Data Breach Affects 336K Individuals",
-  "source": "The HIPAA Journal",
-  "date": "3 hours ago",
-  "first": "2026-11-24T15:16+01:00",
-  "link": "https://www.hipaajournal.com/colla-health-bausch-health-opn-healthcare-data-breaches/",
-  "snippet": "A data breach at Colla Health has affected more than 336400 individuals. Data breaches have also been announced by Bausch Health Companies and OPN A data..."
- },
- {
-  "id": "729749aeec",
-  "title": "Rapid7: How NEXT Data Breach Exposes Retail Supplier Risk",
-  "source": "Cyber Magazine",
-  "date": "2 hours ago",
-  "first": "2026-11-24T15:16+01:00",
-  "link": "https://cybermagazine.com/news/next-data-breach-shows-why-supplier-security-matters",
-  "snippet": "Rapid7's Alan Simpson says suppliers often have \"more access than they need\" as NEXT confirms a third-party cyber incident."
- },
- {
-  "id": "d80373ada2",
-  "title": "Revealed: SJP hit by ransomware cyberattack",
-  "source": "Citywire",
-  "date": "4 hours ago",
-  "first": "2026-11-24T15:16+01:00",
-  "link": "https://citywire.com/new-model-adviser/news/revealed-sjp-hit-by-ransomware-cyberattack/a2504124",
-  "snippet": "The targeting of the £240bn advice group comes after a trio of other advice firms have been hit by cyberattacks in recent weeks."
- },
- {
-  "id": "d12f10b8a3",
-  "title": "Queens Public Library restores nearly all services after ransomware attack",
-  "source": "Spectrum News NY1",
-  "date": "7 minutes ago",
-  "first": "2026-11-24T15:16+01:00",
-  "link": "https://ny1.com/nyc/all-boroughs/mornings-on-1/2026/11/24/queens-public-library-restores-nearly-all-services-following-ransomware-attack",
-  "snippet": "The Queens Public Library has finally been able to restore its services after being targeted in a cyberattack earlier this month."
- },
- {
-  "id": "71148d9041",
-  "title": "Retail ranks among least-insured sectors as ransomware attacks peak",
-  "source": "Insurance Business",
-  "date": "6 hours ago",
-  "first": "2026-11-24T15:16+01:00",
-  "link": "https://www.insurancebusinessmag.com/us/news/cyber/retail-ranks-among-leastinsured-sectors-as-ransomware-attacks-peak-598539.aspx",
-  "snippet": "Ransomware attacks targeting retail businesses spike 50% in November compared to any other month of the year, according to claims data published by CFC,..."
  }
 ]
